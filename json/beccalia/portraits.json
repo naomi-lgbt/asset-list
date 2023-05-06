@@ -1,50 +1,58 @@
 [
     {
         "fileName": "moonlight.png",
-        "artName": "Untitled",
+        "name": "Untitled",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "Banner art for Beccalia."
     },
     {
         "fileName": "dance.png",
-        "artName": "Dance",
+        "name": "Dance",
         "artist": "Starfazers",
-        "artistUrl": "https://starfazers.art/"
+        "url": "https://starfazers.art/",
+        "alt": "Rosalia hugging Becca from behind, dancing her around."
     },
     {
         "fileName": "banner.jpg",
-        "artName": "Banner",
+        "name": "Banner",
         "artist": "Lena",
-        "artistUrl": "https://twitter.com/lena_smith11"
+        "url": "https://twitter.com/lena_smith11",
+        "alt": "Close up of Rosalia and Becca wearing evening gowns, looking fancy for a date night."
     },
     {
         "fileName": "a-night-out.jpg",
-        "artName": "A Night Out",
+        "name": "A Night Out",
         "artist": "Lena",
-        "artistUrl": "https://twitter.com/lena_smith11"
+        "url": "https://twitter.com/lena_smith11",
+        "alt": "Rosalia and Becca wearing evening gowns, looking fancy for a date night."
     },
     {
         "fileName": "evening-snuggle.jpg",
-        "artName": "Evening Snuggle",
+        "name": "Evening Snuggle",
         "artist": "Sherhan",
-        "artistUrl": "https://twitter.com/sherhan3666"
+        "url": "https://twitter.com/sherhan3666",
+        "alt": "Becca and Rosalia snuggling in bed."
     },
     {
         "fileName": "relaxation.png",
-        "artName": "Relaxation",
+        "name": "Relaxation",
         "artist": "claudoodles",
-        "artistUrl": "https://twitter.com/claudoodles_"
+        "url": "https://twitter.com/claudoodles_",
+        "alt": "Becca and Rosalia sitting on a bed of flowers, Becca's head on Rosalia's shoulders."
     },
     {
         "fileName": "wedding-day.png",
-        "artName": "Wedding Day",
+        "name": "Wedding Day",
         "artist": "Starfazers",
-        "artistUrl": "https://starfazers.art/"
+        "url": "https://starfazers.art/",
+        "alt": "Rosalia and Becca on the day they got married."
     },
     {
         "fileName": "beach.png",
-        "artName": "A Day at the Beach",
+        "name": "A Day at the Beach",
         "artist": "Devonxy1",
-        "artistUrl": "https://twitter.com/Devonxy1"
+        "url": "https://twitter.com/Devonxy1",
+        "alt": "Rosalia and Becca in bikinis, relaxing on the beach."
     }
 ]
