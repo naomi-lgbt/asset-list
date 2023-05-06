@@ -1,134 +1,156 @@
 [
     {
         "fileName": "moonlight1.jpg",
-        "artName": "And I Wake Up Falling",
+        "name": "And I Wake Up Falling",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "Rosalia in her typical robe, falling backwards."
     },
     {
         "fileName": "moonlight2.png",
-        "artName": "Cover",
+        "name": "Cover",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "Rosalia surrounded by white feathers."
     },
     {
         "fileName": "moonlight3.png",
-        "artName": "Dance of the Dove",
+        "name": "Dance of the Dove",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "Rosalia proceeding down a castle hallway."
     },
     {
         "fileName": "moonlight4.png",
-        "artName": "Delicate Angel",
+        "name": "Delicate Angel",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "Rosalia leaning back, her legs in the air."
     },
     {
         "fileName": "moonlight5.png",
-        "artName": "Disbelief",
+        "name": "Disbelief",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "Rosalia defeated in battle, covered in blood."
     },
     {
         "fileName": "moonlight6.jpg",
-        "artName": "Entangled Emotions",
+        "name": "Entangled Emotions",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "Rosalia performing a jump strike."
     },
     {
         "fileName": "moonlight7.jpg",
-        "artName": "Follow Me",
+        "name": "Follow Me",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "Rosalia in a lace dress."
     },
     {
         "fileName": "moonlight8.jpg",
-        "artName": "Oasis",
+        "name": "Oasis",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "Rosalia on the beach, wearing a blue and white bikini."
     },
     {
         "fileName": "moonlight9.jpg",
-        "artName": "Rosalia",
+        "name": "Rosalia",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "Rosalia wearing her standard white robe."
     },
     {
         "fileName": "moonlight10.jpg",
-        "artName": "Soar",
+        "name": "Soar",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "Rosalia looking blissful."
     },
     {
         "fileName": "moonlight11.jpg",
-        "artName": "Song of the Nightingale",
+        "name": "Song of the Nightingale",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "Rosalia brandishing her sword, ready to fight."
     },
     {
         "fileName": "moonlight12.png",
-        "artName": "The Beautiful Question",
+        "name": "The Beautiful Question",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "Rosalia on her hands and knees, an inquisitive look on her face."
     },
     {
         "fileName": "ashley.jpg",
-        "artName": "Warrior",
+        "name": "Warrior",
         "artist": "Ashley Shaw",
-        "artistUrl": "https://www.instagram.com/tbg_art/"
+        "url": "https://www.instagram.com/tbg_art/",
+        "alt": "Rosalia in the woods with her sword."
     },
     {
         "fileName": "our-playful-hero.jpg",
-        "artName": "Our Playful Hero",
+        "name": "Our Playful Hero",
         "artist": "unknown",
-        "artistUrl": "https://www.rosalianightsong.com"
+        "url": "https://www.rosalianightsong.com",
+        "alt": "Rosalia resting on her sword, smiling."
     },
     {
         "fileName": "between-the-raindrops.jpg",
-        "artName": "Between the Raindrops",
+        "name": "Between the Raindrops",
         "artist": "unknown",
-        "artistUrl": "https://www.rosalianightsong.com"
+        "url": "https://www.rosalianightsong.com",
+        "alt": "Rosalia standing in the rain in a dark forest."
     },
     {
         "fileName": "sunday-best.jpg",
-        "artName": "Sunday Best",
+        "name": "Sunday Best",
         "artist": "unknown",
-        "artistUrl": "https://www.rosalianightsong.com"
+        "url": "https://www.rosalianightsong.com",
+        "alt": "Young Rosalia, wearing a frilled white dress, sitting down."
     },
     {
         "fileName": "will-of-the-heart.jpg",
-        "artName": "Will of the Heart",
+        "name": "Will of the Heart",
         "artist": "unknown",
-        "artistUrl": "https://www.rosalianightsong.com"
+        "url": "https://www.rosalianightsong.com",
+        "alt": "Rosalia using her magic to create a glowing green heart."
     },
     {
         "fileName": "untitled.jpg",
-        "artName": "Divine Elegance",
+        "name": "Divine Elegance",
         "artist": "unknown",
-        "artistUrl": "https://www.rosalianightsong.com"
+        "url": "https://www.rosalianightsong.com",
+        "alt": "Rosalia wearing a nice robe."
     },
     {
         "fileName": "gateway-of-roses.jpg",
-        "artName": "Gateway of Roses",
+        "name": "Gateway of Roses",
         "artist": "unknown",
-        "artistUrl": "https://www.rosalianightsong.com"
+        "url": "https://www.rosalianightsong.com",
+        "alt": "Rosalia standing in an archway, roses at her feet."
     },
     {
         "fileName": "untitled2.jpg",
-        "artName": "Swift Justice",
+        "name": "Swift Justice",
         "artist": "unknown",
-        "artistUrl": "https://www.rosalianightsong.com"
+        "url": "https://www.rosalianightsong.com",
+        "alt": "Rosalia preparing to strike with her sword."
     },
     {
         "fileName": "untitled3.jpg",
-        "artName": "The Sweetest Smile",
+        "name": "The Sweetest Smile",
         "artist": "unknown",
-        "artistUrl": "https://www.rosalianightsong.com"
+        "url": "https://www.rosalianightsong.com",
+        "alt": "A portrait of Rosalia."
     },
     {
         "fileName": "lena_smith11.jpg",
-        "artName": "A Night on the Town",
+        "name": "A Night on the Town",
         "artist": "Lena",
-        "artistUrl": "https://www.twitter.com/lena_smith11/"
+        "url": "https://www.twitter.com/lena_smith11/",
+        "alt": "Rosalia in an evening gown."
     }
 ]
