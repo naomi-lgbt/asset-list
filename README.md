@@ -1,16 +1,73 @@
-# New Repository Template
+# Asset List
 
-This template contains all of our basic files for a new GitHub repository. There is also a handy workflow that will create an issue on a new repository made from this template, with a checklist for the steps we usually take in setting up a new repository.
+This is just a list of assets from my CDN to be used on other websites. Nothing too exciting here.
 
-If you're starting a Node.JS project with TypeScript, we have a [specific template](https://github.com/naomi-lgbt/nodejs-typescript-template) for that purpose.
+## Data Schemas
 
-## Readme
+Data should follow these patterns:
 
-Delete all of the above text (including this line), and uncomment the below text to use our standard readme template.
+### Adventure
 
-<!-- # Project Name
+Screenshots of games.
 
-Project Description
+```ts
+{
+  fileName: string;
+  game: string;
+}
+[];
+```
+
+### Emotes
+
+Custom emotes for Discord.
+
+```ts
+{
+  fileName: string;
+  name: string;
+}
+[];
+```
+
+### Outfits
+
+Outfits for my model.
+
+```ts
+{
+    name: string;
+    fileName: string;
+    description: string;
+    alt: string;
+    credits: {
+        [key: string]: string;
+    }
+}[];
+```
+
+### Portraits
+
+Custom art work.
+
+```ts
+{
+  fileName: string;
+  name: string;
+  artist: string;
+  url: string;
+  alt: string;
+}
+[];
+```
+
+### Poses
+
+Koikatsu scenes.
+
+```ts
+string[]
+```
 
 ## Live Version
 
@@ -40,4 +97,4 @@ The full license terms may be viewed in the [LICENSE.md file](./LICENSE.md)
 
 ## Contact
 
-We may be contacted through our [Chat Server](http://chat.nhcarrigan.com) or via email at `contact@nhcarrigan.com`. -->
+We may be contacted through our [Chat Server](http://chat.nhcarrigan.com) or via email at `contact@nhcarrigan.com`.
