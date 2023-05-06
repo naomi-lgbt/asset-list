@@ -68,7 +68,7 @@ suite("Outfit schemas", () => {
   }
 });
 
-suite.only("Portraits schemas", () => {
+suite("Portraits schemas", () => {
   test("should all exist", () => {
     assert.equal(true, true);
   });
