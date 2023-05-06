@@ -1,0 +1,32 @@
+{
+  "name": "asset-list",
+  "version": "0.0.0",
+  "description": "A quick app to list the assets in my CDN ",
+  "main": "null",
+  "scripts": {
+    "lint": "eslint test --max-warnings 0",
+    "test": "ts-mocha -u tdd test/**/*.spec.ts --recursive --timeout 10000"
+  },
+  "keywords": [
+    "assets",
+    "json"
+  ],
+  "author": "Naomi Carrigan",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "@nhcarrigan/eslint-config": "1.1.2",
+    "@nhcarrigan/prettier-config": "1.0.1",
+    "@nhcarrigan/typescript-config": "1.0.1",
+    "@types/chai": "4.3.5",
+    "@types/mocha": "10.0.1",
+    "@types/node": "20.1.0",
+    "@types/xml2js": "0.4.11",
+    "chai": "4.3.7",
+    "eslint": "8.40.0",
+    "mocha": "10.2.0",
+    "prettier": "2.8.8",
+    "ts-mocha": "10.0.0",
+    "typescript": "5.0.4",
+    "xml2js": "0.5.0"
+  }
+}
