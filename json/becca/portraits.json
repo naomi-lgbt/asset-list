@@ -1,134 +1,156 @@
 [
     {
         "fileName": "Moonlight 1.png",
-        "artName": "Becca Lyria",
+        "name": "Becca Lyria",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "Banner art of Becca."
     },
     {
         "fileName": "Moonlight 3.png",
-        "artName": "A Forest Adventure",
+        "name": "A Forest Adventure",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "Becca with one eye closed, pushing through some trees in a forest, wearing a purple corset and pants."
     },
     {
         "fileName": "Moonlight 4.png",
-        "artName": "A Day at the Beach",
+        "name": "A Day at the Beach",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "Becca in a purple bikini, sunbathing on the beach."
     },
     {
         "fileName": "Moonlight 5.png",
-        "artName": "Princess Becca",
+        "name": "Princess Becca",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "Becca in a regal ballgown and tiara, her hair in a bun."
     },
     {
         "fileName": "Moonlight 6.jpg",
-        "artName": "Sketch",
+        "name": "Sketch",
         "artist": "Moonlight",
-        "artistUrl": "https://www.instagram.com/moonlightkcreations/"
+        "url": "https://www.instagram.com/moonlightkcreations/",
+        "alt": "A quick sketch of Becca with an inquisitive look on her face."
     },
     {
         "fileName": "Starfazers.png",
-        "artName": "Chilling at the Park",
+        "name": "Chilling at the Park",
         "artist": "Starfazers",
-        "artistUrl": "https://instagram.com/starfazers"
+        "url": "https://instagram.com/starfazers",
+        "alt": "Becca wearing a black corset with a mesh shawl and purple shorts, sitting on a ledge."
     },
     {
         "fileName": "Ashley.jpg",
-        "artName": "A Wink and a Kiss",
+        "name": "A Wink and a Kiss",
         "artist": "Ashley",
-        "artistUrl": "https://www.instagram.com/tbg_art/"
+        "url": "https://www.instagram.com/tbg_art/",
+        "alt": "Becca winking, lifting one of her pigtails up in her hand."
     },
     {
         "fileName": "shiroGEM.png",
-        "artName": "Ready to Fight",
+        "name": "Ready to Fight",
         "artist": "crys-chris",
-        "artistUrl": "https://crys-chris.carrd.co/"
+        "url": "https://crys-chris.carrd.co/",
+        "alt": "Becca with one hand raised, ready to fight."
     },
     {
         "fileName": "Inspector Luke Warm.png",
-        "artName": "Vitriol",
+        "name": "Vitriol",
         "artist": "Inspector Luke Warm",
-        "artistUrl": "https://www.gaiaonline.com/profiles/inspector-luke-warm/20324544/"
+        "url": "https://www.gaiaonline.com/profiles/inspector-luke-warm/20324544/",
+        "alt": "Becca with her arms crossed, giving an annoyed look."
     },
     {
         "fileName": "Dyabolus.png",
-        "artName": "Another Day",
+        "name": "Another Day",
         "artist": "Dyabolus",
-        "artistUrl": "https://www.gaiaonline.com/profiles/dyabolus/4366582/"
+        "url": "https://www.gaiaonline.com/profiles/dyabolus/4366582/",
+        "alt": "Becca wearing her typical attire."
     },
     {
         "fileName": "Euphoria-Cyrab.jpg",
-        "artName": "Dressed Up for Summer",
+        "name": "Dressed Up for Summer",
         "artist": "Unknown",
-        "artistUrl": "https://www.beccalyria.com"
+        "url": "https://www.beccalyria.com",
+        "alt": "Becca wearing a purple spaghetti strap dress with a wide ruffled skirt."
     },
     {
         "fileName": "Princess Geekfayce.png",
-        "artName": "Shy Elegance",
+        "name": "Shy Elegance",
         "artist": "Princess Geekfayce",
-        "artistUrl": "https://www.gaiaonline.com/profiles/princess-geekfayce/5671848/"
+        "url": "https://www.gaiaonline.com/profiles/princess-geekfayce/5671848/",
+        "alt": "Becca in a tight fitted strapless dress with a white top and purple skirt."
     },
     {
         "fileName": "RinHekka.png",
-        "artName": "Young Becca",
+        "name": "Young Becca",
         "artist": "EvilKingRin",
-        "artistUrl": "https://www.deviantart.com/evilkingrin"
+        "url": "https://www.deviantart.com/evilkingrin",
+        "alt": "Becca as a young teen, still wearing her typical attire."
     },
     {
         "fileName": "Ruvik Victoriano.png",
-        "artName": "Sassy Queen",
+        "name": "Sassy Queen",
         "artist": "Ruvik Victoriano",
-        "artistUrl": "https://www.gaiaonline.com/profiles/ruvik-victoriano/38974251/"
+        "url": "https://www.gaiaonline.com/profiles/ruvik-victoriano/38974251/",
+        "alt": "Becca in a purple plunging neckline dress, smoking a cigar."
     },
     {
         "fileName": "TiffanyBlueSprinkles.png",
-        "artName": "The Royal Ball",
+        "name": "The Royal Ball",
         "artist": "Tiffany",
-        "artistUrl": "https://www.instagram.com/itiffanyblue/"
+        "url": "https://www.instagram.com/itiffanyblue/",
+        "alt": "Becca in a tight fitted strapless dress with a white top and purple skirt, smoking a cigarette."
     },
     {
         "fileName": "wispur.png",
-        "artName": "Feeling Flirty",
+        "name": "Feeling Flirty",
         "artist": "Unknown",
-        "artistUrl": "https://www.beccalyria.com"
+        "url": "https://www.beccalyria.com",
+        "alt": "Becca in a purple dress, on her knees with a flirtatious look."
     },
     {
         "fileName": "Xiyara.png",
-        "artName": "Playful",
+        "name": "Playful",
         "artist": "Unknown",
-        "artistUrl": "https://www.beccalyria.com"
+        "url": "https://www.beccalyria.com",
+        "alt": "Becca in her typical dress, with a playful smile on her face."
     },
     {
         "fileName": "claudoodles.png",
-        "artName": "Shining Beauty",
+        "name": "Shining Beauty",
         "artist": "claudoodles",
-        "artistUrl": "https://twitter.com/claudoodles_"
+        "url": "https://twitter.com/claudoodles_",
+        "alt": "Becca in her typically attire, smiling with bubbles behind her."
     },
     {
         "fileName": "Lena_Smith11.jpg",
-        "artName": "A Night on the Town",
+        "name": "A Night on the Town",
         "artist": "Lena",
-        "artistUrl": "https://twitter.com/lena_smith11"
+        "url": "https://twitter.com/lena_smith11",
+        "alt": "Becca in a fancy evening dress with a black bow sash and purple gloves. Her hair is up in a ponytail."
     },
     {
         "fileName": "coffee.png",
-        "artName": "White Mocha With Extra Becca",
+        "name": "White Mocha With Extra Becca",
         "artist": "HalleyWoofs",
-        "artistUrl": "https://halleywoofs.art"
+        "url": "https://halleywoofs.art",
+        "alt": "Becca in a starbucks cup labelled White Mocha with Raspberry"
     },
     {
         "fileName": "kato_token.png",
-        "artName": "Token",
+        "name": "Token",
         "artist": "Kato",
-        "artistUrl": "https://362studios.carrd.co/"
+        "url": "https://362studios.carrd.co/",
+        "alt": "Becca as a character token for Dungeons and Dragons"
     },
     {
         "fileName": "melty-wink.jpg",
-        "artName": "Wink",
+        "name": "Wink",
         "artist": "MeltyDraws",
-        "artistUrl": "https://twitter.com/MeltyDraws"
+        "url": "https://twitter.com/MeltyDraws",
+        "alt": "Becca winking and making a peace sign with her fingers."
     }
 ]
