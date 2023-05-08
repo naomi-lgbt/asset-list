@@ -4,153 +4,175 @@
         "name": "And I Wake Up Falling",
         "artist": "Moonlight",
         "url": "https://www.instagram.com/moonlightkcreations/",
-        "alt": "Rosalia in her typical robe, falling backwards."
+        "alt": "Rosalia in her typical robe, falling backwards.",
+        "description": "The idea for this came to her in a dream, in which she found herself falling helplessly for hours."
     },
     {
         "fileName": "moonlight2.png",
         "name": "Cover",
         "artist": "Moonlight",
         "url": "https://www.instagram.com/moonlightkcreations/",
-        "alt": "Rosalia surrounded by white feathers."
+        "alt": "Rosalia surrounded by white feathers.",
+        "description": "The feathers were a sign of a blessing from her Goddess, and this was a moment she wanted to remember forever."
     },
     {
         "fileName": "moonlight3.png",
         "name": "Dance of the Dove",
         "artist": "Moonlight",
         "url": "https://www.instagram.com/moonlightkcreations/",
-        "alt": "Rosalia proceeding down a castle hallway."
+        "alt": "Rosalia proceeding down a castle hallway.",
+        "description": "Rosalia generally doesn't like looking fancy, but when the local princess invites you to a ball, there's really not much choice."
     },
     {
         "fileName": "moonlight4.png",
         "name": "Delicate Angel",
         "artist": "Moonlight",
         "url": "https://www.instagram.com/moonlightkcreations/",
-        "alt": "Rosalia leaning back, her legs in the air."
+        "alt": "Rosalia leaning back, her legs in the air.",
+        "description": "Someone told her people would love this pose - and of course, she was gullible enough to believe it."
     },
     {
         "fileName": "moonlight5.png",
         "name": "Disbelief",
         "artist": "Moonlight",
         "url": "https://www.instagram.com/moonlightkcreations/",
-        "alt": "Rosalia defeated in battle, covered in blood."
+        "alt": "Rosalia defeated in battle, covered in blood.",
+        "description": "Unused to defeat, Rosalia struggles to process the fact that someone's swordplay was better than her own."
     },
     {
         "fileName": "moonlight6.jpg",
         "name": "Entangled Emotions",
         "artist": "Moonlight",
         "url": "https://www.instagram.com/moonlightkcreations/",
-        "alt": "Rosalia performing a jump strike."
+        "alt": "Rosalia performing a jump strike.",
+        "description": "When she has to deliver a killing blow, she does so quickly and painlessly - but always struggles with the idea of taking a life."
     },
     {
         "fileName": "moonlight7.jpg",
         "name": "Follow Me",
         "artist": "Moonlight",
         "url": "https://www.instagram.com/moonlightkcreations/",
-        "alt": "Rosalia in a lace dress."
+        "alt": "Rosalia in a lace dress.",
+        "description": "Rosalia loves to show Becca her latest find - though it's usually a pretty flower, not something relevant to the adventure."
     },
     {
         "fileName": "moonlight8.jpg",
         "name": "Oasis",
         "artist": "Moonlight",
         "url": "https://www.instagram.com/moonlightkcreations/",
-        "alt": "Rosalia on the beach, wearing a blue and white bikini."
+        "alt": "Rosalia on the beach, wearing a blue and white bikini.",
+        "description": "She enjoys spending time at the beach, listening to the ocean as it waves, watching the birds fly overhead."
     },
     {
         "fileName": "moonlight9.jpg",
         "name": "Rosalia",
         "artist": "Moonlight",
         "url": "https://www.instagram.com/moonlightkcreations/",
-        "alt": "Rosalia wearing her standard white robe."
+        "alt": "Rosalia wearing her standard white robe.",
+        "description": "This portrait was commissioned for her by the royal guard after she had completed her training."
     },
     {
         "fileName": "moonlight10.jpg",
         "name": "Soar",
         "artist": "Moonlight",
         "url": "https://www.instagram.com/moonlightkcreations/",
-        "alt": "Rosalia looking blissful."
+        "alt": "Rosalia looking blissful.",
+        "description": "Rosalia often finds her thoughts drifting, and felt this was a good way to represent that."
     },
     {
         "fileName": "moonlight11.jpg",
         "name": "Song of the Nightingale",
         "artist": "Moonlight",
         "url": "https://www.instagram.com/moonlightkcreations/",
-        "alt": "Rosalia brandishing her sword, ready to fight."
+        "alt": "Rosalia brandishing her sword, ready to fight.",
+        "description": "Ready for a fight, Rosalia raises her sword to defend the innocent and smite the unjust."
     },
     {
         "fileName": "moonlight12.png",
         "name": "The Beautiful Question",
         "artist": "Moonlight",
         "url": "https://www.instagram.com/moonlightkcreations/",
-        "alt": "Rosalia on her hands and knees, an inquisitive look on her face."
+        "alt": "Rosalia on her hands and knees, an inquisitive look on her face.",
+        "description": "Rosalia is not the investigator that Becca is, and often finds herself with ideas that others might not consider to be good."
     },
     {
         "fileName": "ashley.jpg",
         "name": "Warrior",
         "artist": "Ashley Shaw",
         "url": "https://www.instagram.com/tbg_art/",
-        "alt": "Rosalia in the woods with her sword."
+        "alt": "Rosalia in the woods with her sword.",
+        "description": "She often trains in the woods, where it's harder to see an attack coming her way. This keeps her defensive skills well-honed."
     },
     {
         "fileName": "our-playful-hero.jpg",
         "name": "Our Playful Hero",
         "artist": "unknown",
         "url": "https://www.rosalianightsong.com",
-        "alt": "Rosalia resting on her sword, smiling."
+        "alt": "Rosalia resting on her sword, smiling.",
+        "description": "Rosalia enjoys using her sword, but mainly in practise matches - real combat is far less enjoyable."
     },
     {
         "fileName": "between-the-raindrops.jpg",
         "name": "Between the Raindrops",
         "artist": "unknown",
         "url": "https://www.rosalianightsong.com",
-        "alt": "Rosalia standing in the rain in a dark forest."
+        "alt": "Rosalia standing in the rain in a dark forest.",
+        "description": "As a child, Rosalia was relentless in her training. She would let nothing stop her, not even the weather."
     },
     {
         "fileName": "sunday-best.jpg",
         "name": "Sunday Best",
         "artist": "unknown",
         "url": "https://www.rosalianightsong.com",
-        "alt": "Young Rosalia, wearing a frilled white dress, sitting down."
+        "alt": "Young Rosalia, wearing a frilled white dress, sitting down.",
+        "description": "As a child, Rosalia was much more extravagant in her attire. She now understands the practicality of a robe instead of a frilly dress."
     },
     {
         "fileName": "will-of-the-heart.jpg",
         "name": "Will of the Heart",
         "artist": "unknown",
         "url": "https://www.rosalianightsong.com",
-        "alt": "Rosalia using her magic to create a glowing green heart."
+        "alt": "Rosalia using her magic to create a glowing green heart.",
+        "description": "Most people who discover they have magic use it destructively, but even as a child Rosalia looked to spread love and peace."
     },
     {
         "fileName": "untitled.jpg",
         "name": "Divine Elegance",
         "artist": "unknown",
         "url": "https://www.rosalianightsong.com",
-        "alt": "Rosalia wearing a nice robe."
+        "alt": "Rosalia wearing a nice robe.",
+        "description": "Many consider Rosalia to be naturally beautiful, her elegance subtle but effortless."
     },
     {
         "fileName": "gateway-of-roses.jpg",
         "name": "Gateway of Roses",
         "artist": "unknown",
         "url": "https://www.rosalianightsong.com",
-        "alt": "Rosalia standing in an archway, roses at her feet."
+        "alt": "Rosalia standing in an archway, roses at her feet.",
+        "description": "She enjoys spending time in nature - roses are her favourite flower, because they remind her of her name."
     },
     {
         "fileName": "untitled2.jpg",
         "name": "Swift Justice",
         "artist": "unknown",
         "url": "https://www.rosalianightsong.com",
-        "alt": "Rosalia preparing to strike with her sword."
+        "alt": "Rosalia preparing to strike with her sword.",
+        "description": "Rosalia's blade is always swift and true. Her conviction never falters, and her strike never wavers."
     },
     {
         "fileName": "untitled3.jpg",
         "name": "The Sweetest Smile",
         "artist": "unknown",
         "url": "https://www.rosalianightsong.com",
-        "alt": "A portrait of Rosalia."
+        "alt": "A portrait of Rosalia.",
+        "description": "Rosalia commissioned this portrait to put in a locket for Becca, but has yet to find the perfect locket."
     },
     {
         "fileName": "lena_smith11.jpg",
         "name": "A Night on the Town",
         "artist": "Lena",
         "url": "https://www.twitter.com/lena_smith11/",
-        "alt": "Rosalia in an evening gown."
+        "alt": "Rosalia in an evening gown.",
+        "description": "All dressed up for a date with Becca, Rosalia is not used to looking so... glamorous."
     }
 ]
