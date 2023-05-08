@@ -2218,5 +2218,14 @@
             "top": "https://booth.pm/en/items/4745044",
             "skirt": "https://store.steampowered.com/app/1486350/VRoid_Studio_v1220/"
         }
+    },
+    {
+        "name": "Commando Suit",
+        "fileName": "commando.png",
+        "description": "One might argue the holes render it useless - Naomi argues they make it breathable.",
+        "alt": "Naomi wearing a kevlar commando bodysuit with holes throughout the cloth.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4759552"
+        }
     }
 ]
