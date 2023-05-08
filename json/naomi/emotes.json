@@ -1,202 +1,302 @@
 [
     {
         "fileName": "NaomiAnnoyed.png",
-        "name": "Annoyed"
+        "name": "Annoyed",
+        "alt": "Naomi with her hands on her hips, looking away with an annoyed expression.",
+        "description": "Something made her mad, was it you?"
     },
     {
         "fileName": "NaomiBlock.png",
-        "name": "Block"
+        "name": "Block",
+        "alt": "Naomi pointing to the block button from a Discord menu.",
+        "description": "She's just teasing you. Probably."
     },
     {
         "fileName": "NaomiBlush.png",
-        "name": "Blush"
+        "name": "Blush",
+        "alt": "Naomi brushing her hair from her face, smiling and blushing softly.",
+        "description": "She'll play it off, but she probably appreciates whatever you said."
     },
     {
         "fileName": "NaomiCheer.png",
-        "name": "Cheer"
+        "name": "Cheer",
+        "alt": "Naomi raising her hands and grinning",
+        "description": "She believes in you. You got this!"
     },
     {
         "fileName": "NaomiCry.png",
-        "name": "Cry"
+        "name": "Cry",
+        "alt": "Naomi rubbing tears from her eyes.",
+        "description": "Awww, she's sad..."
     },
     {
         "fileName": "NaomiCute.png",
-        "name": "Cute"
+        "name": "Cute",
+        "alt": "Naomi pointing at herself with a smile.",
+        "description": "She's feeling cute right now."
     },
     {
         "fileName": "NaomiDancy.gif",
-        "name": "Dancy"
+        "name": "Dancy",
+        "alt": "Naomi twisting her torso back and forth, swinging her arms.",
+        "description": "She does love to dance."
     },
     {
         "fileName": "NaomiDead.png",
-        "name": "Dead"
+        "name": "Dead",
+        "alt": "Naomi laying down, her arms and legs stretched, playing dead.",
+        "description": "She's not really dead, though she might be dead inside."
     },
     {
         "fileName": "NaomiDrink.png",
-        "name": "Drink"
+        "name": "Drink",
+        "alt": "Naomi holding a bottle of scotch whiskey, making a peace sign with her other hand.",
+        "description": "Oh how she loves to drink."
     },
     {
         "fileName": "NaomiEvil.png",
-        "name": "Evil"
+        "name": "Evil",
+        "alt": "Naomi pushing her fingers together, devil horns on her head.",
+        "description": "Whatever she's planning... run!"
     },
     {
         "fileName": "NaomiFacepalm.png",
-        "name": "Facepalm"
+        "name": "Facepalm",
+        "alt": "Naomi placing her hand on her face in disbelief.",
+        "description": "Did that really just happen?"
     },
     {
         "fileName": "NaomiFight.png",
-        "name": "Fight"
+        "name": "Fight",
+        "alt": "Naomi winding up to throw a punch.",
+        "description": "Someone is about to get hit."
     },
     {
         "fileName": "NaomiGiggle.png",
-        "name": "Giggle"
+        "name": "Giggle",
+        "alt": "Naomi giggling, her hand over her mouth.",
+        "description": "She does enjoy a good joke!"
     },
     {
         "fileName": "NaomiGrin.png",
-        "name": "Grin"
+        "name": "Grin",
+        "alt": "Naomi grinning, eyes closed.",
+        "description": "Naomi is generally a happy person."
     },
     {
         "fileName": "NaomiGun.png",
-        "name": "Gun"
+        "name": "Gun",
+        "alt": "Naomi stretching her arm out, making a gun with her fingers.",
+        "description": "Pew pew~!"
     },
     {
         "fileName": "NaomiHello.png",
-        "name": "Hello"
+        "name": "Hello",
+        "alt": "Naomi waving and smiling.",
+        "description": "Hello~! Want to be friends?"
     },
     {
         "fileName": "NaomiHere.gif",
-        "name": "Here"
+        "name": "Here",
+        "alt": "Naomi jumping and spinning on one foot.",
+        "description": "I'm Naomi! Look at me!"
     },
     {
         "fileName": "NaomiHuh.png",
-        "name": "Huh"
+        "name": "Huh",
+        "alt": "Naomi with a confused look.",
+        "description": "Did you really just do that?"
     },
     {
         "fileName": "NaomiInnocent.png",
-        "name": "Innocent"
+        "name": "Innocent",
+        "alt": "Naomi pushing her hair from her face, a halo over her head.",
+        "description": "I'm innocent, I swear. No really."
     },
     {
         "fileName": "NaomiKiss.png",
-        "name": "Kiss"
+        "name": "Kiss",
+        "alt": "Naomi blowing a kiss.",
+        "description": "Mwah!"
     },
     {
         "fileName": "NaomiNaomato.png",
-        "name": "Naomato"
+        "name": "Naomato",
+        "alt": "Naomi blushing bright red, her eyes wide.",
+        "description": "Wow, something really has her flustered."
     },
     {
         "fileName": "NaomiNya.png",
-        "name": "Nya"
+        "name": "Nya",
+        "alt": "Naomi making claws with her hands.",
+        "description": "Nya nya~!"
     },
     {
         "fileName": "NaomiPat.png",
-        "name": "Pat"
+        "name": "Pat",
+        "alt": "Naomi receiving a headpat.",
+        "description": "She really loves headpats."
     },
     {
         "fileName": "NaomiPeek.png",
-        "name": "Peek"
+        "name": "Peek",
+        "alt": "Naomi peeking over the bottom of the screen.",
+        "description": "I see you. You don't see me."
     },
     {
         "fileName": "NaomiPing.png",
-        "name": "Ping"
+        "name": "Ping",
+        "alt": "Naomi holding a red notification icon, looking mad.",
+        "description": "Did that really warrant a ping?"
     },
     {
         "fileName": "NaomiPlead.png",
-        "name": "Plead"
+        "name": "Plead",
+        "alt": "Naomi pressing her fingers together and giving a pleading look.",
+        "description": "She's scared to ask, but really wants it."
     },
     {
         "fileName": "NaomiPlease.png",
-        "name": "Please"
+        "name": "Please",
+        "alt": "Naomi holding her hands out in a begging gesture.",
+        "description": "Please don't make me beg."
     },
     {
         "fileName": "NaomiPout.png",
-        "name": "Pout"
+        "name": "Pout",
+        "alt": "Naomi giving an annoyed pout.",
+        "description": "Oh really? Come on now."
     },
     {
         "fileName": "NaomiRave.gif",
-        "name": "Rave"
+        "name": "Rave",
+        "alt": "Naomi in a cybersuit, doing the zero two dance.",
+        "description": "She does love a good party."
     },
     {
         "fileName": "NaomiSadCat.gif",
-        "name": "Sad Cat"
+        "name": "Sad Cat",
+        "alt": "Naomi doing the sad cat dance.",
+        "description": "Someone begged her to."
     },
     {
         "fileName": "NaomiSalute.png",
-        "name": "Salute"
+        "name": "Salute",
+        "alt": "Naomi with her hand on her forehead in a military salute.",
+        "description": "Yes ma'am!"
     },
     {
         "fileName": "NaomiShark.png",
-        "name": "Shark"
+        "name": "Shark",
+        "alt": "Naomi grinning and pointing at her shark teeth.",
+        "description": "I'm a chaos goblin, not a chaos shark!"
     },
     {
         "fileName": "NaomiShrug.png",
-        "name": "Shrug"
+        "name": "Shrug",
+        "alt": "Naomi raising her hands and shrugging her shoulders.",
+        "description": "She either doesn't know, or doesn't care."
     },
     {
         "fileName": "NaomiShy.png",
-        "name": "Shy"
+        "name": "Shy",
+        "alt": "Naomi with her hand behind her head and a shy expression.",
+        "description": "It takes a lot to make her feel shy..."
     },
     {
         "fileName": "NaomiSing.png",
-        "name": "Sing"
+        "name": "Sing",
+        "alt": "Naomi holding a microphone, raising her hand and singing.",
+        "description": "She's a terrible singer, but she gets into the music when no one's around."
     },
     {
         "fileName": "NaomiSmh.png",
-        "name": "SMH"
+        "name": "SMH",
+        "alt": "Naomi with her hands on her head, shaking it.",
+        "description": "smh my head my head"
     },
     {
         "fileName": "NaomiSneak.png",
-        "name": "Sneak"
+        "name": "Sneak",
+        "alt": "Naomi crouching down, a finger to her lips to shush someone.",
+        "description": "She thinks she's sneaky, at least."
     },
     {
         "fileName": "NaomiStare.png",
-        "name": "Stare"
+        "name": "Stare",
+        "alt": "Naomi leaning forward, staring at the screen.",
+        "description": "She has to look closely to believe it."
     },
     {
         "fileName": "NaomiSunglasses.png",
-        "name": "Sunglasses"
+        "name": "Sunglasses",
+        "alt": "Naomi pointing upward, wearing the thug life sunglasses",
+        "description": "She's not nearly as cool as she thinks she is."
     },
     {
         "fileName": "NaomiSweat.png",
-        "name": "Sweat"
+        "name": "Sweat",
+        "alt": "Naomi with her hands behind her head, nervously smiling.",
+        "description": "Well... that didn't go as planned."
     },
     {
         "fileName": "NaomiThankies.gif",
-        "name": "Thankiess"
+        "name": "Thankiess",
+        "alt": "Naomi bowing forward in thanks.",
+        "description": "She truly appreciates it."
     },
     {
         "fileName": "NaomiThink.png",
-        "name": "Think"
+        "name": "Think",
+        "alt": "Naomi with her hand on her chin, deep in thought.",
+        "description": "She's either thinking about code or Miku."
     },
     {
         "fileName": "NaomiThis.png",
-        "name": "This"
+        "name": "This",
+        "alt": "Naomi looking and pointing up.",
+        "description": "Nice! She agrees with you!"
     },
     {
         "fileName": "NaomiVictory.gif",
-        "name": "Victory"
+        "name": "Victory",
+        "alt": "Naomi jumping in excitement before doing a victory salute.",
+        "description": "We did it! We won!"
     },
     {
         "fileName": "NaomiWavey.gif",
-        "name": "Wavey"
+        "name": "Wavey",
+        "alt": "Naomi jumping and waving with both hands.",
+        "description": "She's very excited to see you!"
     },
     {
         "fileName": "NaomiWiggle.gif",
-        "name": "Wiggle"
+        "name": "Wiggle",
+        "alt": "Naomi wiggling her hips.",
+        "description": "Wiggle wiggle wiggle..."
     },
     {
         "fileName": "NaomiWink.png",
-        "name": "Wink"
+        "name": "Wink",
+        "alt": "Naomi winking and making peace signs with both hands.",
+        "description": "She can't help but be flirty in everything she does."
     },
     {
         "fileName": "NaomiWoah.png",
-        "name": "Woah"
+        "name": "Woah",
+        "alt": "Naomi gasping in surprise, holding her hands to her mouth.",
+        "description": "It's either a good surprise or a bad surprise."
     },
     {
         "fileName": "NaomiWork.png",
-        "name": "Work"
+        "name": "Work",
+        "alt": "Naomi holding a laptop with one hand, typing with the other.",
+        "description": "She's always working, even when she's on the go."
     },
     {
         "fileName": "NaomiYawn.png",
-        "name": "Yawn"
+        "name": "Yawn",
+        "alt": "Naomi yawning, hand over her mouth.",
+        "description": "All the work means she doesn't get enough rest."
     }
 ]
