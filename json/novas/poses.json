@@ -1,22 +1,122 @@
 [
-    "beach.png",
-    "bed.png",
-    "cheer.png",
-    "drinking.png",
-    "driving.png",
-    "field.png",
-    "gaming.png",
-    "grass.png",
-    "ledge.png",
-    "lunch.png",
-    "nap.png",
-    "nya.png",
-    "park.png",
-    "picnic.png",
-    "pool.png",
-    "reading.png",
-    "relax.png",
-    "selfie.png",
-    "slide.png",
-    "stage.png"
+    {
+        "fileName": "beach.png",
+        "name": "Beach Trip",
+        "alt": "Naomi, Rosalia, and Becca in their swimwear, relaxing together on a large beach towel.",
+        "description": "A nice, relaxing getaway from their busy lives."
+    },
+    {
+        "fileName": "bed.png",
+        "name": "Sleepover",
+        "alt": "Naomi, Rosalia, and Becca relaxing on their bed together.",
+        "description": "They like to have sleepovers and catch up on what's going on in their lives."
+    },
+    {
+        "fileName": "cheer.png",
+        "name": "Cheering You On",
+        "alt": "Naomi, Rosalia, and Becca in their exercise wear, leaping into the air and cheering.",
+        "description": "Whatever task you may be struggling with, they believe in you - you can do it!"
+    },
+    {
+        "fileName": "drinking.png",
+        "name": "Drinking Buddies",
+        "alt": "Naomi, Rosalia, and Becca sitting on a couch having a beer together.",
+        "description": "Sometimes the key to unwinding after a busy day is a bit of alcohol."
+    },
+    {
+        "fileName": "driving.png",
+        "name": "Road Trip",
+        "alt": "Naomi, Rosalia, and Becca in a car together. Naomi is driving, and Rosalia is sitting in the back.",
+        "description": "When an adventure takes them far away, a road trip is in order. It's about the journey, not the destination."
+    },
+    {
+        "fileName": "field.png",
+        "name": "Bed of Flowers",
+        "alt": "Naomi, Rosalia, and Becca laying in a bed of flowers together.",
+        "description": "Life is short - you should always stop to smell the flowers."
+    },
+    {
+        "fileName": "gaming.png",
+        "name": "Game Session",
+        "alt": "Naomi sitting on the floor playing on her Switch, Rosalia and Becca on either side of her watching.",
+        "description": "Taking a moment to play a game together - they really should get some more controllers."
+    },
+    {
+        "fileName": "grass.png",
+        "name": "Lounging in the Grass",
+        "alt": "Naomi laying in grass, Rosalia laying next to her with her head on Naomi's stomach, and Becca sitting on her knees on the other side of Naomi.",
+        "description": "It is important to spend some time outside enjoying the beautiful weather when you can."
+    },
+    {
+        "fileName": "ledge.png",
+        "name": "A Nice View",
+        "alt": "Naomi sitting on a building rooftop ledge, with Becca and Rosalia sitting on either side of her.",
+        "description": "This probably isn't the safest place to sit... want to join them?"
+    },
+    {
+        "fileName": "lunch.png",
+        "name": "Lunch Break",
+        "alt": "Becca and Rosalia sitting together in a booth eating a burger and fries, Naomi sitting across from them with a coffee.",
+        "description": "Not the healthiest of lunch options, but they make a point to eat together whenever possible."
+    },
+    {
+        "fileName": "nap.png",
+        "name": "Nap Time",
+        "alt": "Naomi taking a nap on the couch, Rosalia and Becca peeking over the back of the couch to observe her.",
+        "description": "Exhausted from work, Naomi needed a rest - Becca and Rosalia are glad she's giving herself a break."
+    },
+    {
+        "fileName": "nya.png",
+        "name": "Nya Nya~!",
+        "alt": "Naomi, Becca, and Rosalia all pretending to be cats.",
+        "description": "Meow meow meow mew mew meow purr"
+    },
+    {
+        "fileName": "park.png",
+        "name": "Trip to the Park",
+        "alt": "Becca and Rosalia sitting on a park bench together, Naomi standing behind them.",
+        "description": "While Becca and Rosalia might want a break, Naomi wants to keep moving forward."
+    },
+    {
+        "fileName": "picnic.png",
+        "name": "Picnic!",
+        "alt": "Naomi, Becca, and Rosalia having a picnic. Rosalia sits on the grass with her food, Naomi sits on a log next to Becca and offers a snack, but Becca refuses",
+        "description": "It is important to get enough food, but Becca also knows it's important not to overeat."
+    },
+    {
+        "fileName": "pool.png",
+        "name": "Soaking",
+        "alt": "Naomi, Becca, and Rosalia all relaxing in an inflatable pool.",
+        "description": "To beat the heat, soaking in a nice cold pool is the way to go!"
+    },
+    {
+        "fileName": "reading.png",
+        "name": "Reading Before Bed",
+        "alt": "Naomi reading a book in bed, Rosalia falling asleep next to her, Becca unable to hold back a yawn.",
+        "description": "They take turns reading to each other to help them fall asleep."
+    },
+    {
+        "fileName": "relax.png",
+        "name": "Relaxing Outside",
+        "alt": "Naomi sitting in a field relaxing, Rosalia and Becca sitting on either side of her with their heads on her shoulders.",
+        "description": "Taking a moment to enjoy the sunshine and catch their breath before the next big adventure."
+    },
+    {
+        "fileName": "selfie.png",
+        "name": "Sneaky Selfie",
+        "alt": "Naomi sneaking a selfie with Becca and Rosalia in the background.",
+        "description": "Naomi caught Becca giving Rosalia a hard time, and decided to capture the moment forever."
+    },
+    {
+        "fileName": "slide.png",
+        "name": "Waterpark",
+        "alt": "Naomi going down a waterslide, Becca sitting in Rosalia's lap as they go down behind Naomi.",
+        "description": "They love to go on vacations together. This trip to the water park was one of their favourites."
+    },
+    {
+        "fileName": "stage.png",
+        "name": "Idol Stage",
+        "alt": "Naomi, Becca, and Rosalia on stage singing and striking a matching pose.",
+        "description": "To think, if they weren't adventurers they could have been pop stars."
+    }
 ]
