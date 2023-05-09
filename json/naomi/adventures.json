@@ -1,162 +1,242 @@
 [
     {
         "fileName": "code-vein.jpg",
-        "game": "Code Vein"
+        "game": "Code Vein",
+        "alt": "Naomi wearing a black knit sweater dress with no sleeves and a very low back.",
+        "description": "Becoming a Revenant was not what Naomi expected, but it was indeed a fun adventure."
     },
     {
         "fileName": "cyberpunk-2077.jpg",
-        "game": "Cyberpunk 2077"
+        "game": "Cyberpunk 2077",
+        "alt": "Naomi wearing a black tank top and leather pencil skirt, with dark sunglasses.",
+        "description": "By the end of this adventure, she and Johnny Silverhand became quite good friends."
     },
     {
         "fileName": "dreamlight-valley.jpg",
-        "game": "Dreamlight Valley"
+        "game": "Dreamlight Valley",
+        "alt": "Naomi wearing a black sundress, her hair let down.",
+        "description": "All of the farming and crafting eventually got to be a bit too tedious for her."
     },
     {
         "fileName": "dos-2.jpg",
-        "game": "Divinity: Original Sin II"
+        "game": "Divinity: Original Sin II",
+        "alt": "Naomi wearing a black tank top and black skirt with skulls, tribal tattoos covering her sword arm.",
+        "description": "Godwoken... something Naomi could have never anticipated."
     },
     {
         "fileName": "db-xenoverse-2.jpg",
-        "game": "Dragonball Xenoverse 2"
+        "game": "Dragonball Xenoverse 2",
+        "alt": "Naomi wearing a black training vest with black shorts, her hair in a high and tight ponytail.",
+        "description": "Naomi's powers were unremarkable in this realm, but she held her own."
     },
     {
         "fileName": "dynasty-warriors-8.jpg",
-        "game": "Dynasty Warriors 8"
+        "game": "Dynasty Warriors 8",
+        "alt": "Naomi wearing a black tank top with red accents, and a black miniskirt with a white hem.",
+        "description": "Leading her small band of warriors was quite the thrilling experience."
     },
     {
         "fileName": "dynasty-warriors-9.jpg",
-        "game": "Dynasty Warriors 9"
+        "game": "Dynasty Warriors 9",
+        "alt": "Naomi wearing a black corset top and black shorts, striking a fighting pose.",
+        "description": "She met so many great people on this adventure, and even got to lead her own children into battle."
     },
     {
         "fileName": "elden-ring.jpg",
-        "game": "Elden Ring"
+        "game": "Elden Ring",
+        "alt": "Naomi wearing a white sleeveless dress, wielding a sword made of holy magic.",
+        "description": "The clothing in this realm left much to be desired, but she did enjoy her shiny sword."
     },
     {
         "fileName": "enderal.jpg",
-        "game": "Enderal: Forgotten Stories"
+        "game": "Enderal: Forgotten Stories",
+        "alt": "Naomi wearing a black dress with purple sleeves and hem.",
+        "description": "Breaking the Cycle proved to be quite the challenge, but Naomi made a few friends who proved quite helpful."
     },
     {
         "fileName": "fell-seal.jpg",
-        "game": "Fell Seal: Arbiter's Mark"
+        "game": "Fell Seal: Arbiter's Mark",
+        "alt": "Pixel-style Naomi wearing a purple trench coat, purple and white corset, and black shorts.",
+        "description": "She wasn't thrilled about having to wear the boots."
     },
     {
         "fileName": "god-eater.jpg",
-        "game": "God Eater: Resurrection"
+        "game": "God Eater: Resurrection",
+        "alt": "Naomi wearing a white corset with a long hem, and white shorts.",
+        "description": "Fighting the Aragami proved to be a solid challenge, if not a bit repetitive."
     },
     {
         "fileName": "ricca.png",
-        "game": "Holy Knight Ricca"
+        "game": "Holy Knight Ricca",
+        "alt": "Naomi wearing a black sundress with purple bracelets and anklets.",
+        "description": "Becoming a magical girl was remarkably fun, though Naomi didn't enjoy transforming back."
     },
     {
         "fileName": "jump-force.jpg",
-        "game": "Jump Force"
+        "game": "Jump Force",
+        "alt": "Naomi wearing a black tank top and dark blue skirt.",
+        "description": "Fighting alongside other heroes motivated Naomi to prove her skills even more."
     },
     {
         "fileName": "koikatsu.png",
-        "game": "Koikatsu Party"
+        "game": "Koikatsu Party",
+        "alt": "Naomi wearing a black tank top with a cat shaped window and a black miniskirt.",
+        "description": "She gets up to all sorts of things when she's not adventuring."
     },
     {
         "fileName": "kung-fu.png",
-        "game": "Kung Fu Girl"
+        "game": "Kung Fu Girl",
+        "alt": "Naomi wearing a black Asian-style dress, her hair down.",
+        "description": "Learning martial arts was fun, though she still prefers to hold a sword."
     },
     {
         "fileName": "mass-effect.bmp",
-        "game": "Mass Effect Legendary Edition"
+        "game": "Mass Effect Legendary Edition",
+        "alt": "Naomi wearing a black evening dress and black heels.",
+        "description": "Stopping the Reapers was a rewarding task, but Naomi really enjoyed exploring the universe."
     },
     {
         "fileName": "mount-and-blade-2.jpg",
-        "game": "Mount & Blade II"
+        "game": "Mount & Blade II",
+        "alt": "Naom,i wearing a dark grey dress with leather straps, charging into battle with her sword.",
+        "description": "From pauper to ruler, Naomi conquered the lands and liberated the people from constant fighting."
     },
     {
         "fileName": "neverwinter-nights.jpg",
-        "game": "Neverwinter Nights"
+        "game": "Neverwinter Nights",
+        "alt": "Naomi wearing a black dress with a slit skirt that reveals her legs.",
+        "description": "There were endless adventures to be had in this realm, and Naomi frequently revisits to find new ones."
     },
     {
         "fileName": "nioh-2.jpg",
-        "game": "Nioh 2"
+        "game": "Nioh 2",
+        "alt": "Naomi wearing a black dress with a low neckline and slits in the skirt to reveal her legs, brandishing a katana.",
+        "description": "She absolutely loves Yokai, and fighting them while exploring more about their lore was one of her best adventures."
     },
     {
         "fileName": "outer-worlds.jpg",
-        "game": "The Outer Worlds"
+        "game": "The Outer Worlds",
+        "alt": "Naomi wearing a black leotard and carrying a sniper rifle.",
+        "description": "Exploring the new frontier was an interesting experience."
     },
     {
         "fileName": "pathfinder-wrath.jpg",
-        "game": "Pathfinder: Wrath of the Righteous"
+        "game": "Pathfinder: Wrath of the Righteous",
+        "alt": "Naomi wearing a black leather robe, holding her longsword.",
+        "description": "The path that she walks is unique, but rewarding."
     },
     {
         "fileName": "saints-row-2022.png",
-        "game": "Saints Row (2022)"
+        "game": "Saints Row (2022)",
+        "alt": "Naomi wearing a black ruffled tank top and a black button-up skirt.",
+        "description": "Founding her own gang was not something she had planned to do, but it was a nice change of pace."
     },
     {
         "fileName": "saints-row-boss-factory.png",
-        "game": "Saints Row: Boss Factory"
+        "game": "Saints Row: Boss Factory",
+        "alt": "Naomi wearing a black cropped shirt and black leather skirt, standing in front of a purple neon halo and wings.",
+        "description": "Getting dressed up for her next adventure had her excited and ready to go."
     },
     {
         "fileName": "saints-row-3.jpg",
-        "game": "Saints Row the Third"
+        "game": "Saints Row the Third",
+        "alt": "Naomi wearing a black tube top and miniskirt.",
+        "description": "Leading her gang into a new city came with its own challenges, but she was up to the task."
     },
     {
         "fileName": "saints-row-4.jpg",
-        "game": "Saints Row IV"
+        "game": "Saints Row IV",
+        "alt": "Naomi wearing a ripped tank top and black miniskirt.",
+        "description": "Being trapped in a simulation makes her wonder if all of life is actually a simulation."
     },
     {
         "fileName": "shadowrun.jpg",
-        "game": "Shadowrun: Dragonfall"
+        "game": "Shadowrun: Dragonfall",
+        "alt": "Naomi wearing a black trench coat with a white undershirt and black pants.",
+        "description": "The world was an interesting fusion of magic and technology, and Naomi mastered both."
     },
     {
         "fileName": "sims-4.png",
-        "game": "The Sims 4"
+        "game": "The Sims 4",
+        "alt": "Naomi wearing a black tank top and skirt.",
+        "description": "Adventuring is fun, but taking some time to settle down for a bit is nice too."
     },
     {
         "fileName": "skyrim.jpg",
-        "game": "Skyrim"
+        "game": "Skyrim",
+        "alt": "Naomi wearing a black sweater and miniskirt, brandishing her longsword.",
+        "description": "Becoming Dragonborn was fun and all, but exploring the world was even better."
     },
     {
         "fileName": "soul-calibur.jpg",
-        "game": "Soul Calibur VI"
+        "game": "Soul Calibur VI",
+        "alt": "Naomi wearing a black school-girl top and black miniskirt, striking a pose with her purple longsword.",
+        "description": "Proving her talents in a fighting tournament was a fun way to spend her time."
     },
     {
         "fileName": "spellforce-3.jpg",
-        "game": "SpellForce III"
+        "game": "SpellForce III",
+        "alt": "Naomi wearing a black robe and brown boots, carrying a glowing blue greatsword.",
+        "description": "Leading armies into battle and helping the races of the world was fun."
     },
     {
         "fileName": "stardew-valley.png",
-        "game": "Stardew Valley"
+        "game": "Stardew Valley",
+        "alt": "Pixel-style Naomi wearing a black dress with a red bow in her hair.",
+        "description": "The farming was a nice change of pace, but the real fun was in meeting and befriending all of the village folk."
     },
     {
         "fileName": "swtor.jpg",
-        "game": "Star Wars: The Old Republic"
+        "game": "Star Wars: The Old Republic",
+        "alt": "Naomi wearing a black cross-style tank top and black shorts with a sash in the front, holding a purple lightsaber.",
+        "description": "Even as a Jedi, Naomi found herself relying more on her sword skills than her Force powers."
     },
     {
         "fileName": "sunset-overdrive.jpg",
-        "game": "Sunset Overdrive"
+        "game": "Sunset Overdrive",
+        "alt": "Naomi wearing a black tank top with a band logo and a black miniskirt.",
+        "description": "Grinding on all of the rails in the city was one of her favourite ways to get around."
     },
     {
         "fileName": "tower-of-fantasy.png",
-        "game": "Tower of Fantasy"
+        "game": "Tower of Fantasy",
+        "alt": "Naomi wearing a black dress with black gloves, stockings, and boots.",
+        "description": "She didn't get very far in this adventure before moving on to more entertaining worlds."
     },
     {
         "fileName": "unreal-tournament.jpg",
-        "game": "Unreal Tournament 2004"
+        "game": "Unreal Tournament 2004",
+        "alt": "Naomi wearing a black cybersuit, with her hair down, carrying a laser rifle.",
+        "description": "Being called to a shooting tournament every so often is fun."
     },
     {
         "fileName": "roldea.png",
-        "game": "Wings of Roldea"
+        "game": "Wings of Roldea",
+        "alt": "Naomi wearing a black half coat and black miniskirt, her hair in pigtails.",
+        "description": "Being chased out of her home town was not a good start to her day."
     },
     {
         "fileName": "wild-hearts.jpg",
-        "game": "Wild Hearts"
+        "game": "Wild Hearts",
+        "alt": "Naomi wearing black leather armour and a gold tiara.",
+        "description": "Naomi enjoyed hunting the kemono, but thinks hunting yokai is more fun."
     },
     {
         "fileName": "wo-long.jpg",
-        "game": "Wo Long: Fallen Dynasty"
+        "game": "Wo Long: Fallen Dynasty",
+        "alt": "Naomi wearing a black tattered robe, holding her blade.",
+        "description": "Fighting as a militia soldier and becoming a hero... Unexpected, but fun."
     },
     {
         "fileName": "wwe-2k22.jpg",
-        "game": "WWE: 2K22"
+        "game": "WWE: 2K22",
+        "alt": "Naomi wearing a black latex tank top with a heart window, and a black latex skirt.",
+        "description": "She's not really into wrestling. She just wanted to try the outfits."
     },
     {
         "fileName": "xcom-2.png",
-        "game": "XCOM 2"
+        "game": "XCOM 2",
+        "alt": "Naomi wearing a black tank top, black shorts, and a black skirt with purple runes on it, holding an assault rifle.",
+        "description": "Fighting off an alien invasion... She liked that more than she thought she would."
     }
 ]

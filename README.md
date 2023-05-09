@@ -14,6 +14,8 @@ Screenshots of games.
 {
   fileName: string;
   game: string;
+  alt: string;
+  description: string;
 }
 [];
 ```
@@ -26,6 +28,8 @@ Custom emotes for Discord.
 {
   fileName: string;
   name: string;
+  alt: string;
+  description: string;
 }
 [];
 ```
@@ -57,6 +61,7 @@ Custom art work.
   artist: string;
   url: string;
   alt: string;
+  description: string;
 }
 [];
 ```
@@ -66,7 +71,13 @@ Custom art work.
 Koikatsu scenes.
 
 ```ts
-string[]
+{
+  fileName: string;
+  name: string;
+  alt: string;
+  description: string;
+}
+[];
 ```
 
 ## Live Version

@@ -1,66 +1,98 @@
 [
     {
         "fileName": "cladun.png",
-        "game": "Cladun X2"
+        "game": "Cladun X2",
+        "alt": "A pixel art version of Becca, holding a purple staff with blue lighting coming from the tip.",
+        "description": "Not Becca's favourite adventure, but it was still lucrative!"
     },
     {
         "fileName": "code-vein.png",
-        "game": "CODE VEIN"
+        "game": "CODE VEIN",
+        "alt": "Becca wearing a purple tshirt, purple miniskirt, and purple boots.",
+        "description": "This was a tough world to navigate, but she managed."
     },
     {
         "fileName": "conan-exiles.jpg",
-        "game": "Conan Exiles"
+        "game": "Conan Exiles",
+        "alt": "Becca wearing a purple crop top, side skirt, and ankle wraps.",
+        "description": "With minimal options, Becca managed to stay fashionable."
     },
     {
         "fileName": "cyberpunk.png",
-        "game": "CyberPunk 2077"
+        "game": "CyberPunk 2077",
+        "alt": "Becca wearing a pink corset and athletic coat, with a pink sequin pencil skirt and black heels.",
+        "description": "She definitely wasn't a fan of having someone else in her head."
     },
     {
         "fileName": "fire-emblem-fates.png",
-        "game": "Fire Emblem: Fates"
+        "game": "Fire Emblem: Fates",
+        "alt": "Becca wearing a translucent bodysuit and purple cape, holding a Japanese fan.",
+        "description": "When faced with a choice between two families, Becca chose neither."
     },
     {
         "fileName": "godeater.png",
-        "game": "GOD EATER"
+        "game": "GOD EATER",
+        "alt": "Becca wearing a grey tubetop with a purple cropped jacket, purple miniskirt, and purple socks and sneakers.",
+        "description": "After eating all those gods, you'd think she'd be full..."
     },
     {
         "fileName": "guild-wars-2.png",
-        "game": "Guild Wars 2"
+        "game": "Guild Wars 2",
+        "alt": "Becca in a purple bikini top, purple sleeves, purple miniskirt, and purple sandals.",
+        "description": "She never did understand what guilds were at war..."
     },
     {
         "fileName": "fenix-rising.png",
-        "game": "Immortals: Fenix Rising"
+        "game": "Immortals: Fenix Rising",
+        "alt": "Becca in a purple Roman gladiator set, with her hair in a ponytail.",
+        "description": "For someone who is already immortal, she struggled with this adventure."
     },
     {
         "fileName": "koikatsu.png",
-        "game": "Koikatsu Party"
+        "game": "Koikatsu Party",
+        "alt": "Becca in a purple sundress with sheer purple stockings.",
+        "description": "Becca enjoys her downtime too!"
     },
     {
         "fileName": "tyranny.png",
-        "game": "Tyranny"
+        "game": "Tyranny",
+        "alt": "Becca wearing a purple mage's robe and brown sandals, holding a purple lightning staff.",
+        "description": "Help the tyrannical overlord? Yes please!"
     },
     {
         "fileName": "soul-caliber-6.png",
-        "game": "Soul Calibur VI"
+        "game": "Soul Calibur VI",
+        "alt": "Becca wearing a purple robe, stockings, and heels, wielding a purple quarterstaff.",
+        "description": "Finally, a chance to prove the strength of her magic."
     },
     {
         "fileName": "jump-force.png",
-        "game": "Jump Force"
+        "game": "Jump Force",
+        "alt": "Becca wearing a purple sports bra, miniskirt, and mesh gloves and stockings.",
+        "description": "It was fun for her to meet heroes from so many worlds."
     },
     {
         "fileName": "saints-row-3.png",
-        "game": "Saints Row 3"
+        "game": "Saints Row 3",
+        "alt": "Becca wearing a frilly purple barmaid dress and purple heels.",
+        "description": "Never thought she'd see the day where someone called her a saint."
     },
     {
         "fileName": "pathfinder.png",
-        "game": "Pathfinder: Wrath of the Righteous"
+        "game": "Pathfinder: Wrath of the Righteous",
+        "alt": "Becca wearing a purple arcanists robe.",
+        "description": "One could say she found her path."
     },
     {
         "fileName": "dos2.jpg",
-        "game": "Divinity: Original Sin II"
+        "game": "Divinity: Original Sin II",
+        "alt": "Becca wearing a frilly purple top, matching skirt, and gladiator sandals. She holds a wand in each hand.",
+        "description": "She was far too vein to let Rosalia become Godwoken instead of her."
     },
     {
         "fileName": "skyrim.jpg",
-        "game": "Skyrim: Special Edition"
+        "game": "Skyrim: Special Edition",
+        "alt": "Becca wearing a purple dress and black heels, lightning magic charged up in her palms.",
+        "description": "She really came here for the College of Winterhold."
     }
 ]
