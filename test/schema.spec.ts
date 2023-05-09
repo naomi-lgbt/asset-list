@@ -19,7 +19,24 @@ suite.only("Adventure schemas", () => {
         assert.lengthOf(Object.keys(object), keys.length);
         for (const key of Object.keys(object)) {
           assert.isString(object[key]);
+          assert.isNotEmpty(object[key]);
         }
+      }
+      const fileNames = json.map((a) => a.fileName);
+      for (const file of fileNames) {
+        assert.lengthOf(
+          fileNames.filter((f) => f === file),
+          1,
+          `${file} is duplicated in ${ns}`
+        );
+      }
+      const names = json.map((a) => a.game);
+      for (const name of names) {
+        assert.lengthOf(
+          names.filter((n) => n === name),
+          1,
+          `${name} is duplicated in ${ns}`
+        );
       }
     });
   }
@@ -39,7 +56,24 @@ suite.only("Emote schemas", () => {
         assert.lengthOf(Object.keys(object), keys.length);
         for (const key of Object.keys(object)) {
           assert.isString(object[key]);
+          assert.isNotEmpty(object[key]);
         }
+      }
+      const fileNames = json.map((a) => a.fileName);
+      for (const file of fileNames) {
+        assert.lengthOf(
+          fileNames.filter((f) => f === file),
+          1,
+          `${file} is duplicated in ${ns}`
+        );
+      }
+      const names = json.map((a) => a.name);
+      for (const name of names) {
+        assert.lengthOf(
+          names.filter((n) => n === name),
+          1,
+          `${name} is duplicated in ${ns}`
+        );
       }
     });
   }
@@ -58,11 +92,29 @@ suite.only("Outfit schemas", () => {
         assert.lengthOf(Object.keys(object), keys.length);
         for (const key of Object.keys(object)) {
           if (key === "credits") {
+            // credits can be empty as it falls back to a default message
             assert.isObject(object[key]);
           } else {
             assert.isString(object[key]);
+            assert.isNotEmpty(object[key]);
           }
         }
+      }
+      const fileNames = json.map((a) => a.fileName);
+      for (const file of fileNames) {
+        assert.lengthOf(
+          fileNames.filter((f) => f === file),
+          1,
+          `${file} is duplicated in ${ns}`
+        );
+      }
+      const names = json.map((a) => a.name);
+      for (const name of names) {
+        assert.lengthOf(
+          names.filter((n) => n === name),
+          1,
+          `${name} is duplicated in ${ns}`
+        );
       }
     });
   }
@@ -81,7 +133,24 @@ suite.only("Portraits schemas", () => {
         assert.lengthOf(Object.keys(object), keys.length);
         for (const key of Object.keys(object)) {
           assert.isString(object[key]);
+          assert.isNotEmpty(object[key]);
         }
+      }
+      const fileNames = json.map((a) => a.fileName);
+      for (const file of fileNames) {
+        assert.lengthOf(
+          fileNames.filter((f) => f === file),
+          1,
+          `${file} is duplicated in ${ns}`
+        );
+      }
+      const names = json.map((a) => a.name);
+      for (const name of names) {
+        assert.lengthOf(
+          names.filter((n) => n === name),
+          1,
+          `${name} is duplicated in ${ns}`
+        );
       }
     });
   }
@@ -101,6 +170,22 @@ suite.only("Poses schemas", () => {
         for (const key of Object.keys(object)) {
           assert.isString(object[key]);
         }
+      }
+      const fileNames = json.map((a) => a.fileName);
+      for (const file of fileNames) {
+        assert.lengthOf(
+          fileNames.filter((f) => f === file),
+          1,
+          `${file} is duplicated in ${ns}`
+        );
+      }
+      const names = json.map((a) => a.name);
+      for (const name of names) {
+        assert.lengthOf(
+          names.filter((n) => n === name),
+          1,
+          `${name} is duplicated in ${ns}`
+        );
       }
     });
   }
