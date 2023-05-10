@@ -33,11 +33,12 @@ suite("Asset data", () => {
         .filter((el) => el);
       for (const file of data) {
         const adventure = json.find((a) => a.fileName === file);
-        assert.isDefined(adventure);
+        assert.isDefined(adventure, `JSON is missing ${file}`);
       }
       for (const object of json) {
         assert.include(data, object.fileName);
       }
+      assert.equal(data.length, json.length);
     });
   }
 
@@ -50,11 +51,12 @@ suite("Asset data", () => {
         .filter((el) => el);
       for (const file of data) {
         const emote = json.find((a) => a.fileName === file);
-        assert.isDefined(emote);
+        assert.isDefined(emote, `JSON is missing ${file}`);
       }
       for (const object of json) {
         assert.include(data, object.fileName);
       }
+      assert.equal(data.length, json.length);
     });
   }
 
@@ -67,11 +69,12 @@ suite("Asset data", () => {
         .filter((el) => el);
       for (const file of data) {
         const outfit = json.find((a) => a.fileName === file);
-        assert.isDefined(outfit);
+        assert.isDefined(outfit, `JSON is missing ${file}`);
       }
       for (const object of json) {
         assert.include(data, object.fileName);
       }
+      assert.equal(data.length, json.length);
     });
   }
 
@@ -84,11 +87,12 @@ suite("Asset data", () => {
         .filter((el) => el);
       for (const file of data) {
         const portrait = json.find((a) => a.fileName === file);
-        assert.isDefined(portrait);
+        assert.isDefined(portrait, `JSON is missing ${file}`);
       }
       for (const object of json) {
         assert.include(data, object.fileName);
       }
+      assert.equal(data.length, json.length);
     });
   }
 
@@ -100,11 +104,13 @@ suite("Asset data", () => {
         .map((i) => i.Key[0].split("/")[2])
         .filter((el) => el);
       for (const file of data) {
-        assert.include(json, file);
+        const pose = json.find((a) => a.fileName === file);
+        assert.isDefined(pose, `JSON is missing ${file}`);
       }
-      for (const string of json) {
-        assert.include(data, string);
+      for (const object of json) {
+        assert.include(data, object.fileName);
       }
+      assert.equal(data.length, json.length);
     });
   }
 });

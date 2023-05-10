@@ -6,7 +6,7 @@ const outfitList = ["naomi"];
 const portraitsList = ["becca", "beccalia", "naomi", "rosalia"];
 const posesList = ["becca", "beccalia", "naomi", "novas", "rosalia"];
 
-suite.only("Adventure schemas", () => {
+suite("Adventure schemas", () => {
   test("should all exist", () => {
     assert.equal(true, true);
   });
@@ -42,7 +42,7 @@ suite.only("Adventure schemas", () => {
   }
 });
 
-suite.only("Emote schemas", () => {
+suite("Emote schemas", () => {
   test("should all exist", () => {
     assert.equal(true, true);
   });
@@ -79,7 +79,7 @@ suite.only("Emote schemas", () => {
   }
 });
 
-suite.only("Outfit schemas", () => {
+suite("Outfit schemas", () => {
   test("should all exist", () => {
     assert.equal(true, true);
   });
@@ -120,7 +120,7 @@ suite.only("Outfit schemas", () => {
   }
 });
 
-suite.only("Portraits schemas", () => {
+suite("Portraits schemas", () => {
   test("should all exist", () => {
     assert.equal(true, true);
   });
@@ -156,7 +156,7 @@ suite.only("Portraits schemas", () => {
   }
 });
 
-suite.only("Poses schemas", () => {
+suite("Poses schemas", () => {
   test("should all exist", () => {
     assert.equal(true, true);
   });
