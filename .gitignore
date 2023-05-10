@@ -1,1 +1,3 @@
 /node_modules/
+## Ignored for local testing and data analysis.
+temp.js

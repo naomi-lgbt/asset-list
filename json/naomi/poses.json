@@ -967,7 +967,7 @@
     },
     {
         "fileName": "swimming.png",
-        "name": "Swimming Laps",
+        "name": "Swim Training",
         "alt": "Naomi at the edge of the pool, looking at you.",
         "description": "Did she beat her latest lap record?"
     },
@@ -1090,5 +1090,113 @@
         "name": "Cafe Work",
         "alt": "Naomi sitting at a cafe table, working on her laptop.",
         "description": "She doesn't go to the cafe just to work, she goes for the coffee. And brings work with her."
+    },
+    {
+        "fileName": "pool-2.png",
+        "name": "Gonna Swim?",
+        "alt": "Naomi standing at the edge of the swimming pool, looking back over her shoulder and smiling.",
+        "description": "She wants to know if you're getting in the pool with her."
+    },
+    {
+        "fileName": "archer.png",
+        "name": "Take a Shot",
+        "alt": "Naomi firing an arrow from a bow.",
+        "description": "She rarely misses her mark."
+    },
+    {
+        "fileName": "balcony-2.png",
+        "name": "Morning Breeze",
+        "alt": "Naomi standing in the balcony of a sliding glass door.",
+        "description": "Her ideal way to start the morning is with a nice breeze as she soaks up the sun."
+    },
+    {
+        "fileName": "blood.png",
+        "name": "Aftermath",
+        "alt": "Naomi kneeling on the floor, surrounded by blood, grinning.",
+        "description": "Someone chose to pick a fight with her, and suffered the consequences."
+    },
+    {
+        "fileName": "chop.png",
+        "name": "Kitchen Prep",
+        "alt": "Naomi standing at the counter, chopping a cabbage.",
+        "description": "She may not be a good cook, but she is always happy to help with the prep work!"
+    },
+    {
+        "fileName": "dance.png",
+        "name": "Dance Dance Dance",
+        "alt": "Naomi on a stage dancing.",
+        "description": "Naomi loves to get down to a good tune."
+    },
+    {
+        "fileName": "evil.png",
+        "name": "Bad Idea",
+        "alt": "Naomi with her arms extended, an evil grin on her face and a red shine in her eyes.",
+        "description": "She's got an idea. It's probably a bad idea. Whatever she offers, you don't want to get involved."
+    },
+    {
+        "fileName": "film.png",
+        "name": "Documentary",
+        "alt": "Naomi laying in bed, hugging a pillow, viewed from a currently recording camera.",
+        "description": "Asked to star in a documentary seemed like a good idea, but she really didn't want to get out of bed."
+    },
+    {
+        "fileName": "fireworks.png",
+        "name": "Firework Festival",
+        "alt": "Naomi holding a caramel apple and cotton candy, fireworks exploding behind her.",
+        "description": "Fireworks are one of her favourite things, and going to a festival with yummy food to see them makes it even better."
+    },
+    {
+        "fileName": "hot.png",
+        "name": "Heat Wave",
+        "alt": "Naomi sitting in front of a fan, eating a popsicle.",
+        "description": "Hot weather is the absolute worst. She always struggles to stay cool."
+    },
+    {
+        "fileName": "pier.png",
+        "name": "Late-night Swim",
+        "alt": "Naomi sitting on a pier in the night, considering going for a swim.",
+        "description": "It may be a cool night, but it's never too cold to dive in the water."
+    },
+    {
+        "fileName": "scared.png",
+        "name": "Scared Sleepless",
+        "alt": "Naomi in bed, hiding under the blankets.",
+        "description": "There is a monster under her bed. She knows it's there, no matter how many people say it isn't."
+    },
+    {
+        "fileName": "scold.png",
+        "name": "Careless Mistake",
+        "alt": "Naomi with a stern look, pointing a finger in a scolding gesture.",
+        "description": "Whatever you've done, she aims to ensure you never do it again."
+    },
+    {
+        "fileName": "selfie.png",
+        "name": "Selfie",
+        "alt": "Naomi snapping a selfie as she makes a peace sign.",
+        "description": "Selfies are a lot of fun. She takes quite a few of them."
+    },
+    {
+        "fileName": "smite.png",
+        "name": "Paladin's Judgement",
+        "alt": "Naomi looking down at the screen, pointing a glowing blue blade at it.",
+        "description": "Thou art weighed in the balances, and art found wanting."
+    },
+    {
+        "fileName": "swimming-2.png",
+        "name": "Swimming Laps",
+        "alt": "Naomi in the pool, floating at the edge, looking back over her shoulder.",
+        "description": "'You timed me this time, right? Right??'"
+    },
+    {
+        "fileName": "television.png",
+        "name": "Watching a Show",
+        "alt": "Naomi laying in bed, watching television.",
+        "description": "If she doesn't feel like gaming, she'll lay in bed and watch an anime."
+    },
+    {
+        "fileName": "waterfall.png",
+        "name": "At The Falls",
+        "alt": "Naomi standing in front of a waterfall, stretching.",
+        "description": "Waterfalls are one of her favourite nature destinations."
     }
 ]
