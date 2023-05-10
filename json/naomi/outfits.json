@@ -895,7 +895,7 @@
     {
         "name": "Cropped Hoodie",
         "fileName": "hoodie.png",
-        "description": "Does this even count?",
+        "description": "This doesn't seem like it should count as an actual hoodie.",
         "alt": "Naomi wearing a cropped hoodie and a black zipper skirt.",
         "credits": {
             "outfit": "https://booth.pm/en/items/2799865"
@@ -1339,7 +1339,7 @@
     {
         "name": "Pink Frilly Dress",
         "fileName": "pink-2.png",
-        "description": "For when she's feeling extra flowery.",
+        "description": "The gold floral accents are what caught her eye.",
         "alt": "Naomi wearing a frilly pink dress with gold accents.",
         "credits": {
             "outfit": "https://booth.pm/en/items/4314717"
@@ -1742,7 +1742,7 @@
     {
         "name": "Sparkly Dress",
         "fileName": "sparkle.png",
-        "description": "This dress is a little flashy, but Naomi likes it.",
+        "description": "It may be flashy, but it's also fun.",
         "alt": "Naomi wearing a maroon dress with a sparkle pattern.",
         "credits": {
             "outfit": "https://booth.pm/en/items/4442716"
@@ -2002,7 +2002,7 @@
     {
         "name": "Trans Pride Dress",
         "fileName": "trans.png",
-        "description": "Trans rights are human rights 🏳️‍⚧️",
+        "description": "Trans Pride~! 🏳️‍⚧️",
         "alt": "Naomi wearing a crop-top and skirt with the trans flag colours.",
         "credits": {
             "top": "https://booth.pm/en/items/3357162",
@@ -2134,7 +2134,7 @@
     {
         "name": "White Dress",
         "fileName": "white.png",
-        "description": "Does this even count?",
+        "description": "With so little fabric, this doesn't seem like much of a dress.",
         "alt": "Naomi wearing a very short white dress with a chest opening and blue accents.",
         "credits": {
             "outfit": "https://booth.pm/en/items/4452921"

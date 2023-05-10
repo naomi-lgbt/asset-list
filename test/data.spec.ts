@@ -1,5 +1,6 @@
 import { assert } from "chai";
 import { before } from "mocha";
+import { findBestMatch } from "string-similarity";
 import { Parser } from "xml2js";
 
 // eslint-disable-next-line init-declarations
@@ -40,6 +41,43 @@ suite("Asset data", () => {
       }
       assert.equal(data.length, json.length);
     });
+
+    test(`should have unique names and filenames for ${ns}`, async () => {
+      const json = (await import(`../json/${ns}/adventures.json`)).default;
+      const fileNames = json.map((a) => a.fileName);
+      for (const file of fileNames) {
+        assert.lengthOf(
+          fileNames.filter((f) => f === file),
+          1,
+          `${file} is duplicated in ${ns}`
+        );
+      }
+      const names = json.map((a) => a.game);
+      for (const name of names) {
+        assert.lengthOf(
+          names.filter((n) => n === name),
+          1,
+          `${name} is duplicated in ${ns}`
+        );
+      }
+    });
+
+    test(`should not have similar descriptions for ${ns}`, async () => {
+      const json = (await import(`../json/${ns}/adventures.json`)).default;
+      const descriptions = json.map((a) => a.description);
+      for (let i = 0; i < json.length - 1; i++) {
+        const target = descriptions[i];
+        const closest = findBestMatch(
+          target,
+          descriptions.slice(i + 1)
+        ).bestMatch;
+        assert.isBelow(
+          closest.rating,
+          0.8,
+          `${target} is too similar to ${closest.target}`
+        );
+      }
+    });
   }
 
   for (const ns of emoteList) {
@@ -57,6 +95,43 @@ suite("Asset data", () => {
         assert.include(data, object.fileName);
       }
       assert.equal(data.length, json.length);
+    });
+
+    test(`should have unique names and filenames for ${ns}`, async () => {
+      const json = (await import(`../json/${ns}/emotes.json`)).default;
+      const fileNames = json.map((a) => a.fileName);
+      for (const file of fileNames) {
+        assert.lengthOf(
+          fileNames.filter((f) => f === file),
+          1,
+          `${file} is duplicated in ${ns}`
+        );
+      }
+      const names = json.map((a) => a.name);
+      for (const name of names) {
+        assert.lengthOf(
+          names.filter((n) => n === name),
+          1,
+          `${name} is duplicated in ${ns}`
+        );
+      }
+    });
+
+    test(`should not have similar descriptions for ${ns}`, async () => {
+      const json = (await import(`../json/${ns}/emotes.json`)).default;
+      const descriptions = json.map((a) => a.description);
+      for (let i = 0; i < json.length - 1; i++) {
+        const target = descriptions[i];
+        const closest = findBestMatch(
+          target,
+          descriptions.slice(i + 1)
+        ).bestMatch;
+        assert.isBelow(
+          closest.rating,
+          0.8,
+          `${target} is too similar to ${closest.target}`
+        );
+      }
     });
   }
 
@@ -76,6 +151,43 @@ suite("Asset data", () => {
       }
       assert.equal(data.length, json.length);
     });
+
+    test(`should have unique names and filenames for ${ns}`, async () => {
+      const json = (await import(`../json/${ns}/outfits.json`)).default;
+      const fileNames = json.map((a) => a.fileName);
+      for (const file of fileNames) {
+        assert.lengthOf(
+          fileNames.filter((f) => f === file),
+          1,
+          `${file} is duplicated in ${ns}`
+        );
+      }
+      const names = json.map((a) => a.name);
+      for (const name of names) {
+        assert.lengthOf(
+          names.filter((n) => n === name),
+          1,
+          `${name} is duplicated in ${ns}`
+        );
+      }
+    });
+
+    test(`should not have similar descriptions for ${ns}`, async () => {
+      const json = (await import(`../json/${ns}/outfits.json`)).default;
+      const descriptions = json.map((a) => a.description);
+      for (let i = 0; i < json.length - 1; i++) {
+        const target = descriptions[i];
+        const closest = findBestMatch(
+          target,
+          descriptions.slice(i + 1)
+        ).bestMatch;
+        assert.isBelow(
+          closest.rating,
+          0.8,
+          `${target} is too similar to ${closest.target}`
+        );
+      }
+    });
   }
 
   for (const ns of portraitsList) {
@@ -94,6 +206,43 @@ suite("Asset data", () => {
       }
       assert.equal(data.length, json.length);
     });
+
+    test(`should have unique names and filenames for ${ns}`, async () => {
+      const json = (await import(`../json/${ns}/portraits.json`)).default;
+      const fileNames = json.map((a) => a.fileName);
+      for (const file of fileNames) {
+        assert.lengthOf(
+          fileNames.filter((f) => f === file),
+          1,
+          `${file} is duplicated in ${ns}`
+        );
+      }
+      const names = json.map((a) => a.name);
+      for (const name of names) {
+        assert.lengthOf(
+          names.filter((n) => n === name),
+          1,
+          `${name} is duplicated in ${ns}`
+        );
+      }
+    });
+
+    test(`should not have similar descriptions for ${ns}`, async () => {
+      const json = (await import(`../json/${ns}/portraits.json`)).default;
+      const descriptions = json.map((a) => a.description);
+      for (let i = 0; i < json.length - 1; i++) {
+        const target = descriptions[i];
+        const closest = findBestMatch(
+          target,
+          descriptions.slice(i + 1)
+        ).bestMatch;
+        assert.isBelow(
+          closest.rating,
+          0.8,
+          `${target} is too similar to ${closest.target}`
+        );
+      }
+    });
   }
 
   for (const ns of posesList) {
@@ -111,6 +260,43 @@ suite("Asset data", () => {
         assert.include(data, object.fileName);
       }
       assert.equal(data.length, json.length);
+    });
+
+    test(`should have unique names and filenames for ${ns}`, async () => {
+      const json = (await import(`../json/${ns}/poses.json`)).default;
+      const fileNames = json.map((a) => a.fileName);
+      for (const file of fileNames) {
+        assert.lengthOf(
+          fileNames.filter((f) => f === file),
+          1,
+          `${file} is duplicated in ${ns}`
+        );
+      }
+      const names = json.map((a) => a.name);
+      for (const name of names) {
+        assert.lengthOf(
+          names.filter((n) => n === name),
+          1,
+          `${name} is duplicated in ${ns}`
+        );
+      }
+    });
+
+    test(`should not have similar descriptions for ${ns}`, async () => {
+      const json = (await import(`../json/${ns}/poses.json`)).default;
+      const descriptions = json.map((a) => a.description);
+      for (let i = 0; i < json.length - 1; i++) {
+        const target = descriptions[i];
+        const closest = findBestMatch(
+          target,
+          descriptions.slice(i + 1)
+        ).bestMatch;
+        assert.isBelow(
+          closest.rating,
+          0.8,
+          `${target} is too similar to ${closest.target}`
+        );
+      }
     });
   }
 });
