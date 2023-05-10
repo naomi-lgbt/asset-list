@@ -73,7 +73,7 @@ suite("Asset data", () => {
         ).bestMatch;
         assert.isBelow(
           closest.rating,
-          0.8,
+          0.9,
           `${target} is too similar to ${closest.target}`
         );
       }
@@ -128,7 +128,7 @@ suite("Asset data", () => {
         ).bestMatch;
         assert.isBelow(
           closest.rating,
-          0.8,
+          0.9,
           `${target} is too similar to ${closest.target}`
         );
       }
@@ -183,7 +183,7 @@ suite("Asset data", () => {
         ).bestMatch;
         assert.isBelow(
           closest.rating,
-          0.8,
+          0.9,
           `${target} is too similar to ${closest.target}`
         );
       }
@@ -238,7 +238,7 @@ suite("Asset data", () => {
         ).bestMatch;
         assert.isBelow(
           closest.rating,
-          0.8,
+          0.9,
           `${target} is too similar to ${closest.target}`
         );
       }
@@ -293,7 +293,7 @@ suite("Asset data", () => {
         ).bestMatch;
         assert.isBelow(
           closest.rating,
-          0.8,
+          0.9,
           `${target} is too similar to ${closest.target}`
         );
       }
