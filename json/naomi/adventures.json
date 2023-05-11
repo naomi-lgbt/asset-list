@@ -238,5 +238,11 @@
         "game": "XCOM 2",
         "alt": "Naomi wearing a black tank top, black shorts, and a black skirt with purple runes on it, holding an assault rifle.",
         "description": "Fighting off an alien invasion... She liked that more than she thought she would."
+    },
+    {
+        "fileName": "ravens-quest.png",
+        "game": "Raven's Quest",
+        "alt": "Naomi wearing a black tanktop with a cat window and black tight shorts.",
+        "description": "Waking up in a strange land with no memory of who she is or how she got there..."
     }
 ]

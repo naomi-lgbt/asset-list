@@ -2227,5 +2227,43 @@
         "credits": {
             "outfit": "https://booth.pm/en/items/4759552"
         }
+    },
+    {
+        "name": "Penguin Pyjamas",
+        "fileName": "penguin.png",
+        "description": "Comfy and cozy for a day on the couch.",
+        "alt": "Naomi wearing a blue tank top with pink pyjama pants that have a penguin pattern.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4768321"
+        }
+    },
+    {
+        "name": "Bat Corset",
+        "fileName": "bat-2.png",
+        "description": "Intended for warmer weather, it's comfortable and fashionable. The realistic bat is a nice touch.",
+        "alt": "Naomi wearing a white tanktop with a bat on the front, a black leather corset over the tanktop, and blue jean shorts.",
+        "credits": {
+            "top": "https://booth.pm/en/items/4767428",
+            "shorts": "https://booth.pm/en/items/2153296"
+        }
+    },
+    {
+        "name": "Outdoor Wear",
+        "fileName": "outdoors.png",
+        "description": "It is not often that Naomi does work in the yard, but when she does this outfit is perfect for keeping her cool and clean.",
+        "alt": "Naomi wearing a brown leather corset and ripped blue jeans.",
+        "credits": {
+            "top": "https://booth.pm/en/items/4767494",
+            "bottoms": "https://booth.pm/en/items/2451277"
+        }
+    },
+    {
+        "name": "Mesh Shawl",
+        "fileName": "shawl.png",
+        "description": "Punk enough for a party, professional enough for the office?",
+        "alt": "Naomi wearing a mesh sleeved shawl over a black bikini top, and a black mini skirt with garter leggings.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4738887"
+        }
     }
 ]
