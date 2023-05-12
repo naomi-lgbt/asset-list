@@ -1198,5 +1198,47 @@
         "name": "At The Falls",
         "alt": "Naomi standing in front of a waterfall, stretching.",
         "description": "Waterfalls are one of her favourite nature destinations."
+    },
+    {
+        "fileName": "classroom.png",
+        "name": "Star Student",
+        "alt": "Naomi sitting in a classroom chair, her feet on the desk, hiding her face with a hand.",
+        "description": "As a student, Naomi coasted through most of school with little effort. She was always bored, and it showed."
+    },
+    {
+        "fileName": "dancer.png",
+        "name": "Put On a Show",
+        "alt": "Naomi in a dancer dress, swaying her arms.",
+        "description": "Okay, so she isn't the best dancer. She still has fun with it."
+    },
+    {
+        "fileName": "knight.png",
+        "name": "Knight Naomi",
+        "alt": "Naomi wearing a black and purple metal chest plate with a long skirt, wielding a sword.",
+        "description": "Striking down her foes swiftly is what she specialises in."
+    },
+    {
+        "fileName": "shrine.png",
+        "name": "Visiting the Temple",
+        "alt": "Naomi in a black yukata with a purple sash, standing on a bridge over a pond in a traditional shrine.",
+        "description": "Temples and shrines have always appealed to her with their serenity."
+    },
+    {
+        "fileName": "shrine-2.png",
+        "name": "Shrine Maiden",
+        "alt": "Naomi wearing a purple and black shrine maiden outfit, sitting on a bench in a shrine.",
+        "description": "Without the proper training, welcoming you to the shrine is about all she can do."
+    },
+    {
+        "fileName": "maid.png",
+        "name": "Maid Cafe",
+        "alt": "Naomi wearing a maid outfit, serving a platter of food and drinks.",
+        "description": "Working in the maid cafe turned out to be fun, and a great way to meet new friends!"
+    },
+    {
+        "fileName": "stage.png",
+        "name": "Miku Concert",
+        "alt": "Naomi performing on a stage while wearing a Hatsune Miku outfit.",
+        "description": "Really just a dream, but one day Naomi hopes to make it reality!"
     }
 ]
