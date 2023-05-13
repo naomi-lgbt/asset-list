@@ -244,5 +244,11 @@
         "game": "Raven's Quest",
         "alt": "Naomi wearing a black tanktop with a cat window and black tight shorts.",
         "description": "Waking up in a strange land with no memory of who she is or how she got there..."
+    },
+    {
+        "fileName": "fallout-4.jpg",
+        "game": "Fallout 4",
+        "alt": "Naomi wearing a white dancer outfit, with metal armour on her arms and legs.",
+        "description": "Her entire family ripped away from her while she could only watch - now she seeks revenge."
     }
 ]
