@@ -118,5 +118,47 @@
         "name": "Idol Stage",
         "alt": "Naomi, Becca, and Rosalia on stage singing and striking a matching pose.",
         "description": "To think, if they weren't adventurers they could have been pop stars."
+    },
+    {
+        "fileName": "club.png",
+        "name": "Night Out",
+        "alt": "Naomi, Becca, and Rosalia sitting in the bench of a nightclub booth.",
+        "description": "Clubbing is one of their favourite activities. They love to dance!"
+    },
+    {
+        "fileName": "hug.png",
+        "name": "Group Hug",
+        "alt": "Becca and Rosalia giving Naomi a big hug.",
+        "description": "The three of them are very close, and share a strong bond."
+    },
+    {
+        "fileName": "nature.png",
+        "name": "Nature Walk",
+        "alt": "Naomi, Becca, and Rosalia shading themselves under a tree.",
+        "description": "Even while out on an adventure, it is always important to stop and appreciate the beauty of the world."
+    },
+    {
+        "fileName": "pier.png",
+        "name": "At The Pier",
+        "alt": "Naomi, Becca, and Rosalia sitting on a dock extended out over the water.",
+        "description": "On hot days, being by the water is an excellent way to cool off."
+    },
+    {
+        "fileName": "portrait.png",
+        "name": "Posing for a Photo",
+        "alt": "Naomi and Becca sitting down, Rosalia standing behind them, all posed for a group photograph.",
+        "description": "The Novas love to capture the special moments they share together."
+    },
+    {
+        "fileName": "spring.png",
+        "name": "Hot Springs",
+        "alt": "Naomi, Rosalia, and Becca soaking in a hot spring.",
+        "description": "After a busy day of adventuring, soaking in the spring is the perfect way to relax those muscles."
+    },
+    {
+        "fileName": "swim.png",
+        "name": "Hesitant to Get Wet",
+        "alt": "Naomi, Rosalia, and Becca standing at the edge of the pool.",
+        "description": "They went through all the effort to go to the pool, but aren't sure they want to get in."
     }
 ]
