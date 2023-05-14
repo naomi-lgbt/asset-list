@@ -2283,5 +2283,17 @@
         "credits": {
             "outfit": "https://booth.pm/en/items/4774882"
         }
+    },
+    {
+        "name": "Frilled Gown",
+        "fileName": "frilled.png",
+        "description": "The ruffles and frills add a nice charm to this dress.",
+        "alt": "Naomi wearing a white dress with detatched sleeves and frills on the skirt."
+    },
+    {
+        "name": "Crimson Outfit",
+        "fileName": "crimson.png",
+        "description": "Bright red really brings out the glow of her skin.",
+        "alt": "Naomi wearing a red tank top and shorts."
     }
 ]
