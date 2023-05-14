@@ -2265,5 +2265,23 @@
         "credits": {
             "outfit": "https://booth.pm/en/items/4738887"
         }
+    },
+    {
+        "name": "White Cheongsam",
+        "fileName": "cheongsam-2.png",
+        "description": "Irresistible in the way it hugs her body, Naomi just had to have this.",
+        "alt": "Naomi wearing a white cheongsam dress with blue accents.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4773928"
+        }
+    },
+    {
+        "name": "Scarlet Velvet",
+        "fileName": "scarlet.png",
+        "description": "Velvet is a nice and soft material, but may bit a bit much for this dress.",
+        "alt": "Naomi wearing a bright red velvet dress.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4774882"
+        }
     }
 ]
