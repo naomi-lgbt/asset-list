@@ -58,5 +58,11 @@
         "name": "The Real Treasure",
         "alt": "Rosalia and Becca sitting in a treasure chest.",
         "description": "That's... not how you're supposed to use a treasure chest."
+    },
+    {
+        "fileName": "battle.png",
+        "name": "Ready for Battle",
+        "alt": "Becca and Rosalia standing ready for battle. Rosalia has her greatsword in hand, and Becca has a spell tome open.",
+        "description": "Standing side by side, the two of them are a force to be reckoned with on the battelfield."
     }
 ]

@@ -250,5 +250,23 @@
         "game": "Fallout 4",
         "alt": "Naomi wearing a white dancer outfit, with metal armour on her arms and legs.",
         "description": "Her entire family ripped away from her while she could only watch - now she seeks revenge."
+    },
+    {
+        "fileName": "demonologist.jpg",
+        "game": "Demonologist",
+        "alt": "Naomi wearing a black cropped tank top and black leggings.",
+        "description": "Hunting ghosts is absolutely terrifying, but the work must be done."
+    },
+    {
+        "fileName": "idling-gods.png",
+        "game": "Idling to Rule the Gods",
+        "alt": "Naomi wearing a pink crop top and pink shorts, with matching sandals.",
+        "description": "Growing her power to become stronger than the gods themselves, Naomi will soon be unstoppable."
+    },
+    {
+        "fileName": "idle-cook.jpg",
+        "game": "Idle Cooking Empire",
+        "alt": "Naomi wearing a white cropped blouse, red miniskirt, white stockings, and pink sandals.",
+        "description": "Naomi might not be the best in the kitchen, but she'll give it her all!"
     }
 ]

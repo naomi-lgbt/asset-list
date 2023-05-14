@@ -160,5 +160,11 @@
         "name": "Hesitant to Get Wet",
         "alt": "Naomi, Rosalia, and Becca standing at the edge of the pool.",
         "description": "They went through all the effort to go to the pool, but aren't sure they want to get in."
+    },
+    {
+        "fileName": "work.png",
+        "name": "Hard at Work",
+        "alt": "Naomi, Becca, and Rosalia sitting at their desks. Becca and Rosalia are arguing over the plan, while Naomi works on her laptop.",
+        "description": "When the three of them put their heads together, they come up with some fantastic ideas."
     }
 ]
