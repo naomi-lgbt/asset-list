@@ -2288,12 +2288,45 @@
         "name": "Frilled Gown",
         "fileName": "frilled.png",
         "description": "The ruffles and frills add a nice charm to this dress.",
-        "alt": "Naomi wearing a white dress with detatched sleeves and frills on the skirt."
+        "alt": "Naomi wearing a white dress with detatched sleeves and frills on the skirt.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4777425"
+        }
     },
     {
         "name": "Crimson Outfit",
         "fileName": "crimson.png",
         "description": "Bright red really brings out the glow of her skin.",
-        "alt": "Naomi wearing a red tank top and shorts."
+        "alt": "Naomi wearing a red tank top and shorts.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4777543"
+        }
+    },
+    {
+        "name": "Plaid Dress",
+        "fileName": "plaid-2.png",
+        "description": "The sweater underneath makes this a bit too warm for the summer, but it's great on a breesy spring day.",
+        "alt": "Naomi wearing a black and white plaid sundress with a black sweater underneath.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/2688149"
+        }
+    },
+    {
+        "name": "Pride Outfit",
+        "fileName": "pride-2.png",
+        "description": "Naomi is very proud of who she is, and hopes you're proud of who you are too!",
+        "alt": "Naomi wearing a white crop top with rainbow hems and a pixelated rainbow design, and a gradient rainbow miniskirt.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4330891"
+        }
+    },
+    {
+        "name": "Gym Clothes",
+        "fileName": "gym.png",
+        "description": "Buying the outfit but never actually going to the gym... Typical Naomi.",
+        "alt": "Naomi wearing a white crop top with a black cropped jacket and black shorts.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4496307"
+        }
     }
 ]
