@@ -1240,5 +1240,17 @@
         "name": "Miku Concert",
         "alt": "Naomi performing on a stage while wearing a Hatsune Miku outfit.",
         "description": "Really just a dream, but one day Naomi hopes to make it reality!"
+    },
+    {
+        "fileName": "affection.png",
+        "name": "Naomi's Affection",
+        "alt": "Naomi sitting down, holding out her hand and presenting a heart.",
+        "description": "She gives you her affection."
+    },
+    {
+        "fileName": "confession.png",
+        "name": "Secret Confession",
+        "alt": "Naomi standing on the sidewalk, extending a love letter to you, blushing.",
+        "description": "If she confessed her love, what would you do?"
     }
 ]
