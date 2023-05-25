@@ -2328,5 +2328,23 @@
         "credits": {
             "outfit": "https://booth.pm/en/items/4496307"
         }
+    },
+    {
+        "name": "Gerudo Costume",
+        "fileName": "gerudo.png",
+        "description": "From Breath of the Wild!",
+        "alt": "Naomi wearing a green halter top with detatched blue sleeves, a blue face veil, and purple puffed shorts.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4729058"
+        }
+    },
+    {
+        "name": "Frostbite Costume",
+        "fileName": "frostbite.png",
+        "description": "From Tears of the Kingdom!",
+        "alt": "Naomi wearing a blue slit dress with a triforce pattern, and brown loose pants.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4801074"
+        }
     }
 ]
