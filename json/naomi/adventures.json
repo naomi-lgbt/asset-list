@@ -268,5 +268,11 @@
         "game": "Idle Cooking Empire",
         "alt": "Naomi wearing a white cropped blouse, red miniskirt, white stockings, and pink sandals.",
         "description": "Naomi might not be the best in the kitchen, but she'll give it her all!"
+    },
+    {
+        "fileName": "solasta.jpg",
+        "game": "Solasta: Crown of the Magister",
+        "alt": "Naomi wearing a black wizard robe and a gold crown.",
+        "description": "The crown seems to hold some sort of power, but Naomi can't tell if it's cursed or not."
     }
 ]
