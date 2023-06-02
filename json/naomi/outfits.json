@@ -2346,5 +2346,51 @@
         "credits": {
             "outfit": "https://booth.pm/en/items/4801074"
         }
+    },
+    {
+        "name": "Green Gown",
+        "fileName": "green-2.png",
+        "description": "It's both elegant and flashy.",
+        "alt": "Naomi wearing a green strapless dress with a slit ruffled skirt and pearls.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4827521"
+        }
+    },
+    {
+        "name": "Latex Crop",
+        "fileName": "croptop-2.png",
+        "description": "At what point does it not count as clothing anymore?",
+        "alt": "Naomi wearing a short tank top, a sheer cropped shirt, and latex pants.",
+        "credits": {
+            "top": "https://booth.pm/en/items/4825741",
+            "pants": "https://booth.pm/en/items/4819897"
+        }
+    },
+    {
+        "name": "Mermaid Skirt",
+        "fileName": "mermaid-2.png",
+        "description": "Under the sea!",
+        "alt": "Naomi wearing a blue bikini, skirt, and leggings, all with scales pattern.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4824221"
+        }
+    },
+    {
+        "name": "Cold Weather Wear",
+        "fileName": "winter.png",
+        "description": "It's a wonder her legs don't freeze.",
+        "alt": "Naomi wearing a white sweater and green plaid miniskirt.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4826800"
+        }
+    },
+    {
+        "name": "Power Suit",
+        "fileName": "suit.png",
+        "description": "When the time comes to be a boss, she's ready.",
+        "alt": "Naomi wearing a white suit, the jacket short enough to reveal her midsection.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4823944"
+        }
     }
 ]
