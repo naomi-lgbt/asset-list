@@ -166,5 +166,17 @@
         "name": "Hard at Work",
         "alt": "Naomi, Becca, and Rosalia sitting at their desks. Becca and Rosalia are arguing over the plan, while Naomi works on her laptop.",
         "description": "When the three of them put their heads together, they come up with some fantastic ideas."
+    },
+    {
+        "fileName": "soccer.png",
+        "name": "Soccer Match",
+        "alt": "Naomi kicking a soccer ball, Becca chasing after her as Rosalia keeps the goal.",
+        "description": "A friendly soccer match is a great way to get exercise and have fun."
+    },
+    {
+        "fileName": "train.png",
+        "name": "Jealousy",
+        "alt": "Rosalia giving Becca a kiss on the train, Naomi sitting nearby sulking jealously.",
+        "description": "Naomi feels like the third wheel sometimes."
     }
 ]

@@ -22,5 +22,11 @@
         "name": "Hard at Work",
         "alt": "Becca in a casual croptop, sheer skirt, and purple stockings, sitting at her desk with a computer in front of her and pocky in her mouth.",
         "description": "Almost always hard at work, Becca rarely takes a moment to catch her breath."
+    },
+    {
+        "fileName": "spellbook.png",
+        "name": "Casting a Spell",
+        "alt": "Becca holding her spellbook, pages flying around her as she casts a spell.",
+        "description": "The spellbook is not necessary, but makes for a good show."
     }
 ]

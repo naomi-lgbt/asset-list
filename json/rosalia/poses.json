@@ -16,5 +16,11 @@
         "name": "Sakura Festival",
         "alt": "Rosalia standing in a forest of cherry blossom trees.",
         "description": "Rosalia enjoys the Sakura Festival - she loves the cherry blossom trees."
+    },
+    {
+        "fileName": "angel.png",
+        "name": "Angelic Warrior",
+        "alt": "Rosalia wielding her sword, an angelic halo and wings appearing behind her.",
+        "description": "Her holy magic empowers her fighting skills."
     }
 ]

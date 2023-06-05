@@ -2392,5 +2392,14 @@
         "credits": {
             "outfit": "https://booth.pm/en/items/4823944"
         }
+    },
+    {
+        "name": "Petal Bikini",
+        "fileName": "bikini.png",
+        "description": "Elegant and classy, but still appropriate for a warm day at the beach.",
+        "alt": "Naomi wearing a white bikini with dark red accents and a flower pattern.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4835010"
+        }
     }
 ]

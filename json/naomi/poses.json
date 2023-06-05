@@ -1252,5 +1252,17 @@
         "name": "Secret Confession",
         "alt": "Naomi standing on the sidewalk, extending a love letter to you, blushing.",
         "description": "If she confessed her love, what would you do?"
+    },
+    {
+        "fileName": "challenger.png",
+        "name": "Challenger Approaching",
+        "alt": "Naomi in the 'Challenger Approaching' screen from Super Smash Brothers.",
+        "description": "Ready for the fight?"
+    },
+    {
+        "fileName": "gears.png",
+        "name": "Clockwork Tower",
+        "alt": "Naomi sitting on the platform of a tower, gears rotating behind her.",
+        "description": "Much like life, the gears stop for no one."
     }
 ]
