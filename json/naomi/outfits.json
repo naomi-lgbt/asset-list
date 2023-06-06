@@ -2401,5 +2401,14 @@
         "credits": {
             "outfit": "https://booth.pm/en/items/4835010"
         }
+    },
+    {
+        "name": "French Maid",
+        "fileName": "french.png",
+        "description": "A little more accurate to the real thing.",
+        "alt": "Naomi wearing a sleeveless french maid dress.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4836998"
+        }
     }
 ]
