@@ -2438,5 +2438,23 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/4854974"
     }
+  },
+  {
+    "name": "Velvet Crowe Cosplay",
+    "fileName": "velvet-crowe.png",
+    "description": "Get in my way and I'll show you a magic trick... The kind that involves you getting cut in two.",
+    "alt": "Naomi cosplaying as Velvet Crowe from Tales of Berseria.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4782375"
+    }
+  },
+  {
+    "name": "Ai Hoshino Cosplay",
+    "fileName": "oshi.png",
+    "description": "If you're scared of falling over, you'll just fall even more.",
+    "alt": "Naomi cosplaying as Ai Hoshino from Oshi no Ko",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4830433"
+    }
   }
 ]
