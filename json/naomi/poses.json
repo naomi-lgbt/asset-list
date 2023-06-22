@@ -1,1280 +1,1280 @@
 [
-    {
-        "fileName": "alone.png",
-        "name": "A Night Alone",
-        "alt": "Naomi sitting on the couch, a beer in hand and a morose look on her face.",
-        "description": "Sometimes Naomi doesn't want to spend the night alone."
-    },
-    {
-        "fileName": "ayleid.png",
-        "name": "Ayleid Ruin",
-        "alt": "Naomi sitting on an Ayleid well, a flirty look on her face.",
-        "description": "When on an adventure, Naomi is always on the lookout for a great photo opportunity."
-    },
-    {
-        "fileName": "baking.png",
-        "name": "Baking Catastrophe",
-        "alt": "Naomi sitting down, a mixing bowl in hand, covered in chocolate.",
-        "description": "She tries to bake with love, but it doesn't always go well."
-    },
-    {
-        "fileName": "balcony.png",
-        "name": "Overlooking the City",
-        "alt": "Naomi leaning on a balcony, a city skyline in the background.",
-        "description": "The view is nice, but she'd rather look at you."
-    },
-    {
-        "fileName": "ballet.png",
-        "name": "Ballet Stretches",
-        "alt": "Naomi leaning on a ballet bar, stretching her leg up in the air.",
-        "description": "It's important to do your stretches before you start dancing."
-    },
-    {
-        "fileName": "ban.png",
-        "name": "Ban Sign",
-        "alt": "Naomi holding a picket sign that says 'Ban'.",
-        "description": "She doesn't tolerate any unkindness in her communities."
-    },
-    {
-        "fileName": "bar.png",
-        "name": "Bartender",
-        "alt": "Naomi standing behind a bar mixing a drink.",
-        "description": "With how much she drinks, she can make a mean cocktail."
-    },
-    {
-        "fileName": "barista.png",
-        "name": "Barista",
-        "alt": "Naomi standing in a coffee shop, cup in hand ready to take an order.",
-        "description": "She thinks she can make a good latte, but she only drinks black coffee..."
-    },
-    {
-        "fileName": "beach-2.png",
-        "name": "Sandy Day",
-        "alt": "Naomi laying sideways on the beach.",
-        "description": "She clearly isn't worried about getting sand in her hair."
-    },
-    {
-        "fileName": "beach-3.png",
-        "name": "Posing at the Beach",
-        "alt": "Naomi on her stomach, laying on a beach towel, her legs in the air.",
-        "description": "Naomi loves to strike a pose when the opportunity arises."
-    },
-    {
-        "fileName": "beach-4.png",
-        "name": "Beach Cutie",
-        "alt": "Naomi sitting on a beach chair, bending a leg and resting her head on her knee.",
-        "description": "She was feeling cute on this beautiful day."
-    },
-    {
-        "fileName": "beach-5.png",
-        "name": "Beach from Behind",
-        "alt": "Naomi laying on her stomach, legs in the air, looking over her shoulder back at the screen.",
-        "description": "She thinks she looks cute from any angle."
-    },
-    {
-        "fileName": "beach-6.png",
-        "name": "Getting Warm",
-        "alt": "Naomi laying on her back on a beach towel, starting to sweat.",
-        "description": "After spending all day at the beach, Naomi was starting to feel the heat."
-    },
-    {
-        "fileName": "beach.png",
-        "name": "Popsicles",
-        "alt": "Naomi laying in a beach chair eating a popsicle",
-        "description": "The best time for a frozen treat is when you're at the beach."
-    },
-    {
-        "fileName": "beatsaber.png",
-        "name": "Beatsaber",
-        "alt": "Naomi playing Beatsaber.",
-        "description": "She doesn't own a VR set, but has always wanted to try this game."
-    },
-    {
-        "fileName": "bed-10.png",
-        "name": "Flirty and Playful",
-        "alt": "Naomi on her hands and knees in bed, looking back over her shoulder with her tongue stuck out.",
-        "description": "She loves to tease people and flirt, even if nothing comes of it."
-    },
-    {
-        "fileName": "bed-11.png",
-        "name": "Feeling Lovey",
-        "alt": "Naomi on her stomach in bed, surrounded by hearts.",
-        "description": "She took this to use as her avatar for a while."
-    },
-    {
-        "fileName": "bed-12.png",
-        "name": "Pillow Talk",
-        "alt": "Naomi laying on her side in bed, resting her head on her hand",
-        "description": "Time to chat about your day before calling it a night."
-    },
-    {
-        "fileName": "bed-13.png",
-        "name": "Interrupted",
-        "alt": "Naomi caught by surprise while reading in bed.",
-        "description": "She just wanted to read for a bit. She was not planning on being interrupted."
-    },
-    {
-        "fileName": "bed-14.png",
-        "name": "Restless",
-        "alt": "Naomi sitting in bed, hugging her knee with her other leg stretched.",
-        "description": "Sometimes Naomi struggles to unwind before bed, and would rather spend some time chatting."
-    },
-    {
-        "fileName": "bed-15.png",
-        "name": "Chatting in Bed",
-        "alt": "Naomi laying on her stomach, smiling and chatting.",
-        "description": "She will talk with you until she passes out."
-    },
-    {
-        "fileName": "bed-2.png",
-        "name": "Trouble Sleeping",
-        "alt": "Naomi in her sheer nightgown, laying on her back in bed.",
-        "description": "Sometimes she has to lay there for a bit before she can drift off."
-    },
-    {
-        "fileName": "bed-3.png",
-        "name": "Sleepover",
-        "alt": "Naomi kneeling on the bed.",
-        "description": "Got any ideas for a fun sleepover game?"
-    },
-    {
-        "fileName": "bed-4.png",
-        "name": "Bedtime Cutie",
-        "alt": "Naomi on her stomach in bed, legs in the air.",
-        "description": "Even at bedtime, she feels cute sometimes."
-    },
-    {
-        "fileName": "bed-5.png",
-        "name": "Evening Stretch",
-        "alt": "Naomi yawning and stretching in bed.",
-        "description": "A good yawn and stretch before bed feels great."
-    },
-    {
-        "fileName": "bed-6.png",
-        "name": "Shy Sleeper",
-        "alt": "Naomi with a shy look, stretching her legs toward the screen.",
-        "description": "She gets shy when she is getting ready for bed."
-    },
-    {
-        "fileName": "bed-7.png",
-        "name": "Strike a Pose",
-        "alt": "Naomi striking a cute pose and smiling, sitting on her bed.",
-        "description": "She enjoys posing on the bed for a cute picture."
-    },
-    {
-        "fileName": "bed-8.png",
-        "name": "Covering Up",
-        "alt": "Naomi sitting on the bed, wrapping her arms around her chest.",
-        "description": "She needs to change into her nightgown, and doesn't want to be watched."
-    },
-    {
-        "fileName": "bed-9.png",
-        "name": "Laying Down",
-        "alt": "Naomi in a sundress, laying on the bed.",
-        "description": "She just wanted to lay down for a moment. It's been a busy day."
-    },
-    {
-        "fileName": "bed.png",
-        "name": "Caught Before Bed",
-        "alt": "Naomi on her hands and knees, getting ready for bed.",
-        "description": "You caught her just before she crawled into bed."
-    },
-    {
-        "fileName": "blush.png",
-        "name": "Blushing Beauty",
-        "alt": "Naomi blushing bright red, hands on her cheeks.",
-        "description": "Whatever happened has got her all sorts of flustered."
-    },
-    {
-        "fileName": "bookshelf.png",
-        "name": "Hunting for a Book",
-        "alt": "Naomi leaning over, looking through a bookshelf.",
-        "description": "Choosing your next book can be a challenge, especially if the last book was really good."
-    },
-    {
-        "fileName": "box-2.png",
-        "name": "Crawling Out",
-        "alt": "Naomi crawling out of a box.",
-        "description": "She can be very cat-like, sometimes."
-    },
-    {
-        "fileName": "box.png",
-        "name": "Hide and Seek",
-        "alt": "Naomi peeking out of a box.",
-        "description": "She loves to play hide and seek. She's a very good hider."
-    },
-    {
-        "fileName": "break.png",
-        "name": "Break Time",
-        "alt": "Naomi leaning back in her chair, her feet on the desk.",
-        "description": "Sometimes she needs a break from staring at the screen."
-    },
-    {
-        "fileName": "butterfly.png",
-        "name": "Reaching for the Butterfly",
-        "alt": "Naomi in a red field, reaching up toward a green butterfly.",
-        "description": "Beauty is fleeting, but she still wants that butterfly."
-    },
-    {
-        "fileName": "cafe.png",
-        "name": "Coffee Time",
-        "alt": "Naomi sitting in a cafe outside, sipping on coffee.",
-        "description": "She enjoys her coffee, and getting out of the house is a nice bonus."
-    },
-    {
-        "fileName": "campfire.png",
-        "name": "Camping Out",
-        "alt": "Naomi sitting at a campfire.",
-        "description": "Spending a night in the woods is nice, but more than a couple of days and she misses her home."
-    },
-    {
-        "fileName": "card.png",
-        "name": "Queen of Hearts",
-        "alt": "Naomi appearing as the queen on a standard queen of hearts card.",
-        "description": "Can she be the queen of your heart?"
-    },
-    {
-        "fileName": "casino.png",
-        "name": "Poker Night",
-        "alt": "Naomi laying on a casino table, holding a card.",
-        "description": "Pretty sure this isn't how the game is played."
-    },
-    {
-        "fileName": "cat.png",
-        "name": "Kitty Cat",
-        "alt": "Naomi wearing a tail and posing like a cat.",
-        "description": "Mew mew"
-    },
-    {
-        "fileName": "chair-2.png",
-        "name": "Social Club",
-        "alt": "Naomi sitting in a chair next to a table of mimosas.",
-        "description": "She comes for the socialising but stays for the drinks."
-    },
-    {
-        "fileName": "chair.png",
-        "name": "Feeling Smug",
-        "alt": "Naomi sitting in a chair, looking smug.",
-        "description": "It may not be an actual throne, but it is her throne."
-    },
-    {
-        "fileName": "cheer.png",
-        "name": "Cheering You On",
-        "alt": "Naomi cheering, pom poms in each hand.",
-        "description": "She believes in you, so now you should believe in yourself."
-    },
-    {
-        "fileName": "chess.png",
-        "name": "Checkmate",
-        "alt": "Naomi sitting at a table, chess board ready for a new game.",
-        "description": "She loves to play chess. Wanna try your hand against her?"
-    },
-    {
-        "fileName": "coffin.png",
-        "name": "Vampire of Roses",
-        "alt": "Naomi laying in a coffin full of roses, vines wrapping her arms and legs.",
-        "description": "She may not be a vampire, but she thinks her elegance surpasses one."
-    },
-    {
-        "fileName": "confused.png",
-        "name": "Too Much Studying",
-        "alt": "Naomi laying down, confused, surrounded by books.",
-        "description": "Sometimes she tries to learn too much at once and it all jumbles together."
-    },
-    {
-        "fileName": "cooking.png",
-        "name": "Master Chef",
-        "alt": "Naomi in the kitchen, cooking a stew.",
-        "description": "Naomi really shouldn't be allowed in the kitchen..."
-    },
-    {
-        "fileName": "cute.png",
-        "name": "Evening Glow",
-        "alt": "Naomi sitting down, the sunset hitting her face.",
-        "description": "In the right light, she seems to positively glow."
-    },
-    {
-        "fileName": "cyber.png",
-        "name": "Cyberspace",
-        "alt": "Naomi crouching down in a cybernetic looking world.",
-        "description": "They say she's a hacker, but she couldn't hack her way out of a paper bag."
-    },
-    {
-        "fileName": "date.png",
-        "name": "Lunch Date",
-        "alt": "Naomi at a restaurant table outside, a sandwich in front of her.",
-        "description": "Would you take her out to lunch?"
-    },
-    {
-        "fileName": "debugging.png",
-        "name": "Ultimate Debugging",
-        "alt": "Naomi smashing a computer with an oversized hammer.",
-        "description": "When the bugs in the code become too much..."
-    },
-    {
-        "fileName": "dev.png",
-        "name": "Chill Developer",
-        "alt": "Naomi at her desk, leaning back in her chair as she works.",
-        "description": "When things are going really well, Naomi feels like a pro."
-    },
-    {
-        "fileName": "dinner.png",
-        "name": "Steak Dinner",
-        "alt": "Naomi at a table with a steak dinner in front of her, making the peace sign.",
-        "description": "The smoke totally isn't from the six she burned in the process..."
-    },
-    {
-        "fileName": "drink.png",
-        "name": "Time for a Drink",
-        "alt": "Naomi resting her head on the counter, glass and bottle in hand.",
-        "description": "When you can't fix your problems, drink them away."
-    },
-    {
-        "fileName": "driving.png",
-        "name": "Road Trip",
-        "alt": "Naomi in the car, driving.",
-        "description": "She does love to drive. Sometimes a little too fast."
-    },
-    {
-        "fileName": "earth.png",
-        "name": "World in My Hands",
-        "alt": "Naomi leaning on the planet Earth, the stars behind her.",
-        "description": "There are days where she feels like the world is her oyster, and nothing can stop her."
-    },
-    {
-        "fileName": "evening.png",
-        "name": "Evening Decompression",
-        "alt": "Naomi laying on the couch, scrolling through her phone.",
-        "description": "After a hard day, sometimes she mindlessly zones out on Discord."
-    },
-    {
-        "fileName": "exhausted.png",
-        "name": "Work Until You Drop",
-        "alt": "Naomi sitting at her desk, sleeping on her laptop.",
-        "description": "She's totally fallen asleep at her desk before."
-    },
-    {
-        "fileName": "fence.png",
-        "name": "Atop a Fence",
-        "alt": "Naomi sitting on top of a chainlink fence.",
-        "description": "She loves climbing things so she can look down at the view."
-    },
-    {
-        "fileName": "field.png",
-        "name": "Field of Flowers",
-        "alt": "Naomi dancing in a field of white flowers.",
-        "description": "Naomi loves to get out and play in nature."
-    },
-    {
-        "fileName": "fight.png",
-        "name": "Fight Me",
-        "alt": "Naomi with her fists raised, ready to fight.",
-        "description": "This is a bad idea, she probably won't win."
-    },
-    {
-        "fileName": "fireplace.png",
-        "name": "Night by the Fire",
-        "alt": "Naomi sitting in her nightgown in front of a fireplace.",
-        "description": "Nothing beats the fireplace on a cold winter night."
-    },
-    {
-        "fileName": "flip.png",
-        "name": "Backflip",
-        "alt": "Naomi doing a backflip over a bar.",
-        "description": "She can be athletic when she wants to be."
-    },
-    {
-        "fileName": "flirty.png",
-        "name": "Flirty Time",
-        "alt": "Naomi laying on the floor by her bed, giving a flirty look.",
-        "description": "There are times where she really can't help herself."
-    },
-    {
-        "fileName": "float.png",
-        "name": "Floating in the Sea",
-        "alt": "Naomi in the water by the beach, floating on an inflatable ring.",
-        "description": "Tempting to let the waves take her away."
-    },
-    {
-        "fileName": "floor.png",
-        "name": "Sitting on the Floor",
-        "alt": "Naomi sitting on the floor, eating a snack.",
-        "description": "It can be nice to just sit down and relax."
-    },
-    {
-        "fileName": "floral.png",
-        "name": "Floral Spirits",
-        "alt": "Naomi sitting on her bed, surrounded by flowers and spirits.",
-        "description": "Called by her kindness, the spirits came to pay her a visit."
-    },
-    {
-        "fileName": "forest.png",
-        "name": "Forest Shade",
-        "alt": "Naomi sitting under a tree, in the shade.",
-        "description": "On a hot day, finding the shade of a tree to read under is the best."
-    },
-    {
-        "fileName": "frustrated.png",
-        "name": "Frustrating Code",
-        "alt": "Naomi at her computer, looking frustrated.",
-        "description": "Once again, she cannot find the bug. She wrote it."
-    },
-    {
-        "fileName": "gaming-2.png",
-        "name": "Focused Gamer",
-        "alt": "Naomi laying in bed, surrounded by snacks, playing a game on her laptop.",
-        "description": "She has all sorts of gaming choices, but likes the ones where she can stay in bed."
-    },
-    {
-        "fileName": "gaming-3.png",
-        "name": "Console Gaming",
-        "alt": "Naomi sitting on the floor, playing on her XBox",
-        "description": "RPGs are her favourite, and character customisation is a huge selling point."
-    },
-    {
-        "fileName": "gaming-4.png",
-        "name": "The Witcher",
-        "alt": "Naomi sitting in bed, playing The Witcher 3",
-        "description": "She doesn't mind the lack of character customisation - she's got a thing for Geralt anyway."
-    },
-    {
-        "fileName": "gaming-5.png",
-        "name": "Koikatsu on Switch",
-        "alt": "Naomi laying in bed, playing Koikatsu on her Switch.",
-        "description": "Talk about the ultimate character creation..."
-    },
-    {
-        "fileName": "gaming.png",
-        "name": "Gaming in Bed",
-        "alt": "Naomi laying in bed, playing a game on her console.",
-        "description": "On a day off, Naomi might not ever get out of bed. If the game is fun."
-    },
-    {
-        "fileName": "gasp.png",
-        "name": "Gasping in Surprise",
-        "alt": "Naomi gasping in surprise, hand covering her mouth.",
-        "description": "Whatever happened, she certainly wasn't expecting it."
-    },
-    {
-        "fileName": "grass.png",
-        "name": "Laying in the Field",
-        "alt": "Naomi laying down in a field of grass.",
-        "description": "Cloud watching is loads of fun. She can always find a cool shape."
-    },
-    {
-        "fileName": "gun.png",
-        "name": "Sniper",
-        "alt": "Naomi holding a sniper rifle, looking through the scope.",
-        "description": "Taking her foes out from a distance keeps her safe and hidden."
-    },
-    {
-        "fileName": "gym-2.png",
-        "name": "Warmup Stretch",
-        "alt": "Naomi sitting on her knees, leaning back to stretch her thighs.",
-        "description": "Doing floor stretches before she starts her exercise routine."
-    },
-    {
-        "fileName": "gym-3.png",
-        "name": "Ready to Vault",
-        "alt": "Naomi leaning on a piece of gym equipment, ready to jump over it.",
-        "description": "First she checks if her form is correct, before she jumps over it."
-    },
-    {
-        "fileName": "gym.png",
-        "name": "Working Out or Playing Out?",
-        "alt": "Naomi in her gym clothes, sitting on a piece of equipment and sticking her tongue out.",
-        "description": "She actually doesn't know what this is, or how to use it."
-    },
-    {
-        "fileName": "hammock.png",
-        "name": "Hammock at the Beach",
-        "alt": "Naomi laying on a white hammock, hand behind her head.",
-        "description": "If the water wasn't so close, she'd do her work out here."
-    },
-    {
-        "fileName": "heart-2.png",
-        "name": "Shining Heart",
-        "alt": "Naomi making a heart with her hands, sparkles and glitter behind her.",
-        "description": "When she truly feels loved, it shows."
-    },
-    {
-        "fileName": "heart-3.png",
-        "name": "Hearts for Valentines",
-        "alt": "Naomi making a heart with her hands, a pink and maroon checkerboard behind her.",
-        "description": "This was the image for her valentine's card."
-    },
-    {
-        "fileName": "heart-4.png",
-        "name": "Leaping Love",
-        "alt": "Naomi doing a little jump and wave, a heart behind her.",
-        "description": "The love can overwhelm her sometimes, and she can barely contain it."
-    },
-    {
-        "fileName": "heart.png",
-        "name": "Reluctant Love",
-        "alt": "Naomi making a heart with her hands, a reluctant look on her face.",
-        "description": "It might not be what she wants to do, but she gives you her love."
-    },
-    {
-        "fileName": "heartbreak.png",
-        "name": "Broken Heart",
-        "alt": "Naomi kneeling down with her head down, the text Heartbroken behind her.",
-        "description": "Not everything goes well for her."
-    },
-    {
-        "fileName": "hotspring-2.png",
-        "name": "Soak in the Spring",
-        "alt": "Naomi sitting on the edge of a hot spring, reaching her hand out to invite you.",
-        "description": "Join her? She's inviting you."
-    },
-    {
-        "fileName": "hotspring.png",
-        "name": "Spa Day",
-        "alt": "Naomi sitting on the edge of a hot spring, her legs in the water.",
-        "description": "Soaking her legs allows her to relax without getting her hair wet."
-    },
-    {
-        "fileName": "hug.png",
-        "name": "Hugging Time!",
-        "alt": "Naomi reaching her arms out to offer a hug.",
-        "description": "Do you want a hug?"
-    },
-    {
-        "fileName": "idol.png",
-        "name": "Idol Star",
-        "alt": "Naomi on a vibrant stage, singing her heart out.",
-        "description": "There's no way she would ever be an idol with the way she sings, but she likes to pretend."
-    },
-    {
-        "fileName": "insomnia.png",
-        "name": "Insomnia",
-        "alt": "Naomi in bed, looking upset as she struggles to sleep.",
-        "description": "Yet another sleepless night..."
-    },
-    {
-        "fileName": "jail.png",
-        "name": "Behind Bars",
-        "alt": "Naomi standing in a locked prison cell.",
-        "description": "What did she do? Who knows."
-    },
-    {
-        "fileName": "kitchen.png",
-        "name": "Kitchen Company",
-        "alt": "Naomi sitting on the counter in the kitchen.",
-        "description": "She may be useless in the kitchen, but she'll keep you company while you cook!"
-    },
-    {
-        "fileName": "kitty.png",
-        "name": "Pet the Kitty",
-        "alt": "Naomi crouching down, smiling at a cat.",
-        "description": "Definitely more of a cat person than a dog person."
-    },
-    {
-        "fileName": "lazy.png",
-        "name": "Lazy Day",
-        "alt": "Naomi laying on the couch, eating snacks.",
-        "description": "One of those days where she has no motivation for anything."
-    },
-    {
-        "fileName": "library.png",
-        "name": "Library Trip",
-        "alt": "Naomi laying on the floor of a library, surrounded by books.",
-        "description": "She can, and will, spend hours in the library. They've had to kick her out at closing time before."
-    },
-    {
-        "fileName": "lounging.png",
-        "name": "Lounging Around",
-        "alt": "Naomi sitting on the couch, surrounded by snacks and electronics, watching a video on her phone.",
-        "description": "A bit of a couch potato today, but it is a well earned day off."
-    },
-    {
-        "fileName": "lunch.png",
-        "name": "Lunch Break",
-        "alt": "Naomi sitting in a chair, holding a box of pocky.",
-        "description": "Want to share my pocky?"
-    },
-    {
-        "fileName": "magic-2.png",
-        "name": "Summoning Circle",
-        "alt": "Naomi sitting on her bed, admiring the summoning circle she drew.",
-        "description": "But what is she trying to summon?"
-    },
-    {
-        "fileName": "magic-3.png",
-        "name": "Summoned Naomi",
-        "alt": "Naomi standing in the summoning circle she just appeared in.",
-        "description": "Who summoned her? And more importantly, why?"
-    },
-    {
-        "fileName": "magic.png",
-        "name": "Magic Attack",
-        "alt": "Naomi casting a red magic spell.",
-        "description": "She's normally a sword user, but has a couple of magical talents."
-    },
-    {
-        "fileName": "morning.png",
-        "name": "Good Morning",
-        "alt": "Naomi in bed, slowly waking up.",
-        "description": "Not at all a morning girl, Naomi is slow to wake up."
-    },
-    {
-        "fileName": "motorcycle.png",
-        "name": "Motorbike Ride",
-        "alt": "Naomi riding a motorcycle, wielding a katana.",
-        "description": "She feels like a superhero. Someone should tell her riding with a sword is dangerous."
-    },
-    {
-        "fileName": "movies.png",
-        "name": "Movie Theatre",
-        "alt": "Naomi sitting at the movies, looking over at you.",
-        "description": "Movie theatres make a great date spot."
-    },
-    {
-        "fileName": "music-2.png",
-        "name": "Music Lover",
-        "alt": "Naomi sitting in a chair with her legs on the table, listening to music.",
-        "description": "Music is one of her passions - she's always listening to something."
-    },
-    {
-        "fileName": "music.png",
-        "name": "Headphones Sharing",
-        "alt": "Naomi sharing her headphones with you.",
-        "description": "She has a song she wants you to listen to."
-    },
-    {
-        "fileName": "nails.png",
-        "name": "Purple Nails",
-        "alt": "Naomi's pointed purple fingernails and toenails.",
-        "description": "Her nails are always done up."
-    },
-    {
-        "fileName": "nailtrim.png",
-        "name": "Self Care",
-        "alt": "Naomi sitting on the floor trimmming her toenails.",
-        "description": "A lot of work goes in to looking this good."
-    },
-    {
-        "fileName": "nap-2.png",
-        "name": "Classroom Nap",
-        "alt": "Naomi sleeping at a classroom desk.",
-        "description": "Apparently the lecture wasn't all that interesting."
-    },
-    {
-        "fileName": "nap.png",
-        "name": "Sleeping at her Desk",
-        "alt": "Naomi sleeping at her desk.",
-        "description": "When she overworks herself, she ends up sleeping in strange places."
-    },
-    {
-        "fileName": "nature.png",
-        "name": "Out in Nature",
-        "alt": "Naomi sitting under the shade of a tree.",
-        "description": "She could sit outside for hours, as long as there's shade."
-    },
-    {
-        "fileName": "overworked.png",
-        "name": "Burnout",
-        "alt": "Naomi sitting at her computer crying.",
-        "description": "The code can be incredibly frustrating sometimes..."
-    },
-    {
-        "fileName": "park.png",
-        "name": "Bench in the Park",
-        "alt": "Naomi stting on a bench in the park.",
-        "description": "She loves watching the sun set."
-    },
-    {
-        "fileName": "peace.png",
-        "name": "Peace and Love",
-        "alt": "Naomi giving a peace sign with her fingers.",
-        "description": "She hopes you have a blessed day."
-    },
-    {
-        "fileName": "peek.png",
-        "name": "Peek-A-Boo",
-        "alt": "Naomi peeking from around a door.",
-        "description": "She wonders if she should have knocked first..."
-    },
-    {
-        "fileName": "piano.png",
-        "name": "Piano Woman",
-        "alt": "Naomi sitting at a grand piano.",
-        "description": "While it's been years since she played, she still loves it."
-    },
-    {
-        "fileName": "pillow-2.png",
-        "name": "Snuggling a Pillow",
-        "alt": "Naomi sitting on a blanket, snuggling a pillow.",
-        "description": "She normally carries around a plushie, but a pillow works in a pinch."
-    },
-    {
-        "fileName": "pillow.png",
-        "name": "Rough Night",
-        "alt": "Naomi sitting on her bed hugging a pillow.",
-        "description": "Bad dreams make for very rough nights."
-    },
-    {
-        "fileName": "plushie-2.png",
-        "name": "Bunny Plushie",
-        "alt": "Naomi snuggling a bunny plushie.",
-        "description": "It's actually rare to see Naomi without one of her plushies in hand."
-    },
-    {
-        "fileName": "plushie.png",
-        "name": "Her Favourite Plushie",
-        "alt": "Naomi laying in bed snuggling a stuffed bunny.",
-        "description": "Everyone has a favourite plushie. Naomi's is actually a Miku plushie."
-    },
-    {
-        "fileName": "point.png",
-        "name": "I Choose You",
-        "alt": "Naomi pointing at the screen.",
-        "description": "But what does she choose you for??"
-    },
-    {
-        "fileName": "pool.png",
-        "name": "Midnight Swim",
-        "alt": "Naomi standing in a pool under the moonlight.",
-        "description": "Sneaking out for a dip in the night is exhilarating and relaxing, all at once."
-    },
-    {
-        "fileName": "rain.png",
-        "name": "Rainy Day",
-        "alt": "Naomi crouched under an umbrella, keeping a cat dry.",
-        "description": "Naomi is always kind to animals."
-    },
-    {
-        "fileName": "rave.png",
-        "name": "DJ Naomi",
-        "alt": "Naomi standing at a large DJ station.",
-        "description": "She's really bad at this."
-    },
-    {
-        "fileName": "reading-2.png",
-        "name": "Found a Book",
-        "alt": "Naomi carrying a book from the bookshelf in a library.",
-        "description": "Picking just one book feels impossible. Naomi wants them all."
-    },
-    {
-        "fileName": "reading-3.png",
-        "name": "A Book Outside",
-        "alt": "Naomi sitting under a tree reading a book.",
-        "description": "While everyone else plays, she enjoys her solitude with a book."
-    },
-    {
-        "fileName": "reading-4.png",
-        "name": "Relaxing Afternoon",
-        "alt": "Naomi laying on the couch reading a book.",
-        "description": "Reading is one of her biggest hobbies. It's nice to get away from the electronics."
-    },
-    {
-        "fileName": "reading-5.png",
-        "name": "Waiting for the Compiler",
-        "alt": "Naomi sitting at her desk, putting her feet up and reading a book.",
-        "description": "She has to kill the time while she waits for her code to build."
-    },
-    {
-        "fileName": "reading-6.png",
-        "name": "Lost in the Story",
-        "alt": "Naomi laying on her stomach reading a book in bed.",
-        "description": "Before she knows it, it's 2AM."
-    },
-    {
-        "fileName": "reading-7.png",
-        "name": "Poolside Reading",
-        "alt": "Naomi in the pool, reading a book.",
-        "description": "Be careful not to get the pages wet!"
-    },
-    {
-        "fileName": "reading.png",
-        "name": "Reading in Bed",
-        "alt": "Naomi laying in bed reading a book.",
-        "description": "Reading before bed helps her unwind and prepare for sleep."
-    },
-    {
-        "fileName": "relax.png",
-        "name": "Time to Chill",
-        "alt": "Naomi laying on her stomach, smiling.",
-        "description": "Sitting down and doing nothing is quite relaxing at times."
-    },
-    {
-        "fileName": "relaxing.png",
-        "name": "Long Day of Work",
-        "alt": "Naomi sitting on the floor, her laptop case next to her.",
-        "description": "After a long day at the office, sometimes the couch feels too far away and the floor too tempting."
-    },
-    {
-        "fileName": "restaurant.png",
-        "name": "Traditional Restaurant",
-        "alt": "Naomi sitting on the floor of a traditional looking restaurant.",
-        "description": "Sushi and noodles are her favourites."
-    },
-    {
-        "fileName": "ritual.png",
-        "name": "Ritual Gone Wrong",
-        "alt": "Naomi passed out in a magic circle.",
-        "description": "When she was asked to participate in a ritual, this was not what she envisioned."
-    },
-    {
-        "fileName": "river.png",
-        "name": "Float Down the River",
-        "alt": "Naomi floating on a raft in the river.",
-        "description": "Being in the water at night is both scary and thrilling."
-    },
-    {
-        "fileName": "sad.png",
-        "name": "Blue Emotions",
-        "alt": "Naomi sitting on the bed, hugging a pillow and looking sad.",
-        "description": "Pretending that every day is great only hides the pain."
-    },
-    {
-        "fileName": "sakura.png",
-        "name": "Sakura Trees",
-        "alt": "Naomi dancing under a bunch of sakura trees.",
-        "description": "She absolutely loves the cherry blossom trees."
-    },
-    {
-        "fileName": "shhh.png",
-        "name": "Keep a Secret",
-        "alt": "Naomi standing in the hallway, putting her finger to her lips.",
-        "description": "I wonder what the surprise is..."
-    },
-    {
-        "fileName": "sing.png",
-        "name": "Sing To Me",
-        "alt": "Naomi standing with a hand on her hip, holding a microphone and singing",
-        "description": "Private karaoke rooms are the best."
-    },
-    {
-        "fileName": "sits.png",
-        "name": "I Fits, I Sits",
-        "alt": "Naomi sitting in a box full of packing material.",
-        "description": "She's like a cat, truly."
-    },
-    {
-        "fileName": "sitting.png",
-        "name": "Sitting Pretty",
-        "alt": "Naomi in her nightgown, sitting on a blanket.",
-        "description": "She's ready to sit and chat."
-    },
-    {
-        "fileName": "skulls.png",
-        "name": "Dark Ritual",
-        "alt": "Naomi sitting in front of some skulls, beckoning you closer.",
-        "description": "This looks creepy. You should probably back away."
-    },
-    {
-        "fileName": "sky.png",
-        "name": "Falling Through the Sky",
-        "alt": "Naomi falling through the sky, the sun behind her.",
-        "description": "Dreams like this typically don't end well."
-    },
-    {
-        "fileName": "sleep-2.png",
-        "name": "Fell Asleep Reading",
-        "alt": "Naomi sleeping on her bed, several books next to her.",
-        "description": "She does this a lot."
-    },
-    {
-        "fileName": "sleep-3.png",
-        "name": "Curled Up",
-        "alt": "Naomi sleeping on her bed, curled up.",
-        "description": "Sometimes she's too exhausted to even change in to her nightgown."
-    },
-    {
-        "fileName": "sleep.png",
-        "name": "Finally Asleep",
-        "alt": "Naomi sleeping on her floor bed.",
-        "description": "When she finally passes out, she sleeps hard."
-    },
-    {
-        "fileName": "snack.png",
-        "name": "Snack Time",
-        "alt": "Naomi walking down the street, snacking on a cookie.",
-        "description": "Can't even wait to get home before digging into the goodies."
-    },
-    {
-        "fileName": "soak.png",
-        "name": "Bath Time",
-        "alt": "Naomi soaking in the bathtub, having a drink.",
-        "description": "Letting the water relax her feels so good."
-    },
-    {
-        "fileName": "soda.png",
-        "name": "Carbonation Disaster",
-        "alt": "Naomi holding an open soda bottle that is exploding with bubbles.",
-        "description": "Who shook this?!"
-    },
-    {
-        "fileName": "spa.png",
-        "name": "Stress Relief",
-        "alt": "Naomi soaking in a tub with flowers on the water.",
-        "description": "Relaxing in the tub and enjoying the aromatherapy."
-    },
-    {
-        "fileName": "spaced.png",
-        "name": "Spacing Out",
-        "alt": "Naomi staring at the computer screen with a blank look on her face.",
-        "description": "Staring at the screen too long and she loses focus."
-    },
-    {
-        "fileName": "splits.png",
-        "name": "Doing the Splits",
-        "alt": "Naomi on the floor, doing a forward split, holding her phone.",
-        "description": "She was so proud of this moment, she had to capture a picture."
-    },
-    {
-        "fileName": "stats.png",
-        "name": "Character Stats",
-        "alt": "Naomi next to some RPG style character stats.",
-        "description": "Is she stronger than you?"
-    },
-    {
-        "fileName": "stretch-2.png",
-        "name": "Trying the Splits",
-        "alt": "Naomi reaching for her foot as she tries a horizontal split.",
-        "description": "She's almost there. So close!"
-    },
-    {
-        "fileName": "stretch.png",
-        "name": "Cammy Stretch",
-        "alt": "Naomi leaning forward, arching her back, and reaching up.",
-        "description": "She heard this was a meme and wanted in on it."
-    },
-    {
-        "fileName": "studying.png",
-        "name": "Studying Hard",
-        "alt": "Naomi sitting at a desk taking notes.",
-        "description": "Seems like she's distracted by you, though."
-    },
-    {
-        "fileName": "summoning.png",
-        "name": "Naomi Appears",
-        "alt": "Naomi sitting in a summoning circle, surrounded by roses.",
-        "description": "Roses were a nice touch, and definitely helped motivate her to show up."
-    },
-    {
-        "fileName": "sunshine.png",
-        "name": "Basking in the Sun",
-        "alt": "Naomi laying on her bed, the sun shining on her.",
-        "description": "Sunlight makes her skin look radiant."
-    },
-    {
-        "fileName": "surprised.png",
-        "name": "Surprised",
-        "alt": "Naomi giving a surprised look",
-        "description": "She's so happy to see you, but it was unexpected."
-    },
-    {
-        "fileName": "swimming.png",
-        "name": "Swim Training",
-        "alt": "Naomi at the edge of the pool, looking at you.",
-        "description": "Did she beat her latest lap record?"
-    },
-    {
-        "fileName": "swing.png",
-        "name": "Swing Set",
-        "alt": "Naomi sitting on a swing at the park.",
-        "description": "Being up high gives her a rush."
-    },
-    {
-        "fileName": "sword.png",
-        "name": "Sword Dancer",
-        "alt": "Naomi drawing a katana from its scabbard.",
-        "description": "Practising her sword skills is a daily routine."
-    },
-    {
-        "fileName": "tank.png",
-        "name": "Tank Commander",
-        "alt": "Naomi sitting in a tank, giving the order to advance.",
-        "description": "Who on earth let her have a tank?!"
-    },
-    {
-        "fileName": "tavern.png",
-        "name": "Tavern Talk",
-        "alt": "Naomi sitting at the bar, a mug of beer and some food in front of her.",
-        "description": "Visiting the local tavern is a great place to trade stories."
-    },
-    {
-        "fileName": "teahouse.png",
-        "name": "Tea for One",
-        "alt": "Naomi sitting outside a teahouse, holding a fan with a cup of tea next to her.",
-        "description": "Coffee is great for the morning, but tea is perfect for the afternoon."
-    },
-    {
-        "fileName": "throne.png",
-        "name": "Hail to the Queen",
-        "alt": "Naomi sitting in a throne, giving a smug look.",
-        "description": "Maybe she isn't royalty, but she demands your worship and fealty all the same."
-    },
-    {
-        "fileName": "umbrella.png",
-        "name": "Shelter from the Rain",
-        "alt": "Naomi sitting on a park bench holding an umbrella.",
-        "description": "The weather got a bit too rainy, so she decided to sit and wait it out."
-    },
-    {
-        "fileName": "underwater.png",
-        "name": "Under the Sea",
-        "alt": "Naomi floating underwater, giving a salute.",
-        "description": "She can hold her breath for a remarkably long time."
-    },
-    {
-        "fileName": "valentine.png",
-        "name": "Valentines Day",
-        "alt": "Naomi sitting on the bed, surrounded by rose petals.",
-        "description": "She loves valentines day. It's a great excuse to be romantic."
-    },
-    {
-        "fileName": "walk.png",
-        "name": "Walk in the Park",
-        "alt": "Naomi going for a stroll in the park.",
-        "description": "Getting out and enjoying the sunshine is one of her best weekend activities."
-    },
-    {
-        "fileName": "water.png",
-        "name": "Spiked my Drink",
-        "alt": "Naomi sitting with a glass in hand, surprised at the contents.",
-        "description": "This isn't water... what is this??"
-    },
-    {
-        "fileName": "window-2.png",
-        "name": "Sunny Day",
-        "alt": "Naomi sitting on a bench by the window, enjoying the day.",
-        "description": "On days like this, Naomi sits as close to the window as possible if she can't be outside."
-    },
-    {
-        "fileName": "window-3.png",
-        "name": "Cabin Window",
-        "alt": "Naomi sitting in the window of a log cabin.",
-        "description": "Big windows like this are ideal, so she can throw them open and enjoy the fresh air."
-    },
-    {
-        "fileName": "window.png",
-        "name": "Enjoying the View",
-        "alt": "Naomi in her nightgown, sitting in the window sill.",
-        "description": "Is the view out the window? Or is the view Naomi?"
-    },
-    {
-        "fileName": "wink.png",
-        "name": "A Wink and a Kiss",
-        "alt": "Naomi winking at the camera, making a peace sign with her fingers.",
-        "description": "Fun and flirty, but she's rarely serious about it."
-    },
-    {
-        "fileName": "work-2.png",
-        "name": "Hard at Work",
-        "alt": "Naomi at her desk, focused on her laptop.",
-        "description": "When she gets in the groove, time flies by and no one can distract her."
-    },
-    {
-        "fileName": "work-3.png",
-        "name": "Boring Tasks",
-        "alt": "Naomi slouching in her chair, looking at her computer unamused.",
-        "description": "Not every task at work is entertaining. Sometimes she has to push through the boring stuff."
-    },
-    {
-        "fileName": "work-4.png",
-        "name": "Distracted",
-        "alt": "Naomi sitting at her computer, looking at you with a distracted stare.",
-        "description": "Unused to interruptions, talking to her while she's working is a great way to get her attention."
-    },
-    {
-        "fileName": "work-5.png",
-        "name": "Proud of her Work",
-        "alt": "Naomi at her computer, looking back over her shoulder and smiling.",
-        "description": "Naomi loves to show off her projects when she's done - especially if it was a difficult one."
-    },
-    {
-        "fileName": "work.png",
-        "name": "Cafe Work",
-        "alt": "Naomi sitting at a cafe table, working on her laptop.",
-        "description": "She doesn't go to the cafe just to work, she goes for the coffee. And brings work with her."
-    },
-    {
-        "fileName": "pool-2.png",
-        "name": "Gonna Swim?",
-        "alt": "Naomi standing at the edge of the swimming pool, looking back over her shoulder and smiling.",
-        "description": "She wants to know if you're getting in the pool with her."
-    },
-    {
-        "fileName": "archer.png",
-        "name": "Take a Shot",
-        "alt": "Naomi firing an arrow from a bow.",
-        "description": "She rarely misses her mark."
-    },
-    {
-        "fileName": "balcony-2.png",
-        "name": "Morning Breeze",
-        "alt": "Naomi standing in the balcony of a sliding glass door.",
-        "description": "Her ideal way to start the morning is with a nice breeze as she soaks up the sun."
-    },
-    {
-        "fileName": "blood.png",
-        "name": "Aftermath",
-        "alt": "Naomi kneeling on the floor, surrounded by blood, grinning.",
-        "description": "Someone chose to pick a fight with her, and suffered the consequences."
-    },
-    {
-        "fileName": "chop.png",
-        "name": "Kitchen Prep",
-        "alt": "Naomi standing at the counter, chopping a cabbage.",
-        "description": "She may not be a good cook, but she is always happy to help with the prep work!"
-    },
-    {
-        "fileName": "dance.png",
-        "name": "Dance Dance Dance",
-        "alt": "Naomi on a stage dancing.",
-        "description": "Naomi loves to get down to a good tune."
-    },
-    {
-        "fileName": "evil.png",
-        "name": "Bad Idea",
-        "alt": "Naomi with her arms extended, an evil grin on her face and a red shine in her eyes.",
-        "description": "She's got an idea. It's probably a bad idea. Whatever she offers, you don't want to get involved."
-    },
-    {
-        "fileName": "film.png",
-        "name": "Documentary",
-        "alt": "Naomi laying in bed, hugging a pillow, viewed from a currently recording camera.",
-        "description": "Asked to star in a documentary seemed like a good idea, but she really didn't want to get out of bed."
-    },
-    {
-        "fileName": "fireworks.png",
-        "name": "Firework Festival",
-        "alt": "Naomi holding a caramel apple and cotton candy, fireworks exploding behind her.",
-        "description": "Fireworks are one of her favourite things, and going to a festival with yummy food to see them makes it even better."
-    },
-    {
-        "fileName": "hot.png",
-        "name": "Heat Wave",
-        "alt": "Naomi sitting in front of a fan, eating a popsicle.",
-        "description": "Hot weather is the absolute worst. She always struggles to stay cool."
-    },
-    {
-        "fileName": "pier.png",
-        "name": "Late-night Swim",
-        "alt": "Naomi sitting on a pier in the night, considering going for a swim.",
-        "description": "It may be a cool night, but it's never too cold to dive in the water."
-    },
-    {
-        "fileName": "scared.png",
-        "name": "Scared Sleepless",
-        "alt": "Naomi in bed, hiding under the blankets.",
-        "description": "There is a monster under her bed. She knows it's there, no matter how many people say it isn't."
-    },
-    {
-        "fileName": "scold.png",
-        "name": "Careless Mistake",
-        "alt": "Naomi with a stern look, pointing a finger in a scolding gesture.",
-        "description": "Whatever you've done, she aims to ensure you never do it again."
-    },
-    {
-        "fileName": "selfie.png",
-        "name": "Selfie",
-        "alt": "Naomi snapping a selfie as she makes a peace sign.",
-        "description": "Selfies are a lot of fun. She takes quite a few of them."
-    },
-    {
-        "fileName": "smite.png",
-        "name": "Paladin's Judgement",
-        "alt": "Naomi looking down at the screen, pointing a glowing blue blade at it.",
-        "description": "Thou art weighed in the balances, and art found wanting."
-    },
-    {
-        "fileName": "swimming-2.png",
-        "name": "Swimming Laps",
-        "alt": "Naomi in the pool, floating at the edge, looking back over her shoulder.",
-        "description": "'You timed me this time, right? Right??'"
-    },
-    {
-        "fileName": "television.png",
-        "name": "Watching a Show",
-        "alt": "Naomi laying in bed, watching television.",
-        "description": "If she doesn't feel like gaming, she'll lay in bed and watch an anime."
-    },
-    {
-        "fileName": "waterfall.png",
-        "name": "At The Falls",
-        "alt": "Naomi standing in front of a waterfall, stretching.",
-        "description": "Waterfalls are one of her favourite nature destinations."
-    },
-    {
-        "fileName": "classroom.png",
-        "name": "Star Student",
-        "alt": "Naomi sitting in a classroom chair, her feet on the desk, hiding her face with a hand.",
-        "description": "As a student, Naomi coasted through most of school with little effort. She was always bored, and it showed."
-    },
-    {
-        "fileName": "dancer.png",
-        "name": "Put On a Show",
-        "alt": "Naomi in a dancer dress, swaying her arms.",
-        "description": "Okay, so she isn't the best dancer. She still has fun with it."
-    },
-    {
-        "fileName": "knight.png",
-        "name": "Knight Naomi",
-        "alt": "Naomi wearing a black and purple metal chest plate with a long skirt, wielding a sword.",
-        "description": "Striking down her foes swiftly is what she specialises in."
-    },
-    {
-        "fileName": "shrine.png",
-        "name": "Visiting the Temple",
-        "alt": "Naomi in a black yukata with a purple sash, standing on a bridge over a pond in a traditional shrine.",
-        "description": "Temples and shrines have always appealed to her with their serenity."
-    },
-    {
-        "fileName": "shrine-2.png",
-        "name": "Shrine Maiden",
-        "alt": "Naomi wearing a purple and black shrine maiden outfit, sitting on a bench in a shrine.",
-        "description": "Without the proper training, welcoming you to the shrine is about all she can do."
-    },
-    {
-        "fileName": "maid.png",
-        "name": "Maid Cafe",
-        "alt": "Naomi wearing a maid outfit, serving a platter of food and drinks.",
-        "description": "Working in the maid cafe turned out to be fun, and a great way to meet new friends!"
-    },
-    {
-        "fileName": "stage.png",
-        "name": "Miku Concert",
-        "alt": "Naomi performing on a stage while wearing a Hatsune Miku outfit.",
-        "description": "Really just a dream, but one day Naomi hopes to make it reality!"
-    },
-    {
-        "fileName": "affection.png",
-        "name": "Naomi's Affection",
-        "alt": "Naomi sitting down, holding out her hand and presenting a heart.",
-        "description": "She gives you her affection."
-    },
-    {
-        "fileName": "confession.png",
-        "name": "Secret Confession",
-        "alt": "Naomi standing on the sidewalk, extending a love letter to you, blushing.",
-        "description": "If she confessed her love, what would you do?"
-    },
-    {
-        "fileName": "challenger.png",
-        "name": "Challenger Approaching",
-        "alt": "Naomi in the 'Challenger Approaching' screen from Super Smash Brothers.",
-        "description": "Ready for the fight?"
-    },
-    {
-        "fileName": "gears.png",
-        "name": "Clockwork Tower",
-        "alt": "Naomi sitting on the platform of a tower, gears rotating behind her.",
-        "description": "Much like life, the gears stop for no one."
-    },
-    {
-        "fileName": "god.png",
-        "name": "Leave it to God?",
-        "alt": "Naomi holding a gun, the text 'We can't expect God to do all the work.' behind her.",
-        "description": "Forget that. Naomi prefers to handle her own problems."
-    },
-    {
-        "fileName": "bad.png",
-        "name": "Bad Decisions",
-        "alt": "Naomi with a wry smile, the text 'Today I am going to make BAD choices' behind her.",
-        "description": "So... basically another regular day, then."
-    }
+  {
+    "fileName": "alone.png",
+    "name": "A Night Alone",
+    "alt": "Naomi sitting on the couch, a beer in hand and a morose look on her face.",
+    "description": "Sometimes Naomi doesn't want to spend the night alone."
+  },
+  {
+    "fileName": "ayleid.png",
+    "name": "Ayleid Ruin",
+    "alt": "Naomi sitting on an Ayleid well, a flirty look on her face.",
+    "description": "When on an adventure, Naomi is always on the lookout for a great photo opportunity."
+  },
+  {
+    "fileName": "baking.png",
+    "name": "Baking Catastrophe",
+    "alt": "Naomi sitting down, a mixing bowl in hand, covered in chocolate.",
+    "description": "She tries to bake with love, but it doesn't always go well."
+  },
+  {
+    "fileName": "balcony.png",
+    "name": "Overlooking the City",
+    "alt": "Naomi leaning on a balcony, a city skyline in the background.",
+    "description": "The view is nice, but she'd rather look at you."
+  },
+  {
+    "fileName": "ballet.png",
+    "name": "Ballet Stretches",
+    "alt": "Naomi leaning on a ballet bar, stretching her leg up in the air.",
+    "description": "It's important to do your stretches before you start dancing."
+  },
+  {
+    "fileName": "ban.png",
+    "name": "Ban Sign",
+    "alt": "Naomi holding a picket sign that says 'Ban'.",
+    "description": "She doesn't tolerate any unkindness in her communities."
+  },
+  {
+    "fileName": "bar.png",
+    "name": "Bartender",
+    "alt": "Naomi standing behind a bar mixing a drink.",
+    "description": "With how much she drinks, she can make a mean cocktail."
+  },
+  {
+    "fileName": "barista.png",
+    "name": "Barista",
+    "alt": "Naomi standing in a coffee shop, cup in hand ready to take an order.",
+    "description": "She thinks she can make a good latte, but she only drinks black coffee..."
+  },
+  {
+    "fileName": "beach-2.png",
+    "name": "Sandy Day",
+    "alt": "Naomi laying sideways on the beach.",
+    "description": "She clearly isn't worried about getting sand in her hair."
+  },
+  {
+    "fileName": "beach-3.png",
+    "name": "Posing at the Beach",
+    "alt": "Naomi on her stomach, laying on a beach towel, her legs in the air.",
+    "description": "Naomi loves to strike a pose when the opportunity arises."
+  },
+  {
+    "fileName": "beach-4.png",
+    "name": "Beach Cutie",
+    "alt": "Naomi sitting on a beach chair, bending a leg and resting her head on her knee.",
+    "description": "She was feeling cute on this beautiful day."
+  },
+  {
+    "fileName": "beach-5.png",
+    "name": "Beach from Behind",
+    "alt": "Naomi laying on her stomach, legs in the air, looking over her shoulder back at the screen.",
+    "description": "She thinks she looks cute from any angle."
+  },
+  {
+    "fileName": "beach-6.png",
+    "name": "Getting Warm",
+    "alt": "Naomi laying on her back on a beach towel, starting to sweat.",
+    "description": "After spending all day at the beach, Naomi was starting to feel the heat."
+  },
+  {
+    "fileName": "beach.png",
+    "name": "Popsicles",
+    "alt": "Naomi laying in a beach chair eating a popsicle",
+    "description": "The best time for a frozen treat is when you're at the beach."
+  },
+  {
+    "fileName": "beatsaber.png",
+    "name": "Beatsaber",
+    "alt": "Naomi playing Beatsaber.",
+    "description": "She doesn't own a VR set, but has always wanted to try this game."
+  },
+  {
+    "fileName": "bed-10.png",
+    "name": "Flirty and Playful",
+    "alt": "Naomi on her hands and knees in bed, looking back over her shoulder with her tongue stuck out.",
+    "description": "She loves to tease people and flirt, even if nothing comes of it."
+  },
+  {
+    "fileName": "bed-11.png",
+    "name": "Feeling Lovey",
+    "alt": "Naomi on her stomach in bed, surrounded by hearts.",
+    "description": "She took this to use as her avatar for a while."
+  },
+  {
+    "fileName": "bed-12.png",
+    "name": "Pillow Talk",
+    "alt": "Naomi laying on her side in bed, resting her head on her hand",
+    "description": "Time to chat about your day before calling it a night."
+  },
+  {
+    "fileName": "bed-13.png",
+    "name": "Interrupted",
+    "alt": "Naomi caught by surprise while reading in bed.",
+    "description": "She just wanted to read for a bit. She was not planning on being interrupted."
+  },
+  {
+    "fileName": "bed-14.png",
+    "name": "Restless",
+    "alt": "Naomi sitting in bed, hugging her knee with her other leg stretched.",
+    "description": "Sometimes Naomi struggles to unwind before bed, and would rather spend some time chatting."
+  },
+  {
+    "fileName": "bed-15.png",
+    "name": "Chatting in Bed",
+    "alt": "Naomi laying on her stomach, smiling and chatting.",
+    "description": "She will talk with you until she passes out."
+  },
+  {
+    "fileName": "bed-2.png",
+    "name": "Trouble Sleeping",
+    "alt": "Naomi in her sheer nightgown, laying on her back in bed.",
+    "description": "Sometimes she has to lay there for a bit before she can drift off."
+  },
+  {
+    "fileName": "bed-3.png",
+    "name": "Sleepover",
+    "alt": "Naomi kneeling on the bed.",
+    "description": "Got any ideas for a fun sleepover game?"
+  },
+  {
+    "fileName": "bed-4.png",
+    "name": "Bedtime Cutie",
+    "alt": "Naomi on her stomach in bed, legs in the air.",
+    "description": "Even at bedtime, she feels cute sometimes."
+  },
+  {
+    "fileName": "bed-5.png",
+    "name": "Evening Stretch",
+    "alt": "Naomi yawning and stretching in bed.",
+    "description": "A good yawn and stretch before bed feels great."
+  },
+  {
+    "fileName": "bed-6.png",
+    "name": "Shy Sleeper",
+    "alt": "Naomi with a shy look, stretching her legs toward the screen.",
+    "description": "She gets shy when she is getting ready for bed."
+  },
+  {
+    "fileName": "bed-7.png",
+    "name": "Strike a Pose",
+    "alt": "Naomi striking a cute pose and smiling, sitting on her bed.",
+    "description": "She enjoys posing on the bed for a cute picture."
+  },
+  {
+    "fileName": "bed-8.png",
+    "name": "Covering Up",
+    "alt": "Naomi sitting on the bed, wrapping her arms around her chest.",
+    "description": "She needs to change into her nightgown, and doesn't want to be watched."
+  },
+  {
+    "fileName": "bed-9.png",
+    "name": "Laying Down",
+    "alt": "Naomi in a sundress, laying on the bed.",
+    "description": "She just wanted to lay down for a moment. It's been a busy day."
+  },
+  {
+    "fileName": "bed.png",
+    "name": "Caught Before Bed",
+    "alt": "Naomi on her hands and knees, getting ready for bed.",
+    "description": "You caught her just before she crawled into bed."
+  },
+  {
+    "fileName": "blush.png",
+    "name": "Blushing Beauty",
+    "alt": "Naomi blushing bright red, hands on her cheeks.",
+    "description": "Whatever happened has got her all sorts of flustered."
+  },
+  {
+    "fileName": "bookshelf.png",
+    "name": "Hunting for a Book",
+    "alt": "Naomi leaning over, looking through a bookshelf.",
+    "description": "Choosing your next book can be a challenge, especially if the last book was really good."
+  },
+  {
+    "fileName": "box-2.png",
+    "name": "Crawling Out",
+    "alt": "Naomi crawling out of a box.",
+    "description": "She can be very cat-like, sometimes."
+  },
+  {
+    "fileName": "box.png",
+    "name": "Hide and Seek",
+    "alt": "Naomi peeking out of a box.",
+    "description": "She loves to play hide and seek. She's a very good hider."
+  },
+  {
+    "fileName": "break.png",
+    "name": "Break Time",
+    "alt": "Naomi leaning back in her chair, her feet on the desk.",
+    "description": "Sometimes she needs a break from staring at the screen."
+  },
+  {
+    "fileName": "butterfly.png",
+    "name": "Reaching for the Butterfly",
+    "alt": "Naomi in a red field, reaching up toward a green butterfly.",
+    "description": "Beauty is fleeting, but she still wants that butterfly."
+  },
+  {
+    "fileName": "cafe.png",
+    "name": "Coffee Time",
+    "alt": "Naomi sitting in a cafe outside, sipping on coffee.",
+    "description": "She enjoys her coffee, and getting out of the house is a nice bonus."
+  },
+  {
+    "fileName": "campfire.png",
+    "name": "Camping Out",
+    "alt": "Naomi sitting at a campfire.",
+    "description": "Spending a night in the woods is nice, but more than a couple of days and she misses her home."
+  },
+  {
+    "fileName": "card.png",
+    "name": "Queen of Hearts",
+    "alt": "Naomi appearing as the queen on a standard queen of hearts card.",
+    "description": "Can she be the queen of your heart?"
+  },
+  {
+    "fileName": "casino.png",
+    "name": "Poker Night",
+    "alt": "Naomi laying on a casino table, holding a card.",
+    "description": "Pretty sure this isn't how the game is played."
+  },
+  {
+    "fileName": "cat.png",
+    "name": "Kitty Cat",
+    "alt": "Naomi wearing a tail and posing like a cat.",
+    "description": "Mew mew"
+  },
+  {
+    "fileName": "chair-2.png",
+    "name": "Social Club",
+    "alt": "Naomi sitting in a chair next to a table of mimosas.",
+    "description": "She comes for the socialising but stays for the drinks."
+  },
+  {
+    "fileName": "chair.png",
+    "name": "Feeling Smug",
+    "alt": "Naomi sitting in a chair, looking smug.",
+    "description": "It may not be an actual throne, but it is her throne."
+  },
+  {
+    "fileName": "cheer.png",
+    "name": "Cheering You On",
+    "alt": "Naomi cheering, pom poms in each hand.",
+    "description": "She believes in you, so now you should believe in yourself."
+  },
+  {
+    "fileName": "chess.png",
+    "name": "Checkmate",
+    "alt": "Naomi sitting at a table, chess board ready for a new game.",
+    "description": "She loves to play chess. Wanna try your hand against her?"
+  },
+  {
+    "fileName": "coffin.png",
+    "name": "Vampire of Roses",
+    "alt": "Naomi laying in a coffin full of roses, vines wrapping her arms and legs.",
+    "description": "She may not be a vampire, but she thinks her elegance surpasses one."
+  },
+  {
+    "fileName": "confused.png",
+    "name": "Too Much Studying",
+    "alt": "Naomi laying down, confused, surrounded by books.",
+    "description": "Sometimes she tries to learn too much at once and it all jumbles together."
+  },
+  {
+    "fileName": "cooking.png",
+    "name": "Master Chef",
+    "alt": "Naomi in the kitchen, cooking a stew.",
+    "description": "Naomi really shouldn't be allowed in the kitchen..."
+  },
+  {
+    "fileName": "cute.png",
+    "name": "Evening Glow",
+    "alt": "Naomi sitting down, the sunset hitting her face.",
+    "description": "In the right light, she seems to positively glow."
+  },
+  {
+    "fileName": "cyber.png",
+    "name": "Cyberspace",
+    "alt": "Naomi crouching down in a cybernetic looking world.",
+    "description": "They say she's a hacker, but she couldn't hack her way out of a paper bag."
+  },
+  {
+    "fileName": "date.png",
+    "name": "Lunch Date",
+    "alt": "Naomi at a restaurant table outside, a sandwich in front of her.",
+    "description": "Would you take her out to lunch?"
+  },
+  {
+    "fileName": "debugging.png",
+    "name": "Ultimate Debugging",
+    "alt": "Naomi smashing a computer with an oversized hammer.",
+    "description": "When the bugs in the code become too much..."
+  },
+  {
+    "fileName": "dev.png",
+    "name": "Chill Developer",
+    "alt": "Naomi at her desk, leaning back in her chair as she works.",
+    "description": "When things are going really well, Naomi feels like a pro."
+  },
+  {
+    "fileName": "dinner.png",
+    "name": "Steak Dinner",
+    "alt": "Naomi at a table with a steak dinner in front of her, making the peace sign.",
+    "description": "The smoke totally isn't from the six she burned in the process..."
+  },
+  {
+    "fileName": "drink.png",
+    "name": "Time for a Drink",
+    "alt": "Naomi resting her head on the counter, glass and bottle in hand.",
+    "description": "When you can't fix your problems, drink them away."
+  },
+  {
+    "fileName": "driving.png",
+    "name": "Road Trip",
+    "alt": "Naomi in the car, driving.",
+    "description": "She does love to drive. Sometimes a little too fast."
+  },
+  {
+    "fileName": "earth.png",
+    "name": "World in My Hands",
+    "alt": "Naomi leaning on the planet Earth, the stars behind her.",
+    "description": "There are days where she feels like the world is her oyster, and nothing can stop her."
+  },
+  {
+    "fileName": "evening.png",
+    "name": "Evening Decompression",
+    "alt": "Naomi laying on the couch, scrolling through her phone.",
+    "description": "After a hard day, sometimes she mindlessly zones out on Discord."
+  },
+  {
+    "fileName": "exhausted.png",
+    "name": "Work Until You Drop",
+    "alt": "Naomi sitting at her desk, sleeping on her laptop.",
+    "description": "She's totally fallen asleep at her desk before."
+  },
+  {
+    "fileName": "fence.png",
+    "name": "Atop a Fence",
+    "alt": "Naomi sitting on top of a chainlink fence.",
+    "description": "She loves climbing things so she can look down at the view."
+  },
+  {
+    "fileName": "field.png",
+    "name": "Field of Flowers",
+    "alt": "Naomi dancing in a field of white flowers.",
+    "description": "Naomi loves to get out and play in nature."
+  },
+  {
+    "fileName": "fight.png",
+    "name": "Fight Me",
+    "alt": "Naomi with her fists raised, ready to fight.",
+    "description": "This is a bad idea, she probably won't win."
+  },
+  {
+    "fileName": "fireplace.png",
+    "name": "Night by the Fire",
+    "alt": "Naomi sitting in her nightgown in front of a fireplace.",
+    "description": "Nothing beats the fireplace on a cold winter night."
+  },
+  {
+    "fileName": "flip.png",
+    "name": "Backflip",
+    "alt": "Naomi doing a backflip over a bar.",
+    "description": "She can be athletic when she wants to be."
+  },
+  {
+    "fileName": "flirty.png",
+    "name": "Flirty Time",
+    "alt": "Naomi laying on the floor by her bed, giving a flirty look.",
+    "description": "There are times where she really can't help herself."
+  },
+  {
+    "fileName": "float.png",
+    "name": "Floating in the Sea",
+    "alt": "Naomi in the water by the beach, floating on an inflatable ring.",
+    "description": "Tempting to let the waves take her away."
+  },
+  {
+    "fileName": "floor.png",
+    "name": "Sitting on the Floor",
+    "alt": "Naomi sitting on the floor, eating a snack.",
+    "description": "It can be nice to just sit down and relax."
+  },
+  {
+    "fileName": "floral.png",
+    "name": "Floral Spirits",
+    "alt": "Naomi sitting on her bed, surrounded by flowers and spirits.",
+    "description": "Called by her kindness, the spirits came to pay her a visit."
+  },
+  {
+    "fileName": "forest.png",
+    "name": "Forest Shade",
+    "alt": "Naomi sitting under a tree, in the shade.",
+    "description": "On a hot day, finding the shade of a tree to read under is the best."
+  },
+  {
+    "fileName": "frustrated.png",
+    "name": "Frustrating Code",
+    "alt": "Naomi at her computer, looking frustrated.",
+    "description": "Once again, she cannot find the bug. She wrote it."
+  },
+  {
+    "fileName": "gaming-2.png",
+    "name": "Focused Gamer",
+    "alt": "Naomi laying in bed, surrounded by snacks, playing a game on her laptop.",
+    "description": "She has all sorts of gaming choices, but likes the ones where she can stay in bed."
+  },
+  {
+    "fileName": "gaming-3.png",
+    "name": "Console Gaming",
+    "alt": "Naomi sitting on the floor, playing on her XBox",
+    "description": "RPGs are her favourite, and character customisation is a huge selling point."
+  },
+  {
+    "fileName": "gaming-4.png",
+    "name": "The Witcher",
+    "alt": "Naomi sitting in bed, playing The Witcher 3",
+    "description": "She doesn't mind the lack of character customisation - she's got a thing for Geralt anyway."
+  },
+  {
+    "fileName": "gaming-5.png",
+    "name": "Koikatsu on Switch",
+    "alt": "Naomi laying in bed, playing Koikatsu on her Switch.",
+    "description": "Talk about the ultimate character creation..."
+  },
+  {
+    "fileName": "gaming.png",
+    "name": "Gaming in Bed",
+    "alt": "Naomi laying in bed, playing a game on her console.",
+    "description": "On a day off, Naomi might not ever get out of bed. If the game is fun."
+  },
+  {
+    "fileName": "gasp.png",
+    "name": "Gasping in Surprise",
+    "alt": "Naomi gasping in surprise, hand covering her mouth.",
+    "description": "Whatever happened, she certainly wasn't expecting it."
+  },
+  {
+    "fileName": "grass.png",
+    "name": "Laying in the Field",
+    "alt": "Naomi laying down in a field of grass.",
+    "description": "Cloud watching is loads of fun. She can always find a cool shape."
+  },
+  {
+    "fileName": "gun.png",
+    "name": "Sniper",
+    "alt": "Naomi holding a sniper rifle, looking through the scope.",
+    "description": "Taking her foes out from a distance keeps her safe and hidden."
+  },
+  {
+    "fileName": "gym-2.png",
+    "name": "Warmup Stretch",
+    "alt": "Naomi sitting on her knees, leaning back to stretch her thighs.",
+    "description": "Doing floor stretches before she starts her exercise routine."
+  },
+  {
+    "fileName": "gym-3.png",
+    "name": "Ready to Vault",
+    "alt": "Naomi leaning on a piece of gym equipment, ready to jump over it.",
+    "description": "First she checks if her form is correct, before she jumps over it."
+  },
+  {
+    "fileName": "gym.png",
+    "name": "Working Out or Playing Out?",
+    "alt": "Naomi in her gym clothes, sitting on a piece of equipment and sticking her tongue out.",
+    "description": "She actually doesn't know what this is, or how to use it."
+  },
+  {
+    "fileName": "hammock.png",
+    "name": "Hammock at the Beach",
+    "alt": "Naomi laying on a white hammock, hand behind her head.",
+    "description": "If the water wasn't so close, she'd do her work out here."
+  },
+  {
+    "fileName": "heart-2.png",
+    "name": "Shining Heart",
+    "alt": "Naomi making a heart with her hands, sparkles and glitter behind her.",
+    "description": "When she truly feels loved, it shows."
+  },
+  {
+    "fileName": "heart-3.png",
+    "name": "Hearts for Valentines",
+    "alt": "Naomi making a heart with her hands, a pink and maroon checkerboard behind her.",
+    "description": "This was the image for her valentine's card."
+  },
+  {
+    "fileName": "heart-4.png",
+    "name": "Leaping Love",
+    "alt": "Naomi doing a little jump and wave, a heart behind her.",
+    "description": "The love can overwhelm her sometimes, and she can barely contain it."
+  },
+  {
+    "fileName": "heart.png",
+    "name": "Reluctant Love",
+    "alt": "Naomi making a heart with her hands, a reluctant look on her face.",
+    "description": "It might not be what she wants to do, but she gives you her love."
+  },
+  {
+    "fileName": "heartbreak.png",
+    "name": "Broken Heart",
+    "alt": "Naomi kneeling down with her head down, the text Heartbroken behind her.",
+    "description": "Not everything goes well for her."
+  },
+  {
+    "fileName": "hotspring-2.png",
+    "name": "Soak in the Spring",
+    "alt": "Naomi sitting on the edge of a hot spring, reaching her hand out to invite you.",
+    "description": "Join her? She's inviting you."
+  },
+  {
+    "fileName": "hotspring.png",
+    "name": "Spa Day",
+    "alt": "Naomi sitting on the edge of a hot spring, her legs in the water.",
+    "description": "Soaking her legs allows her to relax without getting her hair wet."
+  },
+  {
+    "fileName": "hug.png",
+    "name": "Hugging Time!",
+    "alt": "Naomi reaching her arms out to offer a hug.",
+    "description": "Do you want a hug?"
+  },
+  {
+    "fileName": "idol.png",
+    "name": "Idol Star",
+    "alt": "Naomi on a vibrant stage, singing her heart out.",
+    "description": "There's no way she would ever be an idol with the way she sings, but she likes to pretend."
+  },
+  {
+    "fileName": "insomnia.png",
+    "name": "Insomnia",
+    "alt": "Naomi in bed, looking upset as she struggles to sleep.",
+    "description": "Yet another sleepless night..."
+  },
+  {
+    "fileName": "jail.png",
+    "name": "Behind Bars",
+    "alt": "Naomi standing in a locked prison cell.",
+    "description": "What did she do? Who knows."
+  },
+  {
+    "fileName": "kitchen.png",
+    "name": "Kitchen Company",
+    "alt": "Naomi sitting on the counter in the kitchen.",
+    "description": "She may be useless in the kitchen, but she'll keep you company while you cook!"
+  },
+  {
+    "fileName": "kitty.png",
+    "name": "Pet the Kitty",
+    "alt": "Naomi crouching down, smiling at a cat.",
+    "description": "Definitely more of a cat person than a dog person."
+  },
+  {
+    "fileName": "lazy.png",
+    "name": "Lazy Day",
+    "alt": "Naomi laying on the couch, eating snacks.",
+    "description": "One of those days where she has no motivation for anything."
+  },
+  {
+    "fileName": "library.png",
+    "name": "Library Trip",
+    "alt": "Naomi laying on the floor of a library, surrounded by books.",
+    "description": "She can, and will, spend hours in the library. They've had to kick her out at closing time before."
+  },
+  {
+    "fileName": "lounging.png",
+    "name": "Lounging Around",
+    "alt": "Naomi sitting on the couch, surrounded by snacks and electronics, watching a video on her phone.",
+    "description": "A bit of a couch potato today, but it is a well earned day off."
+  },
+  {
+    "fileName": "lunch.png",
+    "name": "Lunch Break",
+    "alt": "Naomi sitting in a chair, holding a box of pocky.",
+    "description": "Want to share my pocky?"
+  },
+  {
+    "fileName": "magic-2.png",
+    "name": "Summoning Circle",
+    "alt": "Naomi sitting on her bed, admiring the summoning circle she drew.",
+    "description": "But what is she trying to summon?"
+  },
+  {
+    "fileName": "magic-3.png",
+    "name": "Summoned Naomi",
+    "alt": "Naomi standing in the summoning circle she just appeared in.",
+    "description": "Who summoned her? And more importantly, why?"
+  },
+  {
+    "fileName": "magic.png",
+    "name": "Magic Attack",
+    "alt": "Naomi casting a red magic spell.",
+    "description": "She's normally a sword user, but has a couple of magical talents."
+  },
+  {
+    "fileName": "morning.png",
+    "name": "Good Morning",
+    "alt": "Naomi in bed, slowly waking up.",
+    "description": "Not at all a morning girl, Naomi is slow to wake up."
+  },
+  {
+    "fileName": "motorcycle.png",
+    "name": "Motorbike Ride",
+    "alt": "Naomi riding a motorcycle, wielding a katana.",
+    "description": "She feels like a superhero. Someone should tell her riding with a sword is dangerous."
+  },
+  {
+    "fileName": "movies.png",
+    "name": "Movie Theatre",
+    "alt": "Naomi sitting at the movies, looking over at you.",
+    "description": "Movie theatres make a great date spot."
+  },
+  {
+    "fileName": "music-2.png",
+    "name": "Music Lover",
+    "alt": "Naomi sitting in a chair with her legs on the table, listening to music.",
+    "description": "Music is one of her passions - she's always listening to something."
+  },
+  {
+    "fileName": "music.png",
+    "name": "Headphones Sharing",
+    "alt": "Naomi sharing her headphones with you.",
+    "description": "She has a song she wants you to listen to."
+  },
+  {
+    "fileName": "nails.png",
+    "name": "Purple Nails",
+    "alt": "Naomi's pointed purple fingernails and toenails.",
+    "description": "Her nails are always done up."
+  },
+  {
+    "fileName": "nailtrim.png",
+    "name": "Self Care",
+    "alt": "Naomi sitting on the floor trimmming her toenails.",
+    "description": "A lot of work goes in to looking this good."
+  },
+  {
+    "fileName": "nap-2.png",
+    "name": "Classroom Nap",
+    "alt": "Naomi sleeping at a classroom desk.",
+    "description": "Apparently the lecture wasn't all that interesting."
+  },
+  {
+    "fileName": "nap.png",
+    "name": "Sleeping at her Desk",
+    "alt": "Naomi sleeping at her desk.",
+    "description": "When she overworks herself, she ends up sleeping in strange places."
+  },
+  {
+    "fileName": "nature.png",
+    "name": "Out in Nature",
+    "alt": "Naomi sitting under the shade of a tree.",
+    "description": "She could sit outside for hours, as long as there's shade."
+  },
+  {
+    "fileName": "overworked.png",
+    "name": "Burnout",
+    "alt": "Naomi sitting at her computer crying.",
+    "description": "The code can be incredibly frustrating sometimes..."
+  },
+  {
+    "fileName": "park.png",
+    "name": "Bench in the Park",
+    "alt": "Naomi stting on a bench in the park.",
+    "description": "She loves watching the sun set."
+  },
+  {
+    "fileName": "peace.png",
+    "name": "Peace and Love",
+    "alt": "Naomi giving a peace sign with her fingers.",
+    "description": "She hopes you have a blessed day."
+  },
+  {
+    "fileName": "peek.png",
+    "name": "Peek-A-Boo",
+    "alt": "Naomi peeking from around a door.",
+    "description": "She wonders if she should have knocked first..."
+  },
+  {
+    "fileName": "piano.png",
+    "name": "Piano Woman",
+    "alt": "Naomi sitting at a grand piano.",
+    "description": "While it's been years since she played, she still loves it."
+  },
+  {
+    "fileName": "pillow-2.png",
+    "name": "Snuggling a Pillow",
+    "alt": "Naomi sitting on a blanket, snuggling a pillow.",
+    "description": "She normally carries around a plushie, but a pillow works in a pinch."
+  },
+  {
+    "fileName": "pillow.png",
+    "name": "Rough Night",
+    "alt": "Naomi sitting on her bed hugging a pillow.",
+    "description": "Bad dreams make for very rough nights."
+  },
+  {
+    "fileName": "plushie-2.png",
+    "name": "Bunny Plushie",
+    "alt": "Naomi snuggling a bunny plushie.",
+    "description": "It's actually rare to see Naomi without one of her plushies in hand."
+  },
+  {
+    "fileName": "plushie.png",
+    "name": "Her Favourite Plushie",
+    "alt": "Naomi laying in bed snuggling a stuffed bunny.",
+    "description": "Everyone has a favourite plushie. Naomi's is actually a Miku plushie."
+  },
+  {
+    "fileName": "point.png",
+    "name": "I Choose You",
+    "alt": "Naomi pointing at the screen.",
+    "description": "But what does she choose you for??"
+  },
+  {
+    "fileName": "pool.png",
+    "name": "Midnight Swim",
+    "alt": "Naomi standing in a pool under the moonlight.",
+    "description": "Sneaking out for a dip in the night is exhilarating and relaxing, all at once."
+  },
+  {
+    "fileName": "rain.png",
+    "name": "Rainy Day",
+    "alt": "Naomi crouched under an umbrella, keeping a cat dry.",
+    "description": "Naomi is always kind to animals."
+  },
+  {
+    "fileName": "rave.png",
+    "name": "DJ Naomi",
+    "alt": "Naomi standing at a large DJ station.",
+    "description": "She's really bad at this."
+  },
+  {
+    "fileName": "reading-2.png",
+    "name": "Found a Book",
+    "alt": "Naomi carrying a book from the bookshelf in a library.",
+    "description": "Picking just one book feels impossible. Naomi wants them all."
+  },
+  {
+    "fileName": "reading-3.png",
+    "name": "A Book Outside",
+    "alt": "Naomi sitting under a tree reading a book.",
+    "description": "While everyone else plays, she enjoys her solitude with a book."
+  },
+  {
+    "fileName": "reading-4.png",
+    "name": "Relaxing Afternoon",
+    "alt": "Naomi laying on the couch reading a book.",
+    "description": "Reading is one of her biggest hobbies. It's nice to get away from the electronics."
+  },
+  {
+    "fileName": "reading-5.png",
+    "name": "Waiting for the Compiler",
+    "alt": "Naomi sitting at her desk, putting her feet up and reading a book.",
+    "description": "She has to kill the time while she waits for her code to build."
+  },
+  {
+    "fileName": "reading-6.png",
+    "name": "Lost in the Story",
+    "alt": "Naomi laying on her stomach reading a book in bed.",
+    "description": "Before she knows it, it's 2AM."
+  },
+  {
+    "fileName": "reading-7.png",
+    "name": "Poolside Reading",
+    "alt": "Naomi in the pool, reading a book.",
+    "description": "Be careful not to get the pages wet!"
+  },
+  {
+    "fileName": "reading.png",
+    "name": "Reading in Bed",
+    "alt": "Naomi laying in bed reading a book.",
+    "description": "Reading before bed helps her unwind and prepare for sleep."
+  },
+  {
+    "fileName": "relax.png",
+    "name": "Time to Chill",
+    "alt": "Naomi laying on her stomach, smiling.",
+    "description": "Sitting down and doing nothing is quite relaxing at times."
+  },
+  {
+    "fileName": "relaxing.png",
+    "name": "Long Day of Work",
+    "alt": "Naomi sitting on the floor, her laptop case next to her.",
+    "description": "After a long day at the office, sometimes the couch feels too far away and the floor too tempting."
+  },
+  {
+    "fileName": "restaurant.png",
+    "name": "Traditional Restaurant",
+    "alt": "Naomi sitting on the floor of a traditional looking restaurant.",
+    "description": "Sushi and noodles are her favourites."
+  },
+  {
+    "fileName": "ritual.png",
+    "name": "Ritual Gone Wrong",
+    "alt": "Naomi passed out in a magic circle.",
+    "description": "When she was asked to participate in a ritual, this was not what she envisioned."
+  },
+  {
+    "fileName": "river.png",
+    "name": "Float Down the River",
+    "alt": "Naomi floating on a raft in the river.",
+    "description": "Being in the water at night is both scary and thrilling."
+  },
+  {
+    "fileName": "sad.png",
+    "name": "Blue Emotions",
+    "alt": "Naomi sitting on the bed, hugging a pillow and looking sad.",
+    "description": "Pretending that every day is great only hides the pain."
+  },
+  {
+    "fileName": "sakura.png",
+    "name": "Sakura Trees",
+    "alt": "Naomi dancing under a bunch of sakura trees.",
+    "description": "She absolutely loves the cherry blossom trees."
+  },
+  {
+    "fileName": "shhh.png",
+    "name": "Keep a Secret",
+    "alt": "Naomi standing in the hallway, putting her finger to her lips.",
+    "description": "I wonder what the surprise is..."
+  },
+  {
+    "fileName": "sing.png",
+    "name": "Sing To Me",
+    "alt": "Naomi standing with a hand on her hip, holding a microphone and singing",
+    "description": "Private karaoke rooms are the best."
+  },
+  {
+    "fileName": "sits.png",
+    "name": "I Fits, I Sits",
+    "alt": "Naomi sitting in a box full of packing material.",
+    "description": "She's like a cat, truly."
+  },
+  {
+    "fileName": "sitting.png",
+    "name": "Sitting Pretty",
+    "alt": "Naomi in her nightgown, sitting on a blanket.",
+    "description": "She's ready to sit and chat."
+  },
+  {
+    "fileName": "skulls.png",
+    "name": "Dark Ritual",
+    "alt": "Naomi sitting in front of some skulls, beckoning you closer.",
+    "description": "This looks creepy. You should probably back away."
+  },
+  {
+    "fileName": "sky.png",
+    "name": "Falling Through the Sky",
+    "alt": "Naomi falling through the sky, the sun behind her.",
+    "description": "Dreams like this typically don't end well."
+  },
+  {
+    "fileName": "sleep-2.png",
+    "name": "Fell Asleep Reading",
+    "alt": "Naomi sleeping on her bed, several books next to her.",
+    "description": "She does this a lot."
+  },
+  {
+    "fileName": "sleep-3.png",
+    "name": "Curled Up",
+    "alt": "Naomi sleeping on her bed, curled up.",
+    "description": "Sometimes she's too exhausted to even change in to her nightgown."
+  },
+  {
+    "fileName": "sleep.png",
+    "name": "Finally Asleep",
+    "alt": "Naomi sleeping on her floor bed.",
+    "description": "When she finally passes out, she sleeps hard."
+  },
+  {
+    "fileName": "snack.png",
+    "name": "Snack Time",
+    "alt": "Naomi walking down the street, snacking on a cookie.",
+    "description": "Can't even wait to get home before digging into the goodies."
+  },
+  {
+    "fileName": "soak.png",
+    "name": "Bath Time",
+    "alt": "Naomi soaking in the bathtub, having a drink.",
+    "description": "Letting the water relax her feels so good."
+  },
+  {
+    "fileName": "soda.png",
+    "name": "Carbonation Disaster",
+    "alt": "Naomi holding an open soda bottle that is exploding with bubbles.",
+    "description": "Who shook this?!"
+  },
+  {
+    "fileName": "spa.png",
+    "name": "Stress Relief",
+    "alt": "Naomi soaking in a tub with flowers on the water.",
+    "description": "Relaxing in the tub and enjoying the aromatherapy."
+  },
+  {
+    "fileName": "spaced.png",
+    "name": "Spacing Out",
+    "alt": "Naomi staring at the computer screen with a blank look on her face.",
+    "description": "Staring at the screen too long and she loses focus."
+  },
+  {
+    "fileName": "splits.png",
+    "name": "Doing the Splits",
+    "alt": "Naomi on the floor, doing a forward split, holding her phone.",
+    "description": "She was so proud of this moment, she had to capture a picture."
+  },
+  {
+    "fileName": "stats.png",
+    "name": "Character Stats",
+    "alt": "Naomi next to some RPG style character stats.",
+    "description": "Is she stronger than you?"
+  },
+  {
+    "fileName": "stretch-2.png",
+    "name": "Trying the Splits",
+    "alt": "Naomi reaching for her foot as she tries a horizontal split.",
+    "description": "She's almost there. So close!"
+  },
+  {
+    "fileName": "stretch.png",
+    "name": "Cammy Stretch",
+    "alt": "Naomi leaning forward, arching her back, and reaching up.",
+    "description": "She heard this was a meme and wanted in on it."
+  },
+  {
+    "fileName": "studying.png",
+    "name": "Studying Hard",
+    "alt": "Naomi sitting at a desk taking notes.",
+    "description": "Seems like she's distracted by you, though."
+  },
+  {
+    "fileName": "summoning.png",
+    "name": "Naomi Appears",
+    "alt": "Naomi sitting in a summoning circle, surrounded by roses.",
+    "description": "Roses were a nice touch, and definitely helped motivate her to show up."
+  },
+  {
+    "fileName": "sunshine.png",
+    "name": "Basking in the Sun",
+    "alt": "Naomi laying on her bed, the sun shining on her.",
+    "description": "Sunlight makes her skin look radiant."
+  },
+  {
+    "fileName": "surprised.png",
+    "name": "Surprised",
+    "alt": "Naomi giving a surprised look",
+    "description": "She's so happy to see you, but it was unexpected."
+  },
+  {
+    "fileName": "swimming.png",
+    "name": "Swim Training",
+    "alt": "Naomi at the edge of the pool, looking at you.",
+    "description": "Did she beat her latest lap record?"
+  },
+  {
+    "fileName": "swing.png",
+    "name": "Swing Set",
+    "alt": "Naomi sitting on a swing at the park.",
+    "description": "Being up high gives her a rush."
+  },
+  {
+    "fileName": "sword.png",
+    "name": "Sword Dancer",
+    "alt": "Naomi drawing a katana from its scabbard.",
+    "description": "Practising her sword skills is a daily routine."
+  },
+  {
+    "fileName": "tank.png",
+    "name": "Tank Commander",
+    "alt": "Naomi sitting in a tank, giving the order to advance.",
+    "description": "Who on earth let her have a tank?!"
+  },
+  {
+    "fileName": "tavern.png",
+    "name": "Tavern Talk",
+    "alt": "Naomi sitting at the bar, a mug of beer and some food in front of her.",
+    "description": "Visiting the local tavern is a great place to trade stories."
+  },
+  {
+    "fileName": "teahouse.png",
+    "name": "Tea for One",
+    "alt": "Naomi sitting outside a teahouse, holding a fan with a cup of tea next to her.",
+    "description": "Coffee is great for the morning, but tea is perfect for the afternoon."
+  },
+  {
+    "fileName": "throne.png",
+    "name": "Hail to the Queen",
+    "alt": "Naomi sitting in a throne, giving a smug look.",
+    "description": "Maybe she isn't royalty, but she demands your worship and fealty all the same."
+  },
+  {
+    "fileName": "umbrella.png",
+    "name": "Shelter from the Rain",
+    "alt": "Naomi sitting on a park bench holding an umbrella.",
+    "description": "The weather got a bit too rainy, so she decided to sit and wait it out."
+  },
+  {
+    "fileName": "underwater.png",
+    "name": "Under the Sea",
+    "alt": "Naomi floating underwater, giving a salute.",
+    "description": "She can hold her breath for a remarkably long time."
+  },
+  {
+    "fileName": "valentine.png",
+    "name": "Valentines Day",
+    "alt": "Naomi sitting on the bed, surrounded by rose petals.",
+    "description": "She loves valentines day. It's a great excuse to be romantic."
+  },
+  {
+    "fileName": "walk.png",
+    "name": "Walk in the Park",
+    "alt": "Naomi going for a stroll in the park.",
+    "description": "Getting out and enjoying the sunshine is one of her best weekend activities."
+  },
+  {
+    "fileName": "water.png",
+    "name": "Spiked my Drink",
+    "alt": "Naomi sitting with a glass in hand, surprised at the contents.",
+    "description": "This isn't water... what is this??"
+  },
+  {
+    "fileName": "window-2.png",
+    "name": "Sunny Day",
+    "alt": "Naomi sitting on a bench by the window, enjoying the day.",
+    "description": "On days like this, Naomi sits as close to the window as possible if she can't be outside."
+  },
+  {
+    "fileName": "window-3.png",
+    "name": "Cabin Window",
+    "alt": "Naomi sitting in the window of a log cabin.",
+    "description": "Big windows like this are ideal, so she can throw them open and enjoy the fresh air."
+  },
+  {
+    "fileName": "window.png",
+    "name": "Enjoying the View",
+    "alt": "Naomi in her nightgown, sitting in the window sill.",
+    "description": "Is the view out the window? Or is the view Naomi?"
+  },
+  {
+    "fileName": "wink.png",
+    "name": "A Wink and a Kiss",
+    "alt": "Naomi winking at the camera, making a peace sign with her fingers.",
+    "description": "Fun and flirty, but she's rarely serious about it."
+  },
+  {
+    "fileName": "work-2.png",
+    "name": "Hard at Work",
+    "alt": "Naomi at her desk, focused on her laptop.",
+    "description": "When she gets in the groove, time flies by and no one can distract her."
+  },
+  {
+    "fileName": "work-3.png",
+    "name": "Boring Tasks",
+    "alt": "Naomi slouching in her chair, looking at her computer unamused.",
+    "description": "Not every task at work is entertaining. Sometimes she has to push through the boring stuff."
+  },
+  {
+    "fileName": "work-4.png",
+    "name": "Distracted",
+    "alt": "Naomi sitting at her computer, looking at you with a distracted stare.",
+    "description": "Unused to interruptions, talking to her while she's working is a great way to get her attention."
+  },
+  {
+    "fileName": "work-5.png",
+    "name": "Proud of her Work",
+    "alt": "Naomi at her computer, looking back over her shoulder and smiling.",
+    "description": "Naomi loves to show off her projects when she's done - especially if it was a difficult one."
+  },
+  {
+    "fileName": "work.png",
+    "name": "Cafe Work",
+    "alt": "Naomi sitting at a cafe table, working on her laptop.",
+    "description": "She doesn't go to the cafe just to work, she goes for the coffee. And brings work with her."
+  },
+  {
+    "fileName": "pool-2.png",
+    "name": "Gonna Swim?",
+    "alt": "Naomi standing at the edge of the swimming pool, looking back over her shoulder and smiling.",
+    "description": "She wants to know if you're getting in the pool with her."
+  },
+  {
+    "fileName": "archer.png",
+    "name": "Take a Shot",
+    "alt": "Naomi firing an arrow from a bow.",
+    "description": "She rarely misses her mark."
+  },
+  {
+    "fileName": "balcony-2.png",
+    "name": "Morning Breeze",
+    "alt": "Naomi standing in the balcony of a sliding glass door.",
+    "description": "Her ideal way to start the morning is with a nice breeze as she soaks up the sun."
+  },
+  {
+    "fileName": "blood.png",
+    "name": "Aftermath",
+    "alt": "Naomi kneeling on the floor, surrounded by blood, grinning.",
+    "description": "Someone chose to pick a fight with her, and suffered the consequences."
+  },
+  {
+    "fileName": "chop.png",
+    "name": "Kitchen Prep",
+    "alt": "Naomi standing at the counter, chopping a cabbage.",
+    "description": "She may not be a good cook, but she is always happy to help with the prep work!"
+  },
+  {
+    "fileName": "dance.png",
+    "name": "Dance Dance Dance",
+    "alt": "Naomi on a stage dancing.",
+    "description": "Naomi loves to get down to a good tune."
+  },
+  {
+    "fileName": "evil.png",
+    "name": "Bad Idea",
+    "alt": "Naomi with her arms extended, an evil grin on her face and a red shine in her eyes.",
+    "description": "She's got an idea. It's probably a bad idea. Whatever she offers, you don't want to get involved."
+  },
+  {
+    "fileName": "film.png",
+    "name": "Documentary",
+    "alt": "Naomi laying in bed, hugging a pillow, viewed from a currently recording camera.",
+    "description": "Asked to star in a documentary seemed like a good idea, but she really didn't want to get out of bed."
+  },
+  {
+    "fileName": "fireworks.png",
+    "name": "Firework Festival",
+    "alt": "Naomi holding a caramel apple and cotton candy, fireworks exploding behind her.",
+    "description": "Fireworks are one of her favourite things, and going to a festival with yummy food to see them makes it even better."
+  },
+  {
+    "fileName": "hot.png",
+    "name": "Heat Wave",
+    "alt": "Naomi sitting in front of a fan, eating a popsicle.",
+    "description": "Hot weather is the absolute worst. She always struggles to stay cool."
+  },
+  {
+    "fileName": "pier.png",
+    "name": "Late-night Swim",
+    "alt": "Naomi sitting on a pier in the night, considering going for a swim.",
+    "description": "It may be a cool night, but it's never too cold to dive in the water."
+  },
+  {
+    "fileName": "scared.png",
+    "name": "Scared Sleepless",
+    "alt": "Naomi in bed, hiding under the blankets.",
+    "description": "There is a monster under her bed. She knows it's there, no matter how many people say it isn't."
+  },
+  {
+    "fileName": "scold.png",
+    "name": "Careless Mistake",
+    "alt": "Naomi with a stern look, pointing a finger in a scolding gesture.",
+    "description": "Whatever you've done, she aims to ensure you never do it again."
+  },
+  {
+    "fileName": "selfie.png",
+    "name": "Selfie",
+    "alt": "Naomi snapping a selfie as she makes a peace sign.",
+    "description": "Selfies are a lot of fun. She takes quite a few of them."
+  },
+  {
+    "fileName": "smite.png",
+    "name": "Paladin's Judgement",
+    "alt": "Naomi looking down at the screen, pointing a glowing blue blade at it.",
+    "description": "Thou art weighed in the balances, and art found wanting."
+  },
+  {
+    "fileName": "swimming-2.png",
+    "name": "Swimming Laps",
+    "alt": "Naomi in the pool, floating at the edge, looking back over her shoulder.",
+    "description": "'You timed me this time, right? Right??'"
+  },
+  {
+    "fileName": "television.png",
+    "name": "Watching a Show",
+    "alt": "Naomi laying in bed, watching television.",
+    "description": "If she doesn't feel like gaming, she'll lay in bed and watch an anime."
+  },
+  {
+    "fileName": "waterfall.png",
+    "name": "At The Falls",
+    "alt": "Naomi standing in front of a waterfall, stretching.",
+    "description": "Waterfalls are one of her favourite nature destinations."
+  },
+  {
+    "fileName": "classroom.png",
+    "name": "Star Student",
+    "alt": "Naomi sitting in a classroom chair, her feet on the desk, hiding her face with a hand.",
+    "description": "As a student, Naomi coasted through most of school with little effort. She was always bored, and it showed."
+  },
+  {
+    "fileName": "dancer.png",
+    "name": "Put On a Show",
+    "alt": "Naomi in a dancer dress, swaying her arms.",
+    "description": "Okay, so she isn't the best dancer. She still has fun with it."
+  },
+  {
+    "fileName": "knight.png",
+    "name": "Knight Naomi",
+    "alt": "Naomi wearing a black and purple metal chest plate with a long skirt, wielding a sword.",
+    "description": "Striking down her foes swiftly is what she specialises in."
+  },
+  {
+    "fileName": "shrine.png",
+    "name": "Visiting the Temple",
+    "alt": "Naomi in a black yukata with a purple sash, standing on a bridge over a pond in a traditional shrine.",
+    "description": "Temples and shrines have always appealed to her with their serenity."
+  },
+  {
+    "fileName": "shrine-2.png",
+    "name": "Shrine Maiden",
+    "alt": "Naomi wearing a purple and black shrine maiden outfit, sitting on a bench in a shrine.",
+    "description": "Without the proper training, welcoming you to the shrine is about all she can do."
+  },
+  {
+    "fileName": "maid.png",
+    "name": "Maid Cafe",
+    "alt": "Naomi wearing a maid outfit, serving a platter of food and drinks.",
+    "description": "Working in the maid cafe turned out to be fun, and a great way to meet new friends!"
+  },
+  {
+    "fileName": "stage.png",
+    "name": "Miku Concert",
+    "alt": "Naomi performing on a stage while wearing a Hatsune Miku outfit.",
+    "description": "Really just a dream, but one day Naomi hopes to make it reality!"
+  },
+  {
+    "fileName": "affection.png",
+    "name": "Naomi's Affection",
+    "alt": "Naomi sitting down, holding out her hand and presenting a heart.",
+    "description": "She gives you her affection."
+  },
+  {
+    "fileName": "confession.png",
+    "name": "Secret Confession",
+    "alt": "Naomi standing on the sidewalk, extending a love letter to you, blushing.",
+    "description": "If she confessed her love, what would you do?"
+  },
+  {
+    "fileName": "challenger.png",
+    "name": "Challenger Approaching",
+    "alt": "Naomi in the 'Challenger Approaching' screen from Super Smash Brothers.",
+    "description": "Ready for the fight?"
+  },
+  {
+    "fileName": "gears.png",
+    "name": "Clockwork Tower",
+    "alt": "Naomi sitting on the platform of a tower, gears rotating behind her.",
+    "description": "Much like life, the gears stop for no one."
+  },
+  {
+    "fileName": "god.png",
+    "name": "Leave it to God?",
+    "alt": "Naomi holding a gun, the text 'We can't expect God to do all the work.' behind her.",
+    "description": "Forget that. Naomi prefers to handle her own problems."
+  },
+  {
+    "fileName": "bad.png",
+    "name": "Bad Decisions",
+    "alt": "Naomi with a wry smile, the text 'Today I am going to make BAD choices' behind her.",
+    "description": "So... basically another regular day, then."
+  }
 ]

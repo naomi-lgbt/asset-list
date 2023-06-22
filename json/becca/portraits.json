@@ -1,178 +1,178 @@
 [
-    {
-        "fileName": "Moonlight 1.png",
-        "name": "Becca Lyria",
-        "artist": "Moonlight",
-        "url": "https://www.instagram.com/moonlightkcreations/",
-        "alt": "Banner art of Becca.",
-        "description": "She uses this portrait to advertise her services."
-    },
-    {
-        "fileName": "Moonlight 3.png",
-        "name": "A Forest Adventure",
-        "artist": "Moonlight",
-        "url": "https://www.instagram.com/moonlightkcreations/",
-        "alt": "Becca with one eye closed, pushing through some trees in a forest, wearing a purple corset and pants.",
-        "description": "Becca loves exploring. You never know when you might find an ancient ruin."
-    },
-    {
-        "fileName": "Moonlight 4.png",
-        "name": "A Day at the Beach",
-        "artist": "Moonlight",
-        "url": "https://www.instagram.com/moonlightkcreations/",
-        "alt": "Becca in a purple bikini, sunbathing on the beach.",
-        "description": "Becca takes a rare moment to relax."
-    },
-    {
-        "fileName": "Moonlight 5.png",
-        "name": "Princess Becca",
-        "artist": "Moonlight",
-        "url": "https://www.instagram.com/moonlightkcreations/",
-        "alt": "Becca in a regal ballgown and tiara, her hair in a bun.",
-        "description": "She may not actually be royalty, but the crown definitely suits her."
-    },
-    {
-        "fileName": "Moonlight 6.jpg",
-        "name": "Sketch",
-        "artist": "Moonlight",
-        "url": "https://www.instagram.com/moonlightkcreations/",
-        "alt": "A quick sketch of Becca with an inquisitive look on her face.",
-        "description": "Rosalia had this sketch done for Becca at a faire they had attended."
-    },
-    {
-        "fileName": "Starfazers.png",
-        "name": "Chilling at the Park",
-        "artist": "Starfazers",
-        "url": "https://instagram.com/starfazers",
-        "alt": "Becca wearing a black corset with a mesh shawl and purple shorts, sitting on a ledge.",
-        "description": "A moment of respite, before the journey continues."
-    },
-    {
-        "fileName": "Ashley.jpg",
-        "name": "A Wink and a Kiss",
-        "artist": "Ashley",
-        "url": "https://www.instagram.com/tbg_art/",
-        "alt": "Becca winking, lifting one of her pigtails up in her hand.",
-        "description": "Sometimes she can't help but flirt, even if it's just a mild wink."
-    },
-    {
-        "fileName": "shiroGEM.png",
-        "name": "Ready to Fight",
-        "artist": "crys-chris",
-        "url": "https://crys-chris.carrd.co/",
-        "alt": "Becca with one hand raised, ready to fight.",
-        "description": "Becca is always ready to take on the next challenger and show off her magical prowess."
-    },
-    {
-        "fileName": "Inspector Luke Warm.png",
-        "name": "Vitriol",
-        "artist": "Inspector Luke Warm",
-        "url": "https://www.gaiaonline.com/profiles/inspector-luke-warm/20324544/",
-        "alt": "Becca with her arms crossed, giving an annoyed look.",
-        "description": "It takes a lot to get under Becca's skin, but when she's finally angry you had best watch out."
-    },
-    {
-        "fileName": "Dyabolus.png",
-        "name": "Another Day",
-        "artist": "Dyabolus",
-        "url": "https://www.gaiaonline.com/profiles/dyabolus/4366582/",
-        "alt": "Becca wearing her typical attire.",
-        "description": "Just another day of magic and adventuring."
-    },
-    {
-        "fileName": "Euphoria-Cyrab.jpg",
-        "name": "Dressed Up for Summer",
-        "artist": "Unknown",
-        "url": "https://www.beccalyria.com",
-        "alt": "Becca wearing a purple spaghetti strap dress with a wide ruffled skirt.",
-        "description": "When the weather gets warmer, Becca has to change her wardrobe to match."
-    },
-    {
-        "fileName": "Princess Geekfayce.png",
-        "name": "Shy Elegance",
-        "artist": "Princess Geekfayce",
-        "url": "https://www.gaiaonline.com/profiles/princess-geekfayce/5671848/",
-        "alt": "Becca in a tight fitted strapless dress with a white top and purple skirt.",
-        "description": "A rare moment where Becca was actually feeling shy."
-    },
-    {
-        "fileName": "RinHekka.png",
-        "name": "Young Becca",
-        "artist": "EvilKingRin",
-        "url": "https://www.deviantart.com/evilkingrin",
-        "alt": "Becca as a young teen, still wearing her typical attire.",
-        "description": "Even when she was younger, Becca always enjoyed adventuring and studying."
-    },
-    {
-        "fileName": "Ruvik Victoriano.png",
-        "name": "Sassy Queen",
-        "artist": "Ruvik Victoriano",
-        "url": "https://www.gaiaonline.com/profiles/ruvik-victoriano/38974251/",
-        "alt": "Becca in a purple plunging neckline dress, smoking a cigar.",
-        "description": "Becca is both powerful and elegant at the same time."
-    },
-    {
-        "fileName": "TiffanyBlueSprinkles.png",
-        "name": "The Royal Ball",
-        "artist": "Tiffany",
-        "url": "https://www.instagram.com/itiffanyblue/",
-        "alt": "Becca in a tight fitted strapless dress with a white top and purple skirt, smoking a cigarette.",
-        "description": "She had the chance to attend a royal ball, and she made sure to make an impression."
-    },
-    {
-        "fileName": "wispur.png",
-        "name": "Feeling Flirty",
-        "artist": "Unknown",
-        "url": "https://www.beccalyria.com",
-        "alt": "Becca in a purple dress, on her knees with a flirtatious look.",
-        "description": "Wonder what she has in mind..."
-    },
-    {
-        "fileName": "Xiyara.png",
-        "name": "Playful",
-        "artist": "Unknown",
-        "url": "https://www.beccalyria.com",
-        "alt": "Becca in her typical dress, with a playful smile on her face.",
-        "description": "She takes joy in her adventures, and sees the challenges as nothing more than a game."
-    },
-    {
-        "fileName": "claudoodles.png",
-        "name": "Shining Beauty",
-        "artist": "claudoodles",
-        "url": "https://twitter.com/claudoodles_",
-        "alt": "Becca in her typically attire, smiling with bubbles behind her.",
-        "description": "While she knows she looks good, Becca rarely takes a moment to admire herself."
-    },
-    {
-        "fileName": "Lena_Smith11.jpg",
-        "name": "A Night on the Town",
-        "artist": "Lena",
-        "url": "https://twitter.com/lena_smith11",
-        "alt": "Becca in a fancy evening dress with a black bow sash and purple gloves. Her hair is up in a ponytail.",
-        "description": "She's all ready for a night out - gonna paint the town red."
-    },
-    {
-        "fileName": "coffee.png",
-        "name": "White Mocha With Extra Becca",
-        "artist": "HalleyWoofs",
-        "url": "https://halleywoofs.art",
-        "alt": "Becca in a starbucks cup labelled White Mocha with Raspberry",
-        "description": "Not your typical Starbucks order..."
-    },
-    {
-        "fileName": "kato_token.png",
-        "name": "Token",
-        "artist": "Kato",
-        "url": "https://362studios.carrd.co/",
-        "alt": "Becca as a character token for Dungeons and Dragons",
-        "description": "When she doesn't have an adventure to go on, Becca plays TTRPGS to pass the time."
-    },
-    {
-        "fileName": "melty-wink.jpg",
-        "name": "Wink",
-        "artist": "MeltyDraws",
-        "url": "https://twitter.com/MeltyDraws",
-        "alt": "Becca winking and making a peace sign with her fingers.",
-        "description": "She was feeling victorious after yet another successful adventure."
-    }
+  {
+    "fileName": "Moonlight 1.png",
+    "name": "Becca Lyria",
+    "artist": "Moonlight",
+    "url": "https://www.instagram.com/moonlightkcreations/",
+    "alt": "Banner art of Becca.",
+    "description": "She uses this portrait to advertise her services."
+  },
+  {
+    "fileName": "Moonlight 3.png",
+    "name": "A Forest Adventure",
+    "artist": "Moonlight",
+    "url": "https://www.instagram.com/moonlightkcreations/",
+    "alt": "Becca with one eye closed, pushing through some trees in a forest, wearing a purple corset and pants.",
+    "description": "Becca loves exploring. You never know when you might find an ancient ruin."
+  },
+  {
+    "fileName": "Moonlight 4.png",
+    "name": "A Day at the Beach",
+    "artist": "Moonlight",
+    "url": "https://www.instagram.com/moonlightkcreations/",
+    "alt": "Becca in a purple bikini, sunbathing on the beach.",
+    "description": "Becca takes a rare moment to relax."
+  },
+  {
+    "fileName": "Moonlight 5.png",
+    "name": "Princess Becca",
+    "artist": "Moonlight",
+    "url": "https://www.instagram.com/moonlightkcreations/",
+    "alt": "Becca in a regal ballgown and tiara, her hair in a bun.",
+    "description": "She may not actually be royalty, but the crown definitely suits her."
+  },
+  {
+    "fileName": "Moonlight 6.jpg",
+    "name": "Sketch",
+    "artist": "Moonlight",
+    "url": "https://www.instagram.com/moonlightkcreations/",
+    "alt": "A quick sketch of Becca with an inquisitive look on her face.",
+    "description": "Rosalia had this sketch done for Becca at a faire they had attended."
+  },
+  {
+    "fileName": "Starfazers.png",
+    "name": "Chilling at the Park",
+    "artist": "Starfazers",
+    "url": "https://instagram.com/starfazers",
+    "alt": "Becca wearing a black corset with a mesh shawl and purple shorts, sitting on a ledge.",
+    "description": "A moment of respite, before the journey continues."
+  },
+  {
+    "fileName": "Ashley.jpg",
+    "name": "A Wink and a Kiss",
+    "artist": "Ashley",
+    "url": "https://www.instagram.com/tbg_art/",
+    "alt": "Becca winking, lifting one of her pigtails up in her hand.",
+    "description": "Sometimes she can't help but flirt, even if it's just a mild wink."
+  },
+  {
+    "fileName": "shiroGEM.png",
+    "name": "Ready to Fight",
+    "artist": "crys-chris",
+    "url": "https://crys-chris.carrd.co/",
+    "alt": "Becca with one hand raised, ready to fight.",
+    "description": "Becca is always ready to take on the next challenger and show off her magical prowess."
+  },
+  {
+    "fileName": "Inspector Luke Warm.png",
+    "name": "Vitriol",
+    "artist": "Inspector Luke Warm",
+    "url": "https://www.gaiaonline.com/profiles/inspector-luke-warm/20324544/",
+    "alt": "Becca with her arms crossed, giving an annoyed look.",
+    "description": "It takes a lot to get under Becca's skin, but when she's finally angry you had best watch out."
+  },
+  {
+    "fileName": "Dyabolus.png",
+    "name": "Another Day",
+    "artist": "Dyabolus",
+    "url": "https://www.gaiaonline.com/profiles/dyabolus/4366582/",
+    "alt": "Becca wearing her typical attire.",
+    "description": "Just another day of magic and adventuring."
+  },
+  {
+    "fileName": "Euphoria-Cyrab.jpg",
+    "name": "Dressed Up for Summer",
+    "artist": "Unknown",
+    "url": "https://www.beccalyria.com",
+    "alt": "Becca wearing a purple spaghetti strap dress with a wide ruffled skirt.",
+    "description": "When the weather gets warmer, Becca has to change her wardrobe to match."
+  },
+  {
+    "fileName": "Princess Geekfayce.png",
+    "name": "Shy Elegance",
+    "artist": "Princess Geekfayce",
+    "url": "https://www.gaiaonline.com/profiles/princess-geekfayce/5671848/",
+    "alt": "Becca in a tight fitted strapless dress with a white top and purple skirt.",
+    "description": "A rare moment where Becca was actually feeling shy."
+  },
+  {
+    "fileName": "RinHekka.png",
+    "name": "Young Becca",
+    "artist": "EvilKingRin",
+    "url": "https://www.deviantart.com/evilkingrin",
+    "alt": "Becca as a young teen, still wearing her typical attire.",
+    "description": "Even when she was younger, Becca always enjoyed adventuring and studying."
+  },
+  {
+    "fileName": "Ruvik Victoriano.png",
+    "name": "Sassy Queen",
+    "artist": "Ruvik Victoriano",
+    "url": "https://www.gaiaonline.com/profiles/ruvik-victoriano/38974251/",
+    "alt": "Becca in a purple plunging neckline dress, smoking a cigar.",
+    "description": "Becca is both powerful and elegant at the same time."
+  },
+  {
+    "fileName": "TiffanyBlueSprinkles.png",
+    "name": "The Royal Ball",
+    "artist": "Tiffany",
+    "url": "https://www.instagram.com/itiffanyblue/",
+    "alt": "Becca in a tight fitted strapless dress with a white top and purple skirt, smoking a cigarette.",
+    "description": "She had the chance to attend a royal ball, and she made sure to make an impression."
+  },
+  {
+    "fileName": "wispur.png",
+    "name": "Feeling Flirty",
+    "artist": "Unknown",
+    "url": "https://www.beccalyria.com",
+    "alt": "Becca in a purple dress, on her knees with a flirtatious look.",
+    "description": "Wonder what she has in mind..."
+  },
+  {
+    "fileName": "Xiyara.png",
+    "name": "Playful",
+    "artist": "Unknown",
+    "url": "https://www.beccalyria.com",
+    "alt": "Becca in her typical dress, with a playful smile on her face.",
+    "description": "She takes joy in her adventures, and sees the challenges as nothing more than a game."
+  },
+  {
+    "fileName": "claudoodles.png",
+    "name": "Shining Beauty",
+    "artist": "claudoodles",
+    "url": "https://twitter.com/claudoodles_",
+    "alt": "Becca in her typically attire, smiling with bubbles behind her.",
+    "description": "While she knows she looks good, Becca rarely takes a moment to admire herself."
+  },
+  {
+    "fileName": "Lena_Smith11.jpg",
+    "name": "A Night on the Town",
+    "artist": "Lena",
+    "url": "https://twitter.com/lena_smith11",
+    "alt": "Becca in a fancy evening dress with a black bow sash and purple gloves. Her hair is up in a ponytail.",
+    "description": "She's all ready for a night out - gonna paint the town red."
+  },
+  {
+    "fileName": "coffee.png",
+    "name": "White Mocha With Extra Becca",
+    "artist": "HalleyWoofs",
+    "url": "https://halleywoofs.art",
+    "alt": "Becca in a starbucks cup labelled White Mocha with Raspberry",
+    "description": "Not your typical Starbucks order..."
+  },
+  {
+    "fileName": "kato_token.png",
+    "name": "Token",
+    "artist": "Kato",
+    "url": "https://362studios.carrd.co/",
+    "alt": "Becca as a character token for Dungeons and Dragons",
+    "description": "When she doesn't have an adventure to go on, Becca plays TTRPGS to pass the time."
+  },
+  {
+    "fileName": "melty-wink.jpg",
+    "name": "Wink",
+    "artist": "MeltyDraws",
+    "url": "https://twitter.com/MeltyDraws",
+    "alt": "Becca winking and making a peace sign with her fingers.",
+    "description": "She was feeling victorious after yet another successful adventure."
+  }
 ]

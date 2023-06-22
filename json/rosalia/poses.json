@@ -1,26 +1,26 @@
 [
-    {
-        "fileName": "gaming.png",
-        "name": "Gaming",
-        "alt": "Rosalia laying in her bed on her stomach, surrounded by snacks as she plays a game on her laptop.",
-        "description": "Unsurprisingly, Rosalia loves RPGs almost as much as she loves actual adventures."
-    },
-    {
-        "fileName": "peace.png",
-        "name": "Peace Out",
-        "alt": "Rosalia standing in front of a shrine, giving a peace sign with her fingers.",
-        "description": "She loves to give the peace sign as she's leaving - she really does want you to have a peaceful day."
-    },
-    {
-        "fileName": "sakura.png",
-        "name": "Sakura Festival",
-        "alt": "Rosalia standing in a forest of cherry blossom trees.",
-        "description": "Rosalia enjoys the Sakura Festival - she loves the cherry blossom trees."
-    },
-    {
-        "fileName": "angel.png",
-        "name": "Angelic Warrior",
-        "alt": "Rosalia wielding her sword, an angelic halo and wings appearing behind her.",
-        "description": "Her holy magic empowers her fighting skills."
-    }
+  {
+    "fileName": "gaming.png",
+    "name": "Gaming",
+    "alt": "Rosalia laying in her bed on her stomach, surrounded by snacks as she plays a game on her laptop.",
+    "description": "Unsurprisingly, Rosalia loves RPGs almost as much as she loves actual adventures."
+  },
+  {
+    "fileName": "peace.png",
+    "name": "Peace Out",
+    "alt": "Rosalia standing in front of a shrine, giving a peace sign with her fingers.",
+    "description": "She loves to give the peace sign as she's leaving - she really does want you to have a peaceful day."
+  },
+  {
+    "fileName": "sakura.png",
+    "name": "Sakura Festival",
+    "alt": "Rosalia standing in a forest of cherry blossom trees.",
+    "description": "Rosalia enjoys the Sakura Festival - she loves the cherry blossom trees."
+  },
+  {
+    "fileName": "angel.png",
+    "name": "Angelic Warrior",
+    "alt": "Rosalia wielding her sword, an angelic halo and wings appearing behind her.",
+    "description": "Her holy magic empowers her fighting skills."
+  }
 ]

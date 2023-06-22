@@ -1,50 +1,50 @@
 [
-    {
-        "fileName": "divinity-original-sin-ii.jpg",
-        "game": "Divinity: Original Sin II",
-        "alt": "Rosalia in a white robe, leaning on a flaming greatsword.",
-        "description": "Becoming the Godwoken was her true calling."
-    },
-    {
-        "fileName": "dragon-age-ii.jpg",
-        "game": "Dragon Age II",
-        "alt": "Portrait of Rosalia, her hair down with french braids on the sides.",
-        "description": "Rosalia doesn't remember much about this adventure, but it was fun."
-    },
-    {
-        "fileName": "dragon-age.jpg",
-        "game": "Dragon Age: Origins",
-        "alt": "Rosalia wearing studded leather armour, a greatsword on her back.",
-        "description": "As much as she hates wearing armour, this adventure called for it and she had little choice."
-    },
-    {
-        "fileName": "koikatsu.png",
-        "game": "Koikatsu Party",
-        "alt": "Rosalia wearing a whtie robe with a split down the front of the skirt.",
-        "description": "She gets in to all sorts of fun shenanigans when she isn't working."
-    },
-    {
-        "fileName": "oblivion.jpg",
-        "game": "The Elder Scrolls IV: Oblivion",
-        "alt": "Rosalia wearing a strapless white dress with a floor-length skirt.",
-        "description": "Protecting another while they save the day is Rosalia's ideal adventure."
-    },
-    {
-        "fileName": "skyrim.jpg",
-        "game": "The Elder Scrolls V: Skyrim",
-        "alt": "Rosalia wearing a white dress with a short, torn skirt.",
-        "description": "She spent more time exploring this land than actually worrying about being Dragonborn."
-    },
-    {
-        "fileName": "star-wars-tor.jpg",
-        "game": "Star Wars: The Old Republic",
-        "alt": "A shoulders-up shot of Rosalia wearing a white bikini and shawl, with gold accents.",
-        "description": "The chance to become a Jedi! How could she pass that up?"
-    },
-    {
-        "fileName": "soul-calibur-vi.jpg",
-        "game": "Soul Calibur VI",
-        "alt": "Rosalia wearing a white strapless dress with a frilled skirt, holding a white greatsword with gold accents.",
-        "description": "Rosalia doesn't enjoy fighting just for the sake of fighting, but understands the value of honing one's skills. A tournament was a great way to do so."
-    }
+  {
+    "fileName": "divinity-original-sin-ii.jpg",
+    "game": "Divinity: Original Sin II",
+    "alt": "Rosalia in a white robe, leaning on a flaming greatsword.",
+    "description": "Becoming the Godwoken was her true calling."
+  },
+  {
+    "fileName": "dragon-age-ii.jpg",
+    "game": "Dragon Age II",
+    "alt": "Portrait of Rosalia, her hair down with french braids on the sides.",
+    "description": "Rosalia doesn't remember much about this adventure, but it was fun."
+  },
+  {
+    "fileName": "dragon-age.jpg",
+    "game": "Dragon Age: Origins",
+    "alt": "Rosalia wearing studded leather armour, a greatsword on her back.",
+    "description": "As much as she hates wearing armour, this adventure called for it and she had little choice."
+  },
+  {
+    "fileName": "koikatsu.png",
+    "game": "Koikatsu Party",
+    "alt": "Rosalia wearing a whtie robe with a split down the front of the skirt.",
+    "description": "She gets in to all sorts of fun shenanigans when she isn't working."
+  },
+  {
+    "fileName": "oblivion.jpg",
+    "game": "The Elder Scrolls IV: Oblivion",
+    "alt": "Rosalia wearing a strapless white dress with a floor-length skirt.",
+    "description": "Protecting another while they save the day is Rosalia's ideal adventure."
+  },
+  {
+    "fileName": "skyrim.jpg",
+    "game": "The Elder Scrolls V: Skyrim",
+    "alt": "Rosalia wearing a white dress with a short, torn skirt.",
+    "description": "She spent more time exploring this land than actually worrying about being Dragonborn."
+  },
+  {
+    "fileName": "star-wars-tor.jpg",
+    "game": "Star Wars: The Old Republic",
+    "alt": "A shoulders-up shot of Rosalia wearing a white bikini and shawl, with gold accents.",
+    "description": "The chance to become a Jedi! How could she pass that up?"
+  },
+  {
+    "fileName": "soul-calibur-vi.jpg",
+    "game": "Soul Calibur VI",
+    "alt": "Rosalia wearing a white strapless dress with a frilled skirt, holding a white greatsword with gold accents.",
+    "description": "Rosalia doesn't enjoy fighting just for the sake of fighting, but understands the value of honing one's skills. A tournament was a great way to do so."
+  }
 ]

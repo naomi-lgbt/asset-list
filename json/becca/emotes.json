@@ -1,218 +1,218 @@
 [
-    {
-        "fileName": "BeccaAngry.png",
-        "name": "Angry",
-        "alt": "Becca with a fist raised, her face red from anger",
-        "description": "It does not take much to outrage Becca."
-    },
-    {
-        "fileName": "BeccaArt.png",
-        "name": "Art",
-        "alt": "Becca with a beret on her head, paintbrushes and paint pallet in hand",
-        "description": "She does have an artistic side."
-    },
-    {
-        "fileName": "BeccaBan.png",
-        "name": "Ban",
-        "alt": "Becca with devil horns and red eyes, holding a massive wooden mallet.",
-        "description": "Play by her rules or get bonked."
-    },
-    {
-        "fileName": "BeccaBlush.png",
-        "name": "Blush",
-        "alt": "Becca blushing from embarrassment, her mouth open in surprise.",
-        "description": "What did you say to finally get her to blush?"
-    },
-    {
-        "fileName": "BeccaCheer.png",
-        "name": "Cheer",
-        "alt": "Becca smiling, a pompom in each hand.",
-        "description": "She'll cheer you on - as long as you are doing what she wants."
-    },
-    {
-        "fileName": "BeccaCry.png",
-        "name": "Cry",
-        "alt": "Becca crying, tears streaming down her face.",
-        "description": "It takes a lot to make her cry. She's not one to show vulnerability."
-    },
-    {
-        "fileName": "BeccaDrunk.png",
-        "name": "Drunk",
-        "alt": "Becca drinking from a large bottle of alcohol.",
-        "description": "She loves a good party. Good parties have booze."
-    },
-    {
-        "fileName": "BeccaFacepalm.png",
-        "name": "Facepalm",
-        "alt": "Becca with her hand on her face, frustrated.",
-        "description": "You probably did something silly again."
-    },
-    {
-        "fileName": "BeccaHeart.png",
-        "name": "Heart",
-        "alt": "Becca smiling, her hands in the shape of a heart.",
-        "description": "She really only does this with Rosalia. You are lucky to have seen it."
-    },
-    {
-        "fileName": "BeccaHello.png",
-        "name": "Hello",
-        "alt": "Becca waving and saying 'Hey!'",
-        "description": "There are a few people that Becca gets excited to see."
-    },
-    {
-        "fileName": "BeccaHuh.png",
-        "name": "Huh",
-        "alt": "Becca tilting her head, a confused expression on her face.",
-        "description": "Sometimes she just doesn't understand."
-    },
-    {
-        "fileName": "BeccaLaugh.png",
-        "name": "Laugh",
-        "alt": "Becca with her hand at her mouth, laughing wildly.",
-        "description": "But is she laughing with you? Or at you?"
-    },
-    {
-        "fileName": "BeccaNom.png",
-        "name": "Nom",
-        "alt": "Becca eating a cookie.",
-        "description": "She does love snack time."
-    },
-    {
-        "fileName": "BeccaNotes.png",
-        "name": "Notes",
-        "alt": "Becca taking notes on a pad of paper.",
-        "description": "She's always been very studious."
-    },
-    {
-        "fileName": "BeccaPeek.png",
-        "name": "Peek",
-        "alt": "Becca peeking around a corner.",
-        "description": "Is she shy? Or is she spying on you?"
-    },
-    {
-        "fileName": "BeccaPout.png",
-        "name": "Pout",
-        "alt": "Becca pouting and puffing out her cheeks.",
-        "description": "She's used to getting her way."
-    },
-    {
-        "fileName": "BeccaSalute.png",
-        "name": "Salute",
-        "alt": "Becca with her hand up to her forehead in a military salute.",
-        "description": "When the job calls for it, she can take orders."
-    },
-    {
-        "fileName": "BeccaScared.png",
-        "name": "Scared",
-        "alt": "Becca with her hands on her face, her eyes wide with fear.",
-        "description": "Whatever she saw is truly scary. Watch out."
-    },
-    {
-        "fileName": "BeccaShrug.png",
-        "name": "Shrug",
-        "alt": "Becca with her hands raised, shrugging her shoulders.",
-        "description": "She either doesn't know, or doesn't care."
-    },
-    {
-        "fileName": "BeccaSigh.png",
-        "name": "Sigh",
-        "alt": "Becca letting out an audible sigh.",
-        "description": "She's probably disappointed in you."
-    },
-    {
-        "fileName": "BeccaSing.png",
-        "name": "Sing",
-        "alt": "Becca holding a microphone, singing her heart out.",
-        "description": "She can actually carry a tune."
-    },
-    {
-        "fileName": "BeccaSip.png",
-        "name": "Sip",
-        "alt": "Becca taking a sip of coffee from a purple mug.",
-        "description": "She needs caffeine to start her day off right."
-    },
-    {
-        "fileName": "BeccaSmile.png",
-        "name": "Smile",
-        "alt": "Becca smiling happily.",
-        "description": "When she's in a good mood, she smiles a lot."
-    },
-    {
-        "fileName": "BeccaSmug.png",
-        "name": "Smug",
-        "alt": "Becca with her hand on her chin, smiling with a smug expression.",
-        "description": "Of course she's better than you. She's better than everyone."
-    },
-    {
-        "fileName": "BeccaSnug.png",
-        "name": "Snug",
-        "alt": "Becca wrapped in a pink blanket with hearts on it.",
-        "description": "When it's cold out, being all comfy under a blanket is the best."
-    },
-    {
-        "fileName": "BeccaSweat.png",
-        "name": "Sweat",
-        "alt": "Becca sweating nervously, with a timid smile.",
-        "description": "It's rare that she makes a mistake, but she still hates admitting it."
-    },
-    {
-        "fileName": "BeccaThink.png",
-        "name": "Think",
-        "alt": "Becca with a hand on her chin, deep in thought.",
-        "description": "Pondering the mysteries of the universe. Or what to have for dinner."
-    },
-    {
-        "fileName": "BeccaThis.png",
-        "name": "This",
-        "alt": "Becca pointing upwards, in agreement with a previous message.",
-        "description": "Wow, she actually agreed with you."
-    },
-    {
-        "fileName": "BeccaThumbsup.png",
-        "name": "Thumbs Up",
-        "alt": "Becca grinning and giving a thumbs up.",
-        "description": "You've successfully impressed her. Nice work!"
-    },
-    {
-        "fileName": "BeccaUWU.png",
-        "name": "UWU",
-        "alt": "Becca making an UwU face.",
-        "description": "OwO"
-    },
-    {
-        "fileName": "BeccaWink.png",
-        "name": "Wink",
-        "alt": "Becca winking with her tongue stuck out.",
-        "description": "She's always been flirty. Don't read too much into it."
-    },
-    {
-        "fileName": "BeccaWoah.png",
-        "name": "Woah",
-        "alt": "Becca with her hands on her chin, her eyes wide open in surprise.",
-        "description": "She is both surprised and impressed."
-    },
-    {
-        "fileName": "BeccaWork.png",
-        "name": "Work",
-        "alt": "Becca sitting and typing on a computer, her tongue out in concentration.",
-        "description": "Good luck pulling her away from whatever she is doing."
-    },
-    {
-        "fileName": "BeccaYawn.png",
-        "name": "Yawn",
-        "alt": "Becca yawning.",
-        "description": "She probably stayed up too late last night."
-    },
-    {
-        "fileName": "BeccaYESSS.png",
-        "name": "YESSS",
-        "alt": "Becca with glowingeyes, her skin red with excitement.",
-        "description": "Whatever idea she has, there's no stopping her now."
-    },
-    {
-        "fileName": "BeccaYikes.png",
-        "name": "Yikes",
-        "alt": "Becca with a disgusted look on her face.",
-        "description": "She didn't like that. Not one bit."
-    }
+  {
+    "fileName": "BeccaAngry.png",
+    "name": "Angry",
+    "alt": "Becca with a fist raised, her face red from anger",
+    "description": "It does not take much to outrage Becca."
+  },
+  {
+    "fileName": "BeccaArt.png",
+    "name": "Art",
+    "alt": "Becca with a beret on her head, paintbrushes and paint pallet in hand",
+    "description": "She does have an artistic side."
+  },
+  {
+    "fileName": "BeccaBan.png",
+    "name": "Ban",
+    "alt": "Becca with devil horns and red eyes, holding a massive wooden mallet.",
+    "description": "Play by her rules or get bonked."
+  },
+  {
+    "fileName": "BeccaBlush.png",
+    "name": "Blush",
+    "alt": "Becca blushing from embarrassment, her mouth open in surprise.",
+    "description": "What did you say to finally get her to blush?"
+  },
+  {
+    "fileName": "BeccaCheer.png",
+    "name": "Cheer",
+    "alt": "Becca smiling, a pompom in each hand.",
+    "description": "She'll cheer you on - as long as you are doing what she wants."
+  },
+  {
+    "fileName": "BeccaCry.png",
+    "name": "Cry",
+    "alt": "Becca crying, tears streaming down her face.",
+    "description": "It takes a lot to make her cry. She's not one to show vulnerability."
+  },
+  {
+    "fileName": "BeccaDrunk.png",
+    "name": "Drunk",
+    "alt": "Becca drinking from a large bottle of alcohol.",
+    "description": "She loves a good party. Good parties have booze."
+  },
+  {
+    "fileName": "BeccaFacepalm.png",
+    "name": "Facepalm",
+    "alt": "Becca with her hand on her face, frustrated.",
+    "description": "You probably did something silly again."
+  },
+  {
+    "fileName": "BeccaHeart.png",
+    "name": "Heart",
+    "alt": "Becca smiling, her hands in the shape of a heart.",
+    "description": "She really only does this with Rosalia. You are lucky to have seen it."
+  },
+  {
+    "fileName": "BeccaHello.png",
+    "name": "Hello",
+    "alt": "Becca waving and saying 'Hey!'",
+    "description": "There are a few people that Becca gets excited to see."
+  },
+  {
+    "fileName": "BeccaHuh.png",
+    "name": "Huh",
+    "alt": "Becca tilting her head, a confused expression on her face.",
+    "description": "Sometimes she just doesn't understand."
+  },
+  {
+    "fileName": "BeccaLaugh.png",
+    "name": "Laugh",
+    "alt": "Becca with her hand at her mouth, laughing wildly.",
+    "description": "But is she laughing with you? Or at you?"
+  },
+  {
+    "fileName": "BeccaNom.png",
+    "name": "Nom",
+    "alt": "Becca eating a cookie.",
+    "description": "She does love snack time."
+  },
+  {
+    "fileName": "BeccaNotes.png",
+    "name": "Notes",
+    "alt": "Becca taking notes on a pad of paper.",
+    "description": "She's always been very studious."
+  },
+  {
+    "fileName": "BeccaPeek.png",
+    "name": "Peek",
+    "alt": "Becca peeking around a corner.",
+    "description": "Is she shy? Or is she spying on you?"
+  },
+  {
+    "fileName": "BeccaPout.png",
+    "name": "Pout",
+    "alt": "Becca pouting and puffing out her cheeks.",
+    "description": "She's used to getting her way."
+  },
+  {
+    "fileName": "BeccaSalute.png",
+    "name": "Salute",
+    "alt": "Becca with her hand up to her forehead in a military salute.",
+    "description": "When the job calls for it, she can take orders."
+  },
+  {
+    "fileName": "BeccaScared.png",
+    "name": "Scared",
+    "alt": "Becca with her hands on her face, her eyes wide with fear.",
+    "description": "Whatever she saw is truly scary. Watch out."
+  },
+  {
+    "fileName": "BeccaShrug.png",
+    "name": "Shrug",
+    "alt": "Becca with her hands raised, shrugging her shoulders.",
+    "description": "She either doesn't know, or doesn't care."
+  },
+  {
+    "fileName": "BeccaSigh.png",
+    "name": "Sigh",
+    "alt": "Becca letting out an audible sigh.",
+    "description": "She's probably disappointed in you."
+  },
+  {
+    "fileName": "BeccaSing.png",
+    "name": "Sing",
+    "alt": "Becca holding a microphone, singing her heart out.",
+    "description": "She can actually carry a tune."
+  },
+  {
+    "fileName": "BeccaSip.png",
+    "name": "Sip",
+    "alt": "Becca taking a sip of coffee from a purple mug.",
+    "description": "She needs caffeine to start her day off right."
+  },
+  {
+    "fileName": "BeccaSmile.png",
+    "name": "Smile",
+    "alt": "Becca smiling happily.",
+    "description": "When she's in a good mood, she smiles a lot."
+  },
+  {
+    "fileName": "BeccaSmug.png",
+    "name": "Smug",
+    "alt": "Becca with her hand on her chin, smiling with a smug expression.",
+    "description": "Of course she's better than you. She's better than everyone."
+  },
+  {
+    "fileName": "BeccaSnug.png",
+    "name": "Snug",
+    "alt": "Becca wrapped in a pink blanket with hearts on it.",
+    "description": "When it's cold out, being all comfy under a blanket is the best."
+  },
+  {
+    "fileName": "BeccaSweat.png",
+    "name": "Sweat",
+    "alt": "Becca sweating nervously, with a timid smile.",
+    "description": "It's rare that she makes a mistake, but she still hates admitting it."
+  },
+  {
+    "fileName": "BeccaThink.png",
+    "name": "Think",
+    "alt": "Becca with a hand on her chin, deep in thought.",
+    "description": "Pondering the mysteries of the universe. Or what to have for dinner."
+  },
+  {
+    "fileName": "BeccaThis.png",
+    "name": "This",
+    "alt": "Becca pointing upwards, in agreement with a previous message.",
+    "description": "Wow, she actually agreed with you."
+  },
+  {
+    "fileName": "BeccaThumbsup.png",
+    "name": "Thumbs Up",
+    "alt": "Becca grinning and giving a thumbs up.",
+    "description": "You've successfully impressed her. Nice work!"
+  },
+  {
+    "fileName": "BeccaUWU.png",
+    "name": "UWU",
+    "alt": "Becca making an UwU face.",
+    "description": "OwO"
+  },
+  {
+    "fileName": "BeccaWink.png",
+    "name": "Wink",
+    "alt": "Becca winking with her tongue stuck out.",
+    "description": "She's always been flirty. Don't read too much into it."
+  },
+  {
+    "fileName": "BeccaWoah.png",
+    "name": "Woah",
+    "alt": "Becca with her hands on her chin, her eyes wide open in surprise.",
+    "description": "She is both surprised and impressed."
+  },
+  {
+    "fileName": "BeccaWork.png",
+    "name": "Work",
+    "alt": "Becca sitting and typing on a computer, her tongue out in concentration.",
+    "description": "Good luck pulling her away from whatever she is doing."
+  },
+  {
+    "fileName": "BeccaYawn.png",
+    "name": "Yawn",
+    "alt": "Becca yawning.",
+    "description": "She probably stayed up too late last night."
+  },
+  {
+    "fileName": "BeccaYESSS.png",
+    "name": "YESSS",
+    "alt": "Becca with glowingeyes, her skin red with excitement.",
+    "description": "Whatever idea she has, there's no stopping her now."
+  },
+  {
+    "fileName": "BeccaYikes.png",
+    "name": "Yikes",
+    "alt": "Becca with a disgusted look on her face.",
+    "description": "She didn't like that. Not one bit."
+  }
 ]
