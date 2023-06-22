@@ -1,68 +1,68 @@
 [
-    {
-        "fileName": "beach.png",
-        "name": "Beach Trip",
-        "alt": "Becca in a purple bikini and Rosalia in a white one-piece, at the beach.",
-        "description": "A nice day at the beach, watching the sunset together."
-    },
-    {
-        "fileName": "bed.png",
-        "name": "Time for a Rest",
-        "alt": "Becca in a purple cropped tank and sheer purple skirt, Rosalia in a sheer white nightgown, sitting on their bed together.",
-        "description": "After a long day of adventuring, they like to decompress and chat about their day before sleep."
-    },
-    {
-        "fileName": "clash.png",
-        "name": "Clash of Legends",
-        "alt": "Rosalia and Becca charging at each other, powerful auras surrounding them. Rosalia is wielding her greatsword, and Becca her staff.",
-        "description": "To keep their skills sharp and their senses heightened, Becca and Rosalia often spar with each other."
-    },
-    {
-        "fileName": "couch.png",
-        "name": "Posing on the Couch",
-        "alt": "Becca and Rosalia in shorts and tank tops, laying on the couch with their heads in the middle, stretching a leg up to strike a pose.",
-        "description": "A local photographer had suggested this pose. Becca was hesitant, but Rosalia was eager to help, so they went through with it."
-    },
-    {
-        "fileName": "date.png",
-        "name": "A Cute Date",
-        "alt": "Becca wearing a purple open top and miniskirt, and Rosalia wearing a white open top and long skirt. They are sitting at an outdoor table enjoying a nice date.",
-        "description": "Despite being busy adventurers, Rosalia and Becca always make time for each other."
-    },
-    {
-        "fileName": "gaming.png",
-        "name": "Gaming Together",
-        "alt": "The girls laying on the floor together, Rosalia playing a game on her phone while Becca provides advice.",
-        "description": "Even when they're relaxing together, Becca can't help but give Rosalia tactical advice."
-    },
-    {
-        "fileName": "heart.png",
-        "name": "True Love",
-        "alt": "Rosalia and Becca standing side by side, using their hands to make a heart together.",
-        "description": "As much as they love each other, they also love those who support them."
-    },
-    {
-        "fileName": "reading.png",
-        "name": "Endless Studying",
-        "alt": "Rosalia walking by as Becca sits at the table, lost in a book.",
-        "description": "There are days where Rosalia can't get Becca to put the book down long enough to do anything else."
-    },
-    {
-        "fileName": "swim.png",
-        "name": "Going for a Dip",
-        "alt": "Becca and Rosalia in their swimsuits, standing in the ocean, the water coming just below their hips.",
-        "description": "What's a day at the beach if you don't have a little fun in the water?"
-    },
-    {
-        "fileName": "treasure.png",
-        "name": "The Real Treasure",
-        "alt": "Rosalia and Becca sitting in a treasure chest.",
-        "description": "That's... not how you're supposed to use a treasure chest."
-    },
-    {
-        "fileName": "battle.png",
-        "name": "Ready for Battle",
-        "alt": "Becca and Rosalia standing ready for battle. Rosalia has her greatsword in hand, and Becca has a spell tome open.",
-        "description": "Standing side by side, the two of them are a force to be reckoned with on the battelfield."
-    }
+  {
+    "fileName": "beach.png",
+    "name": "Beach Trip",
+    "alt": "Becca in a purple bikini and Rosalia in a white one-piece, at the beach.",
+    "description": "A nice day at the beach, watching the sunset together."
+  },
+  {
+    "fileName": "bed.png",
+    "name": "Time for a Rest",
+    "alt": "Becca in a purple cropped tank and sheer purple skirt, Rosalia in a sheer white nightgown, sitting on their bed together.",
+    "description": "After a long day of adventuring, they like to decompress and chat about their day before sleep."
+  },
+  {
+    "fileName": "clash.png",
+    "name": "Clash of Legends",
+    "alt": "Rosalia and Becca charging at each other, powerful auras surrounding them. Rosalia is wielding her greatsword, and Becca her staff.",
+    "description": "To keep their skills sharp and their senses heightened, Becca and Rosalia often spar with each other."
+  },
+  {
+    "fileName": "couch.png",
+    "name": "Posing on the Couch",
+    "alt": "Becca and Rosalia in shorts and tank tops, laying on the couch with their heads in the middle, stretching a leg up to strike a pose.",
+    "description": "A local photographer had suggested this pose. Becca was hesitant, but Rosalia was eager to help, so they went through with it."
+  },
+  {
+    "fileName": "date.png",
+    "name": "A Cute Date",
+    "alt": "Becca wearing a purple open top and miniskirt, and Rosalia wearing a white open top and long skirt. They are sitting at an outdoor table enjoying a nice date.",
+    "description": "Despite being busy adventurers, Rosalia and Becca always make time for each other."
+  },
+  {
+    "fileName": "gaming.png",
+    "name": "Gaming Together",
+    "alt": "The girls laying on the floor together, Rosalia playing a game on her phone while Becca provides advice.",
+    "description": "Even when they're relaxing together, Becca can't help but give Rosalia tactical advice."
+  },
+  {
+    "fileName": "heart.png",
+    "name": "True Love",
+    "alt": "Rosalia and Becca standing side by side, using their hands to make a heart together.",
+    "description": "As much as they love each other, they also love those who support them."
+  },
+  {
+    "fileName": "reading.png",
+    "name": "Endless Studying",
+    "alt": "Rosalia walking by as Becca sits at the table, lost in a book.",
+    "description": "There are days where Rosalia can't get Becca to put the book down long enough to do anything else."
+  },
+  {
+    "fileName": "swim.png",
+    "name": "Going for a Dip",
+    "alt": "Becca and Rosalia in their swimsuits, standing in the ocean, the water coming just below their hips.",
+    "description": "What's a day at the beach if you don't have a little fun in the water?"
+  },
+  {
+    "fileName": "treasure.png",
+    "name": "The Real Treasure",
+    "alt": "Rosalia and Becca sitting in a treasure chest.",
+    "description": "That's... not how you're supposed to use a treasure chest."
+  },
+  {
+    "fileName": "battle.png",
+    "name": "Ready for Battle",
+    "alt": "Becca and Rosalia standing ready for battle. Rosalia has her greatsword in hand, and Becca has a spell tome open.",
+    "description": "Standing side by side, the two of them are a force to be reckoned with on the battelfield."
+  }
 ]

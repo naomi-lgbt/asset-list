@@ -1,32 +1,32 @@
 [
-    {
-        "fileName": "cheer.png",
-        "name": "Cheerleader",
-        "alt": "Becca wearing a purple croptop, purple shorts, and purple footless stockings. Holding a pompom in each hand.",
-        "description": "She does her best to cheer Rosalia on."
-    },
-    {
-        "fileName": "magic.png",
-        "name": "Magic Circle",
-        "alt": "Becca sitting on her bed, admiring the magic circle she drew on the floor.",
-        "description": "Even when she is supposed to be resting, Becca cannot resist the call of magic."
-    },
-    {
-        "fileName": "reading.png",
-        "name": "A Good Book",
-        "alt": "Becca laying on her stomach in bed, a book in her hand.",
-        "description": "Becca often reads herself to sleep."
-    },
-    {
-        "fileName": "work.png",
-        "name": "Hard at Work",
-        "alt": "Becca in a casual croptop, sheer skirt, and purple stockings, sitting at her desk with a computer in front of her and pocky in her mouth.",
-        "description": "Almost always hard at work, Becca rarely takes a moment to catch her breath."
-    },
-    {
-        "fileName": "spellbook.png",
-        "name": "Casting a Spell",
-        "alt": "Becca holding her spellbook, pages flying around her as she casts a spell.",
-        "description": "The spellbook is not necessary, but makes for a good show."
-    }
+  {
+    "fileName": "cheer.png",
+    "name": "Cheerleader",
+    "alt": "Becca wearing a purple croptop, purple shorts, and purple footless stockings. Holding a pompom in each hand.",
+    "description": "She does her best to cheer Rosalia on."
+  },
+  {
+    "fileName": "magic.png",
+    "name": "Magic Circle",
+    "alt": "Becca sitting on her bed, admiring the magic circle she drew on the floor.",
+    "description": "Even when she is supposed to be resting, Becca cannot resist the call of magic."
+  },
+  {
+    "fileName": "reading.png",
+    "name": "A Good Book",
+    "alt": "Becca laying on her stomach in bed, a book in her hand.",
+    "description": "Becca often reads herself to sleep."
+  },
+  {
+    "fileName": "work.png",
+    "name": "Hard at Work",
+    "alt": "Becca in a casual croptop, sheer skirt, and purple stockings, sitting at her desk with a computer in front of her and pocky in her mouth.",
+    "description": "Almost always hard at work, Becca rarely takes a moment to catch her breath."
+  },
+  {
+    "fileName": "spellbook.png",
+    "name": "Casting a Spell",
+    "alt": "Becca holding her spellbook, pages flying around her as she casts a spell.",
+    "description": "The spellbook is not necessary, but makes for a good show."
+  }
 ]
