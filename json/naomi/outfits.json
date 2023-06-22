@@ -2456,5 +2456,14 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/4830433"
     }
+  },
+  {
+    "name": "Cleric Robes",
+    "fileName": "cleric.png",
+    "description": "Religion isn't her strong suit, but she can still use some holy powers.",
+    "alt": "Naomi wearing a cleric outfit.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4871618"
+    }
   }
 ]
