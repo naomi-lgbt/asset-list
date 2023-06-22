@@ -5,7 +5,7 @@
   "main": "null",
   "scripts": {
     "build": "tsc",
-    "lint": "eslint test --max-warnings 0",
+    "lint": "eslint src test --max-warnings 0 && prettier src test --check",
     "test": "ts-mocha -u tdd test/**/*.spec.ts --recursive --timeout 10000",
     "count": "node prod/counts.js"
   },
