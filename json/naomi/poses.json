@@ -1264,5 +1264,17 @@
         "name": "Clockwork Tower",
         "alt": "Naomi sitting on the platform of a tower, gears rotating behind her.",
         "description": "Much like life, the gears stop for no one."
+    },
+    {
+        "fileName": "god.png",
+        "name": "Leave it to God?",
+        "alt": "Naomi holding a gun, the text 'We can't expect God to do all the work.' behind her.",
+        "description": "Forget that. Naomi prefers to handle her own problems."
+    },
+    {
+        "fileName": "bad.png",
+        "name": "Bad Decisions",
+        "alt": "Naomi with a wry smile, the text 'Today I am going to make BAD choices' behind her.",
+        "description": "So... basically another regular day, then."
     }
 ]

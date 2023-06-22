@@ -2410,5 +2410,33 @@
         "credits": {
             "outfit": "https://booth.pm/en/items/4836998"
         }
+    },
+    {
+        "name": "Pride Demon",
+        "fileName": "pride-demon.png",
+        "description": "The true meaning of pride month?",
+        "alt": "Naomi wearing a black shirt that shows 'Pride Month' transitioning to 'Demon', and a black miniskirt with a trans-flag stripe.",
+        "credits": {
+            "top": "https://booth.pm/en/items/4844514",
+            "skirt": "https://booth.pm/en/items/4849332"
+        }
+    },
+    {
+        "name": "Baroque Gown",
+        "fileName": "baroque.png",
+        "description": "For those old fashioned parties.",
+        "alt": "Naomi wearing a pink baroque era dress with an excessively large skirt.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4858222"
+        }
+    },
+    {
+        "name": "Silver Swimsuit",
+        "fileName": "silver.png",
+        "description": "It's nice and shiny.",
+        "alt": "Naomi wearing a reflective silver one-piece swimsuit with a snowflake pattern.",
+        "credits": {
+            "outfit": "https://booth.pm/en/items/4854974"
+        }
     }
 ]
