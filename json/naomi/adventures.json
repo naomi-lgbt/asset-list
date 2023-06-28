@@ -274,5 +274,11 @@
     "game": "Solasta: Crown of the Magister",
     "alt": "Naomi wearing a black wizard robe and a gold crown.",
     "description": "The crown seems to hold some sort of power, but Naomi can't tell if it's cursed or not."
+  },
+  {
+    "fileName": "neverwinter-nights-2.jpg",
+    "game": "Neverwinter Nights 2",
+    "alt": "Naomi wearing a set of scale mail and holding a longsword.",
+    "description": "She has yet to progress through this adventure."
   }
 ]
