@@ -2465,5 +2465,23 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/4871618"
     }
+  },
+  {
+    "name": "Denim Jinbei",
+    "fileName": "jinbei.png",
+    "description": "A casual outfit for a casual day.",
+    "alt": "Naomi wearing a denim jinbei.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4903217"
+    }
+  },
+  {
+    "name": "Baggy Loungewear",
+    "fileName": "baggy.png",
+    "description": "Comfy enough to wear around the house, but nice enough to wear out and about.",
+    "alt": "Naomi wearing a baggy grey shirt and white slacks.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4905812"
+    }
   }
 ]
