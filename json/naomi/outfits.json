@@ -2483,5 +2483,43 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/4905812"
     }
+  },
+  {
+    "name": "Barcode Outfit",
+    "fileName": "barcode.png",
+    "description": "The stripes remind her of the barcodes she used to scan back in her retail days.",
+    "alt": "Naomi wearing a black sleeveless crop top and black shorts, both with white stripy accents.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4880364",
+      "shorts": "https://booth.pm/en/items/4917700"
+    }
+  },
+  {
+    "name": "Blue Rose Dress",
+    "fileName": "bluerose.png",
+    "description": "The frilly roses are fun to play with when she's distracted.",
+    "alt": "Naomi wearing a white dress with a blue hem, and a couple of frills leading to roses.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4918486"
+    }
+  },
+  {
+    "name": "Sports Wear",
+    "fileName": "sportwear.png",
+    "description": "ideal for a day at the gym or playing something like tennis.",
+    "alt": "Naomi wearing a tight white tank top and close-fitted black shorts.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4919707"
+    }
+  },
+  {
+    "name": "Warm Weather Outfit",
+    "fileName": "warm.png",
+    "description": "Sitting at home trying to stay cool, Naomi isn't likely to go out in this outfit.",
+    "alt": "Naomi wearing a tight white corset top and blue denim mini-shorts.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4921080",
+      "shorts": "https://booth.pm/en/items/4921051"
+    }
   }
 ]

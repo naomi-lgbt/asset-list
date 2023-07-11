@@ -7,7 +7,8 @@
     "build": "tsc",
     "lint": "eslint src test --max-warnings 0 && prettier src test json --check",
     "test": "ts-mocha -u tdd test/**/*.spec.ts --recursive --timeout 10000",
-    "count": "node prod/counts.js"
+    "count": "node prod/counts.js",
+    "list-different": "node prod/listDifferent.js"
   },
   "keywords": [
     "assets",
