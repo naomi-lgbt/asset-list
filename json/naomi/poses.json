@@ -1276,5 +1276,17 @@
     "name": "Bad Decisions",
     "alt": "Naomi with a wry smile, the text 'Today I am going to make BAD choices' behind her.",
     "description": "So... basically another regular day, then."
+  },
+  {
+    "fileName": "snow.png",
+    "name": "Playing in the Snow",
+    "alt": "Naomi outside, leaning against the wall of a cabin in the snowy woods.",
+    "description": "Catching her breath after a fun snowball fight."
+  },
+  {
+    "fileName": "peek-2.png",
+    "name": "Peeking Around a Pole",
+    "alt": "Naomi on the sidewalk, peeking out from behind a telephone pole.",
+    "description": "She saw someone across the street and got shy."
   }
 ]

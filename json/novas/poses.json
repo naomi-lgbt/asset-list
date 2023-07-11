@@ -178,5 +178,17 @@
     "name": "Jealousy",
     "alt": "Rosalia giving Becca a kiss on the train, Naomi sitting nearby sulking jealously.",
     "description": "Naomi feels like the third wheel sometimes."
+  },
+  {
+    "fileName": "hotspring.png",
+    "name": "Bath Time",
+    "alt": "Naomi and Becca sitting on the edge of an oriental bath, Rosalia sitting in the bath.",
+    "description": "Soaking after a long adventure helps ease the tension."
+  },
+  {
+    "fileName": "magic.png",
+    "name": "Magic Spell",
+    "alt": "Naomi casting a magic spell, Becca and Rosalia cheering her on from behind.",
+    "description": "Even Naomi has a few tricks up her sleeve."
   }
 ]
