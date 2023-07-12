@@ -2510,5 +2510,128 @@
       "top": "https://booth.pm/en/items/4921080",
       "shorts": "https://booth.pm/en/items/4921051"
     }
+  },
+  {
+    "name": "Floral Pencil Skirt",
+    "fileName": "pencil.png",
+    "description": "Formal and fun, all in one!",
+    "alt": "Naomi wearing a checkered crop-top sweater and a high waisted pencil skirt with a floral pattern.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4406235",
+      "skirt": "https://booth.pm/en/items/3278406"
+    }
+  },
+  {
+    "name": "Hot Spring Robe",
+    "fileName": "bathrobe.png",
+    "description": "What she wears after getting out of a nice relaxing soak in the hot spring.",
+    "alt": "Naomi wearing a purple bikini, and a purple oversized bath robe.",
+    "credits": {
+      "robe": "https://booth.pm/en/items/3973871",
+      "bikini": "https://booth.pm/en/items/2087722"
+    }
+  },
+  {
+    "name": "Belted Swimsuit",
+    "fileName": "belted.png",
+    "description": "A little more modest than some of her other swimwear.",
+    "alt": "Naomi wearing a black one piece with a belted pattern along the waist.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3118134"
+    }
+  },
+  {
+    "name": "Cross Top",
+    "fileName": "crosstop.png",
+    "description": "The criss-cross weave of the fabric caught her eye.",
+    "alt": "Naomi wearing a black crop top where the fabric appears to be interwoven, and black denim shorts.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4922448",
+      "shorts": "https://booth.pm/en/items/4911914"
+    }
+  },
+  {
+    "name": "Sarashi with Hoodie",
+    "fileName": "sarashi.png",
+    "description": "For the day she ever actually learns martial arts.",
+    "alt": "Naomi wearing a purple hoodie over a chest bandage and purple pants.",
+    "credits": {
+      "hoodie": "https://booth.pm/en/items/4924405",
+      "top": "https://booth.pm/en/items/4816099",
+      "pants": "https://booth.pm/en/items/3893061"
+    }
+  },
+  {
+    "name": "Rags",
+    "fileName": "rags.png",
+    "description": "As if she just started a new save in Skyrim.",
+    "alt": "Naomi wearing brown tattered ragged dress.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3940796"
+    }
+  },
+  {
+    "name": "Monochrome Skirt",
+    "fileName": "monochrome.png",
+    "description": "The black and white stripes are flattering.",
+    "alt": "Naomi wearing a black and white stripped dress.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4507033"
+    }
+  },
+  {
+    "name": "Tracksuit",
+    "fileName": "tracksuit.png",
+    "description": "One day she'll start going for a run.",
+    "alt": "Naomi wearing a black tracksuit with white sleeves and a blue stripe.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/2051553"
+    }
+  },
+  {
+    "name": "Shrine Gi",
+    "fileName": "shrine-gi.png",
+    "description": "It's like a cross between shrine maiden attire and fighting gi?",
+    "alt": "Naomi wearing a purple and white gi outfit with detatched sleeves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/2111363"
+    }
+  },
+  {
+    "name": "Corpse Bride Dress",
+    "fileName": "corpse.png",
+    "description": "I know that I am dead; yet it seems that I still have some tears to shed.",
+    "alt": "Naomi wearing Emily's dress from Corpse Bride.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/2134307"
+    }
+  },
+  {
+    "name": "Brocade Skirt",
+    "fileName": "brocade.png",
+    "description": "Strong renaissance vibes here.",
+    "alt": "Naomi wearing an open-sleeved top and a black brocade skirt.",
+    "credits": {
+      "top": "https://booth.pm/en/items/2292984",
+      "skirt": "https://booth.pm/en/items/2300838"
+    }
+  },
+  {
+    "name": "Gothic Frilled Dress",
+    "fileName": "goth.png",
+    "description": "Slightly more blue than purple, but she had to have it none-the-less.",
+    "alt": "Naomi wearing a gothic blue dress with frills and plaid hemming.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/2330448"
+    }
+  },
+  {
+    "name": "Forest Leaves",
+    "fileName": "forest.png",
+    "description": "Woven from a bunch of leaves, this brings her closer to nature.",
+    "alt": "Naomi wearing a short dress made of leaves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/2487997"
+    }
   }
 ]
