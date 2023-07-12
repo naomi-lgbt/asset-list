@@ -15,7 +15,7 @@
     "description": "Naomi is ready to learn the sword.",
     "alt": "Naomi wearing a white kimono top with a blue hakama.",
     "credits": {
-      "outfit": "https://mohsu.booth.pm/items/4359515"
+      "outfit": "https://booth.pm/en/items/4359515"
     }
   },
   {
@@ -147,7 +147,7 @@
     "description": "Does this count as a 'Little Black Dress'?",
     "alt": "Naomi wearing a black skirt and a black stola-style top.",
     "credits": {
-      "outfit": "https://nims.booth.pm/items/4366367"
+      "outfit": "https://booth.pm/en/items/4366367"
     }
   },
   {
@@ -417,7 +417,7 @@
     "description": "Naomi feels like a punk rebel wearing this.",
     "alt": "Naomi wearing a black crop top with lace and a long trench-style back.",
     "credits": {
-      "outfit": "https://takitoshop.booth.pm/items/4358817"
+      "outfit": "https://booth.pm/en/items/4358817"
     }
   },
   {
@@ -463,7 +463,7 @@
     "description": "It's like a regular maid, but glowy!",
     "alt": "Naomi wearing a black french-maid outfit with glowing purple accents.",
     "credits": {
-      "outfit": "https://fox-corp.booth.pm/items/4368549"
+      "outfit": "https:/booth.pm/en/items/4368549"
     }
   },
   {
@@ -774,7 +774,7 @@
     "description": "Maybe a bit more revealing than intended...",
     "alt": "Naomi wearing a black corset and miniskirt.",
     "credits": {
-      "outfit": "https://trinochi.booth.pm/items/4404247"
+      "outfit": "https://booth.pm/en/items/4404247"
     }
   },
   {
@@ -800,9 +800,7 @@
     "fileName": "gothic-2.png",
     "description": "Who doesn't love extra lace?",
     "alt": "Naomi wearing a dark blue strapless dress with a red ruffle skirt, lace sleeves, and lace stockings.",
-    "credits": {
-      "outfit": "https://booth.pm/en/items/4209482"
-    }
+    "credits": {}
   },
   {
     "name": "Gothic Outfit",
@@ -1123,7 +1121,7 @@
     "description": "Naomi fell in love with the accenting.",
     "alt": "Naomi wearing a maroon dress with gold accents.",
     "credits": {
-      "outfit": "https://6666669.booth.pm/items/4369503"
+      "outfit": "https://booth.pm/en/items/4369503"
     }
   },
   {
@@ -1415,7 +1413,7 @@
     "description": "Naomi was never that kind of girl, but she looks cute in the outfit!",
     "alt": "Naomi wearing a white cropped tank top with a boob window, and a purple pleated miniskirt.",
     "credits": {
-      "outfit": "https://valkress.booth.pm/items/4348284"
+      "outfit": "https://booth.pm/en/items/4348284"
     }
   },
   {
@@ -1736,7 +1734,7 @@
     "description": "Naomi likes the stars.",
     "alt": "Naomi wearing a black dress with a star pattern.",
     "credits": {
-      "outfit": "https://roboticmachine.booth.pm/items/4404901"
+      "outfit": "https://booth.pm/en/items/4404901"
     }
   },
   {
@@ -1843,15 +1841,6 @@
     "credits": {}
   },
   {
-    "name": "Streetwear",
-    "fileName": "street.png",
-    "description": "Perfect when she wants to seem intimidating.",
-    "alt": "Naomi wearing a white croptop, and a black bolero jacket and skirt, with pink highlights.",
-    "credits": {
-      "outfit": "https://booth.pm/en/items/4496307"
-    }
-  },
-  {
     "name": "Striped Pyjamas",
     "fileName": "striped.png",
     "description": "Nice and light for those warm summer nights.",
@@ -1882,7 +1871,7 @@
     "description": "Perfect for those hot summer days.",
     "alt": "Naomi wearing a white crop top and denim booty shorts.",
     "credits": {
-      "outfit": "https://meib.booth.pm/items/4366834"
+      "outfit": "https://booth.pm/en/items/4366834"
     }
   },
   {
@@ -1923,8 +1912,8 @@
     "description": "A nice and warm outfit for the winter.",
     "alt": "Naomi wearing a red sweater dress with pink glitter leggings.",
     "credits": {
-      "sweater": "https://ysss.booth.pm/items/4354218",
-      "leggings": "https://mahoulotl.booth.pm/items/2851404"
+      "sweater": "https://booth.pm/en/items/4354218",
+      "leggings": "https://booth.pm/en/items/2851404"
     }
   },
   {
@@ -2119,7 +2108,7 @@
     "description": "Hopefully those sword lessons paid off.",
     "alt": "Naomi wearing a bit of plate armour with a partial chain bodysuit.",
     "credits": {
-      "outfit": "https://meib.booth.pm/items/4366914"
+      "outfit": "https://booth.pm/en/items/4366914"
     }
   },
   {
