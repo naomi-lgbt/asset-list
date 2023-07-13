@@ -2633,5 +2633,23 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/2487997"
     }
+  },
+  {
+    "name": "Water Fairy",
+    "fileName": "water-fairy.png",
+    "description": "",
+    "alt": "Naomi wearing a blue skirt with a flower sash, and a blue crop-top with a bow.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4926671"
+    }
+  },
+  {
+    "name": "SpiderGwen",
+    "fileName": "spidergwen.png",
+    "description": "As Spider-Woman I've traveled the Multiverse.",
+    "alt": "Naomi wearing a SpiderGwen cosplay.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4925063"
+    }
   }
 ]
