@@ -1288,5 +1288,155 @@
     "name": "Peeking Around a Pole",
     "alt": "Naomi on the sidewalk, peeking out from behind a telephone pole.",
     "description": "She saw someone across the street and got shy."
+  },
+  {
+    "fileName": "bored.png",
+    "name": "Boredom",
+    "alt": "Naomi resting her head on the table, snacking on an orange while her phone and a book sit beside her.",
+    "description": "Another day where nothing seems to hold her attention."
+  },
+  {
+    "fileName": "cats.png",
+    "name": "So Many Cats",
+    "alt": "Naomi sitting on the ground, playing with a bunch of kittens.",
+    "description": "Meow meow meow. Cats are her favourite animal."
+  },
+  {
+    "fileName": "distracted.png",
+    "name": "Unfocused",
+    "alt": "Naomi laying on her bed, her computer in front of her, but she looks in another direction.",
+    "description": "Focusing can be a challenge sometimes."
+  },
+  {
+    "fileName": "fairy.png",
+    "name": "Fairy",
+    "alt": "Naomi with a set of fairy wings.",
+    "description": "Is she a good fey, or a mischievous one?"
+  },
+  {
+    "fileName": "impatient.png",
+    "name": "Impatience",
+    "alt": "Naomi staring blankly at her phone.",
+    "description": "Her Discord community isn't active enough this evening."
+  },
+  {
+    "fileName": "invitation.png",
+    "name": "Come With Me",
+    "alt": "Naomi extending her hand in an invitation to follow her.",
+    "description": "Will you follow her?"
+  },
+  {
+    "fileName": "mario.png",
+    "name": "It's a Me! Naomi!",
+    "alt": "Naomi jumping up toward a question block in a Super Mario styled world.",
+    "description": "She hopes it has a green mushroom..."
+  },
+  {
+    "fileName": "menacing.png",
+    "name": "Malicious Intent",
+    "alt": "Naomi glaring, holding up a knife.",
+    "description": "Hell hath no fury like a Naomi scorned."
+  },
+  {
+    "fileName": "mirror.png",
+    "name": "Getting Ready",
+    "alt": "Naomi standing in front of a mirror, checking out her outfit.",
+    "description": "Before heading out for the day, she does one last check to make sure she looks cute."
+  },
+  {
+    "fileName": "neko.png",
+    "name": "Neko Neko Nya",
+    "alt": "Naomi wearing a cat tail and ears.",
+    "description": "Everyone knew she was a cat girl this whole time."
+  },
+  {
+    "fileName": "night.png",
+    "name": "Pensive Night",
+    "alt": "Naomi sitting by the pond, staring up at the moon.",
+    "description": "When she can't sleep, she goes for a walk to clear her head."
+  },
+  {
+    "fileName": "parkour.png",
+    "name": "Parkour",
+    "alt": "Naomi vaulting over some metal railing.",
+    "description": "It's all about getting to the destination as efficiently as possible."
+  },
+  {
+    "fileName": "persona.png",
+    "name": "Persona",
+    "alt": "Naomi posing against a Persona 5 themed background.",
+    "description": "'The time has come. The time is finally at hand. I am the other you—dwelling in the realm of mankind's hearts'"
+  },
+  {
+    "fileName": "pool-3.png",
+    "name": "Finishing a Swim",
+    "alt": "Naomi climbing up the ladder out of a pool.",
+    "description": "Even after a swim she looks good."
+  },
+  {
+    "fileName": "pray.png",
+    "name": "Praying at the Shrine",
+    "alt": "Naomi praying at a traditional Japanese shrine.",
+    "description": "While not religious, she knows better than to disrespect the spirits."
+  },
+  {
+    "fileName": "reaper.png",
+    "name": "Reaper's Blade",
+    "alt": "Naomi leaping through the night sky, wielding a scythe.",
+    "description": "She comes to claim your immortal soul."
+  },
+  {
+    "fileName": "river-2.png",
+    "name": "Staying Dry",
+    "alt": "Naomi wading through a river, holding her dress up so it doesn't get wet.",
+    "description": "She wants to keep her dress dry, but there was nowhere to cross."
+  },
+  {
+    "fileName": "sad-2.png",
+    "name": "Lonely Evening",
+    "alt": "Naomi sitting on the floor by her bed, lost in thought.",
+    "description": "Some nights she feels all alone."
+  },
+  {
+    "fileName": "shy.png",
+    "name": "Nervous",
+    "alt": "Naomi standing next to a tree, looking shy.",
+    "description": "What did you say that got her all shy?"
+  },
+  {
+    "fileName": "skate.png",
+    "name": "Skating",
+    "alt": "Naomi flying through the air on a skateboard.",
+    "description": "As if she could ever actually pull this off."
+  },
+  {
+    "fileName": "sunny.png",
+    "name": "Blazing Sun",
+    "alt": "Naomi looking up, blocking the sun from her eyes with her hand.",
+    "description": "She forgot her sunglasses when she went to the park."
+  },
+  {
+    "fileName": "swing-2.png",
+    "name": "Playground Fun",
+    "alt": "Naomi standing on a swing at the playground.",
+    "description": "She was always told that she shouldn't stand on the swing, but now there is no one to stop her."
+  },
+  {
+    "fileName": "treasure.png",
+    "name": "Treasure?",
+    "alt": "Naomi sitting on a treasure chest, holding a sword.",
+    "description": "You came for the gold, but Naomi is the true treasure."
+  },
+  {
+    "fileName": "tree.png",
+    "name": "Tree Climbing",
+    "alt": "Naomi sitting on the branch of a tree.",
+    "description": "How did she even get up there?"
+  },
+  {
+    "fileName": "undertale.png",
+    "name": "Final Boss",
+    "alt": "Naomi appearing as the combatant in an Undertale-styled fight screen.",
+    "description": "'Despite everything, it's still you.'"
   }
 ]
