@@ -90,28 +90,10 @@
     "description": "She doesn't own a VR set, but has always wanted to try this game."
   },
   {
-    "fileName": "bed-10.png",
-    "name": "Flirty and Playful",
-    "alt": "Naomi on her hands and knees in bed, looking back over her shoulder with her tongue stuck out.",
-    "description": "She loves to tease people and flirt, even if nothing comes of it."
-  },
-  {
     "fileName": "bed-11.png",
     "name": "Feeling Lovey",
     "alt": "Naomi on her stomach in bed, surrounded by hearts.",
     "description": "She took this to use as her avatar for a while."
-  },
-  {
-    "fileName": "bed-12.png",
-    "name": "Pillow Talk",
-    "alt": "Naomi laying on her side in bed, resting her head on her hand",
-    "description": "Time to chat about your day before calling it a night."
-  },
-  {
-    "fileName": "bed-13.png",
-    "name": "Interrupted",
-    "alt": "Naomi caught by surprise while reading in bed.",
-    "description": "She just wanted to read for a bit. She was not planning on being interrupted."
   },
   {
     "fileName": "bed-14.png",
@@ -126,58 +108,10 @@
     "description": "She will talk with you until she passes out."
   },
   {
-    "fileName": "bed-2.png",
-    "name": "Trouble Sleeping",
-    "alt": "Naomi in her sheer nightgown, laying on her back in bed.",
-    "description": "Sometimes she has to lay there for a bit before she can drift off."
-  },
-  {
-    "fileName": "bed-3.png",
-    "name": "Sleepover",
-    "alt": "Naomi kneeling on the bed.",
-    "description": "Got any ideas for a fun sleepover game?"
-  },
-  {
-    "fileName": "bed-4.png",
-    "name": "Bedtime Cutie",
-    "alt": "Naomi on her stomach in bed, legs in the air.",
-    "description": "Even at bedtime, she feels cute sometimes."
-  },
-  {
-    "fileName": "bed-5.png",
-    "name": "Evening Stretch",
-    "alt": "Naomi yawning and stretching in bed.",
-    "description": "A good yawn and stretch before bed feels great."
-  },
-  {
-    "fileName": "bed-6.png",
-    "name": "Shy Sleeper",
-    "alt": "Naomi with a shy look, stretching her legs toward the screen.",
-    "description": "She gets shy when she is getting ready for bed."
-  },
-  {
-    "fileName": "bed-7.png",
-    "name": "Strike a Pose",
-    "alt": "Naomi striking a cute pose and smiling, sitting on her bed.",
-    "description": "She enjoys posing on the bed for a cute picture."
-  },
-  {
-    "fileName": "bed-8.png",
-    "name": "Covering Up",
-    "alt": "Naomi sitting on the bed, wrapping her arms around her chest.",
-    "description": "She needs to change into her nightgown, and doesn't want to be watched."
-  },
-  {
     "fileName": "bed-9.png",
     "name": "Laying Down",
     "alt": "Naomi in a sundress, laying on the bed.",
     "description": "She just wanted to lay down for a moment. It's been a busy day."
-  },
-  {
-    "fileName": "bed.png",
-    "name": "Caught Before Bed",
-    "alt": "Naomi on her hands and knees, getting ready for bed.",
-    "description": "You caught her just before she crawled into bed."
   },
   {
     "fileName": "blush.png",
@@ -372,12 +306,6 @@
     "description": "This is a bad idea, she probably won't win."
   },
   {
-    "fileName": "fireplace.png",
-    "name": "Night by the Fire",
-    "alt": "Naomi sitting in her nightgown in front of a fireplace.",
-    "description": "Nothing beats the fireplace on a cold winter night."
-  },
-  {
     "fileName": "flip.png",
     "name": "Backflip",
     "alt": "Naomi doing a backflip over a bar.",
@@ -385,7 +313,7 @@
   },
   {
     "fileName": "flirty.png",
-    "name": "Flirty Time",
+    "name": "Coy Smile",
     "alt": "Naomi laying on the floor by her bed, giving a flirty look.",
     "description": "There are times where she really can't help herself."
   },
@@ -400,12 +328,6 @@
     "name": "Sitting on the Floor",
     "alt": "Naomi sitting on the floor, eating a snack.",
     "description": "It can be nice to just sit down and relax."
-  },
-  {
-    "fileName": "floral.png",
-    "name": "Floral Spirits",
-    "alt": "Naomi sitting on her bed, surrounded by flowers and spirits.",
-    "description": "Called by her kindness, the spirits came to pay her a visit."
   },
   {
     "fileName": "forest.png",
@@ -510,12 +432,6 @@
     "description": "The love can overwhelm her sometimes, and she can barely contain it."
   },
   {
-    "fileName": "heart.png",
-    "name": "Reluctant Love",
-    "alt": "Naomi making a heart with her hands, a reluctant look on her face.",
-    "description": "It might not be what she wants to do, but she gives you her love."
-  },
-  {
     "fileName": "heartbreak.png",
     "name": "Broken Heart",
     "alt": "Naomi kneeling down with her head down, the text Heartbroken behind her.",
@@ -612,12 +528,6 @@
     "description": "She's normally a sword user, but has a couple of magical talents."
   },
   {
-    "fileName": "morning.png",
-    "name": "Good Morning",
-    "alt": "Naomi in bed, slowly waking up.",
-    "description": "Not at all a morning girl, Naomi is slow to wake up."
-  },
-  {
     "fileName": "motorcycle.png",
     "name": "Motorbike Ride",
     "alt": "Naomi riding a motorcycle, wielding a katana.",
@@ -640,18 +550,6 @@
     "name": "Headphones Sharing",
     "alt": "Naomi sharing her headphones with you.",
     "description": "She has a song she wants you to listen to."
-  },
-  {
-    "fileName": "nails.png",
-    "name": "Purple Nails",
-    "alt": "Naomi's pointed purple fingernails and toenails.",
-    "description": "Her nails are always done up."
-  },
-  {
-    "fileName": "nailtrim.png",
-    "name": "Self Care",
-    "alt": "Naomi sitting on the floor trimmming her toenails.",
-    "description": "A lot of work goes in to looking this good."
   },
   {
     "fileName": "nap-2.png",
@@ -706,24 +604,6 @@
     "name": "Snuggling a Pillow",
     "alt": "Naomi sitting on a blanket, snuggling a pillow.",
     "description": "She normally carries around a plushie, but a pillow works in a pinch."
-  },
-  {
-    "fileName": "pillow.png",
-    "name": "Rough Night",
-    "alt": "Naomi sitting on her bed hugging a pillow.",
-    "description": "Bad dreams make for very rough nights."
-  },
-  {
-    "fileName": "plushie-2.png",
-    "name": "Bunny Plushie",
-    "alt": "Naomi snuggling a bunny plushie.",
-    "description": "It's actually rare to see Naomi without one of her plushies in hand."
-  },
-  {
-    "fileName": "plushie.png",
-    "name": "Her Favourite Plushie",
-    "alt": "Naomi laying in bed snuggling a stuffed bunny.",
-    "description": "Everyone has a favourite plushie. Naomi's is actually a Miku plushie."
   },
   {
     "fileName": "point.png",
@@ -786,12 +666,6 @@
     "description": "Be careful not to get the pages wet!"
   },
   {
-    "fileName": "reading.png",
-    "name": "Reading in Bed",
-    "alt": "Naomi laying in bed reading a book.",
-    "description": "Reading before bed helps her unwind and prepare for sleep."
-  },
-  {
     "fileName": "relax.png",
     "name": "Time to Chill",
     "alt": "Naomi laying on her stomach, smiling.",
@@ -850,12 +724,6 @@
     "name": "I Fits, I Sits",
     "alt": "Naomi sitting in a box full of packing material.",
     "description": "She's like a cat, truly."
-  },
-  {
-    "fileName": "sitting.png",
-    "name": "Sitting Pretty",
-    "alt": "Naomi in her nightgown, sitting on a blanket.",
-    "description": "She's ready to sit and chat."
   },
   {
     "fileName": "skulls.png",
@@ -954,12 +822,6 @@
     "description": "Roses were a nice touch, and definitely helped motivate her to show up."
   },
   {
-    "fileName": "sunshine.png",
-    "name": "Basking in the Sun",
-    "alt": "Naomi laying on her bed, the sun shining on her.",
-    "description": "Sunlight makes her skin look radiant."
-  },
-  {
     "fileName": "surprised.png",
     "name": "Surprised",
     "alt": "Naomi giving a surprised look",
@@ -1020,12 +882,6 @@
     "description": "She can hold her breath for a remarkably long time."
   },
   {
-    "fileName": "valentine.png",
-    "name": "Valentines Day",
-    "alt": "Naomi sitting on the bed, surrounded by rose petals.",
-    "description": "She loves valentines day. It's a great excuse to be romantic."
-  },
-  {
     "fileName": "walk.png",
     "name": "Walk in the Park",
     "alt": "Naomi going for a stroll in the park.",
@@ -1038,22 +894,10 @@
     "description": "This isn't water... what is this??"
   },
   {
-    "fileName": "window-2.png",
-    "name": "Sunny Day",
-    "alt": "Naomi sitting on a bench by the window, enjoying the day.",
-    "description": "On days like this, Naomi sits as close to the window as possible if she can't be outside."
-  },
-  {
     "fileName": "window-3.png",
     "name": "Cabin Window",
     "alt": "Naomi sitting in the window of a log cabin.",
     "description": "Big windows like this are ideal, so she can throw them open and enjoy the fresh air."
-  },
-  {
-    "fileName": "window.png",
-    "name": "Enjoying the View",
-    "alt": "Naomi in her nightgown, sitting in the window sill.",
-    "description": "Is the view out the window? Or is the view Naomi?"
   },
   {
     "fileName": "wink.png",
@@ -1134,12 +978,6 @@
     "description": "She's got an idea. It's probably a bad idea. Whatever she offers, you don't want to get involved."
   },
   {
-    "fileName": "film.png",
-    "name": "Documentary",
-    "alt": "Naomi laying in bed, hugging a pillow, viewed from a currently recording camera.",
-    "description": "Asked to star in a documentary seemed like a good idea, but she really didn't want to get out of bed."
-  },
-  {
     "fileName": "fireworks.png",
     "name": "Firework Festival",
     "alt": "Naomi holding a caramel apple and cotton candy, fireworks exploding behind her.",
@@ -1180,12 +1018,6 @@
     "name": "Paladin's Judgement",
     "alt": "Naomi looking down at the screen, pointing a glowing blue blade at it.",
     "description": "Thou art weighed in the balances, and art found wanting."
-  },
-  {
-    "fileName": "swimming-2.png",
-    "name": "Swimming Laps",
-    "alt": "Naomi in the pool, floating at the edge, looking back over her shoulder.",
-    "description": "'You timed me this time, right? Right??'"
   },
   {
     "fileName": "television.png",

@@ -56,20 +56,14 @@
   {
     "fileName": "fell-seal.jpg",
     "game": "Fell Seal: Arbiter's Mark",
-    "alt": "Pixel-style Naomi wearing a purple trench coat, purple and white corset, and black shorts.",
-    "description": "She wasn't thrilled about having to wear the boots."
+    "alt": "Pixel-style Naomi wearing a purple and black leotard with devil wings.",
+    "description": "Awakening her dark powers on her quest for justice was a bit confusing."
   },
   {
     "fileName": "god-eater.jpg",
     "game": "God Eater: Resurrection",
     "alt": "Naomi wearing a white corset with a long hem, and white shorts.",
     "description": "Fighting the Aragami proved to be a solid challenge, if not a bit repetitive."
-  },
-  {
-    "fileName": "ricca.png",
-    "game": "Holy Knight Ricca",
-    "alt": "Naomi wearing a black sundress with purple bracelets and anklets.",
-    "description": "Becoming a magical girl was remarkably fun, though Naomi didn't enjoy transforming back."
   },
   {
     "fileName": "jump-force.jpg",
@@ -82,12 +76,6 @@
     "game": "Koikatsu Party",
     "alt": "Naomi wearing a black tank top with a cat shaped window and a black miniskirt.",
     "description": "She gets up to all sorts of things when she's not adventuring."
-  },
-  {
-    "fileName": "kung-fu.png",
-    "game": "Kung Fu Girl",
-    "alt": "Naomi wearing a black Asian-style dress, her hair down.",
-    "description": "Learning martial arts was fun, though she still prefers to hold a sword."
   },
   {
     "fileName": "mass-effect.bmp",
@@ -210,12 +198,6 @@
     "description": "Being called to a shooting tournament every so often is fun."
   },
   {
-    "fileName": "roldea.png",
-    "game": "Wings of Roldea",
-    "alt": "Naomi wearing a black half coat and black miniskirt, her hair in pigtails.",
-    "description": "Being chased out of her home town was not a good start to her day."
-  },
-  {
     "fileName": "wild-hearts.jpg",
     "game": "Wild Hearts",
     "alt": "Naomi wearing black leather armour and a gold tiara.",
@@ -238,12 +220,6 @@
     "game": "XCOM 2",
     "alt": "Naomi wearing a black tank top, black shorts, and a black skirt with purple runes on it, holding an assault rifle.",
     "description": "Fighting off an alien invasion... She liked that more than she thought she would."
-  },
-  {
-    "fileName": "ravens-quest.png",
-    "game": "Raven's Quest",
-    "alt": "Naomi wearing a black tanktop with a cat window and black tight shorts.",
-    "description": "Waking up in a strange land with no memory of who she is or how she got there..."
   },
   {
     "fileName": "fallout-4.jpg",
