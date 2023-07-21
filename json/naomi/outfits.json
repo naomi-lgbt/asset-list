@@ -30,7 +30,7 @@
   {
     "name": "Angel Dress",
     "fileName": "angel.png",
-    "description": "Not that she acts like an angel...",
+    "description": "She's pure and wholesome!",
     "alt": "Naomi wearing a white dress with a gold sash and gold ribbons on her arms and left leg.",
     "credits": {
       "outfit": "https://booth.pm/en/items/3984209"
@@ -69,15 +69,6 @@
     "credits": {
       "top": "https://booth.pm/en/items/3211418",
       "bottom": "https://booth.pm/en/items/4038936"
-    }
-  },
-  {
-    "name": "Arachnid Dress",
-    "fileName": "arachnid.png",
-    "description": "Woven from spider silk, this is the dress of the Spider Queen.",
-    "alt": "Naomi wearing a light pink dress that resembles spider webs.",
-    "credits": {
-      "outfit": "https://booth.pm/en/items/1288579"
     }
   },
   {
@@ -192,13 +183,6 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/1967976"
     }
-  },
-  {
-    "name": "Bunny Suit",
-    "fileName": "bunny.png",
-    "description": "Hippity Hop",
-    "alt": "Naomi wearing a black bunny suit with fishnets.",
-    "credits": {}
   },
   {
     "name": "Business Casual",
@@ -389,16 +373,6 @@
     "alt": "Naomi wearing a blue sports bra, black shorts, and a pink apron.",
     "credits": {
       "outfit": "https://booth.pm/en/items/4407167"
-    }
-  },
-  {
-    "name": "Lace Corset",
-    "fileName": "corset-2.png",
-    "description": "Maybe a little small?",
-    "alt": "Naomi wearing a small lace corset with matching gloves, and ripped black shorts.",
-    "credits": {
-      "top": "https://booth.pm/en/items/4469942",
-      "bottom": "https://booth.pm/en/items/2775854"
     }
   },
   {
@@ -608,15 +582,6 @@
     "description": "Fish for some Naomis?",
     "alt": "Naomi wearing a teal dress with a fishnet outer layer.",
     "credits": {}
-  },
-  {
-    "name": "Flame Witch",
-    "fileName": "flame.png",
-    "description": "Sometimes Naomi likes to play with fire.",
-    "alt": "Naomi wearing a black bra and skirt, with black flame accents on her arms and legs",
-    "credits": {
-      "outfit": "https://booth.pm/en/items/4379800"
-    }
   },
   {
     "name": "Floral Dress",
@@ -855,15 +820,6 @@
     }
   },
   {
-    "name": "Heart Bodysuit",
-    "fileName": "heart-2.png",
-    "description": "A cute little bodysuit with a heart cutout.",
-    "alt": "Naomi wearing a black bodysuit with a heart cutout in the chest.",
-    "credits": {
-      "outfit": "https://booth.pm/en/items/4405964"
-    }
-  },
-  {
     "name": "Red Heart Dress",
     "fileName": "heart-3.png",
     "description": "Is she capturing your heart?",
@@ -871,13 +827,6 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/3563857"
     }
-  },
-  {
-    "name": "Heart Dress",
-    "fileName": "heart.png",
-    "description": "Naomi's heart is on her sleeve? Chest? Both??",
-    "alt": "Naomi wearing a green dress with a stylised heart cutout in the chest.",
-    "credits": {}
   },
   {
     "name": "Pink Hoodie",
@@ -1044,15 +993,6 @@
     "alt": "Naomi wearing a leather bustier with straps and a leather miniskirt. Her hair is in short pigtails.",
     "credits": {
       "outfit": "https://booth.pm/en/items/3493234"
-    }
-  },
-  {
-    "name": "Leotard",
-    "fileName": "leotard.png",
-    "description": "Is she a gymnast?",
-    "alt": "Naomi wearing a purple leotard.",
-    "credits": {
-      "outfit": "https://booth.pm/en/items/3167178"
     }
   },
   {
@@ -1512,17 +1452,10 @@
     }
   },
   {
-    "name": "Rave Gear 2",
+    "name": "Rave Gear",
     "fileName": "rave-2.png",
     "description": "Naomi is ready for ALL the dance parties.",
     "alt": "Naomi wearing a purple top with mesh sleeves and a purple skirt.",
-    "credits": {}
-  },
-  {
-    "name": "Rave Gear",
-    "fileName": "rave.png",
-    "description": "Arguably not an outfit, but with this attire Naomi fits right in at all the late night raves!",
-    "alt": "Naomi wearing a black mesh hoodie, with a small bustier and panties underneath. Her hair is in her typical ponytail.",
     "credits": {}
   },
   {
@@ -1583,9 +1516,9 @@
     "credits": {}
   },
   {
-    "name": "Bath Robe",
+    "name": "Bed Robe",
     "fileName": "robe.png",
-    "description": "Even when headed to the bath, Naomi likes to look cute.",
+    "description": "Ideal for when she's getting ready to unwind and retire for the night.",
     "alt": "Naomi wearing a purple robe with a pink pencil skirt.",
     "credits": {
       "outfit": "https://booth.pm/en/items/3187250"
@@ -1671,13 +1604,6 @@
     "fileName": "shrine.png",
     "description": "Naomi's uniform she wears when tending to the shrine. Probably best not to ask what the shrine is devoted to.",
     "alt": "Naomi wearing a stylised short black and grey kimono with a floral pattern and detatched sleeves. Her hair is in long twin braids.",
-    "credits": {}
-  },
-  {
-    "name": "Simp Police",
-    "fileName": "simp.png",
-    "description": "No simps allowed.",
-    "alt": "Naomi wearing a black hoodie that reads \"Simp Police\" with an anime girl on it.",
     "credits": {}
   },
   {
@@ -1818,15 +1744,6 @@
     "credits": {}
   },
   {
-    "name": "Strappy Dress",
-    "fileName": "strappy-2.png",
-    "description": "Maybe a bit revealing, but Naomi thinks it is fun.",
-    "alt": "Naomi wearing a purple dress and black panties with a heart.",
-    "credits": {
-      "outfit": "https://booth.pm/en/items/4331116"
-    }
-  },
-  {
     "name": "Strappy Outfit",
     "fileName": "strappy.png",
     "description": "Naomi thought this dress was rather elegant, and the gold ribbon was a nice touch. She may have modified the shoes, though.",
@@ -1847,15 +1764,6 @@
     "alt": "Naomi wearing a tee and shorts with orange stripes.",
     "credits": {
       "outfit": "https://booth.pm/en/items/1452936"
-    }
-  },
-  {
-    "name": "Striped Bikini",
-    "fileName": "stripes.png",
-    "description": "It looks like a bikini but it is actually really comfy sleepwear.",
-    "alt": "Naomi wearing a pink and black striped bikini with matching gloves and stockings.",
-    "credits": {
-      "outfit": "https://booth.pm/en/items/4611030"
     }
   },
   {
@@ -1935,20 +1843,6 @@
     }
   },
   {
-    "name": "Swimwear",
-    "fileName": "swimwear.png",
-    "description": "Even Naomi enjoys a trip to the beach. She usually wears a shawl though - being a bit sensitive to the sun.",
-    "alt": "Naomi wearing a black bikini and a lace shrug. Her hair has been let down.",
-    "credits": {}
-  },
-  {
-    "name": "Tape",
-    "fileName": "tape.png",
-    "description": "Even Naomi likes to have a little fun sometimes!",
-    "alt": "Naomi wearing black body-tape, with her hair in a ponytail.",
-    "credits": {}
-  },
-  {
     "name": "Tech Outfit",
     "fileName": "tech.png",
     "description": "Naomi is ready to code!",
@@ -1979,13 +1873,6 @@
     "fileName": "toxic.png",
     "description": "This might actually be radioactive...",
     "alt": "Naomi wearing a pink crop top with a star window, pink pants with detached legs, and pink gloves.",
-    "credits": {}
-  },
-  {
-    "name": "Towel",
-    "fileName": "towel.png",
-    "description": "For that fresh out of the shower look.",
-    "alt": "Naomi wearing a white towel wrap.",
     "credits": {}
   },
   {
@@ -2082,15 +1969,6 @@
     "alt": "Naomi wearing a black slit dress with a red cape.",
     "credits": {
       "outfit": "https://booth.pm/en/items/4225292"
-    }
-  },
-  {
-    "name": "Vine Bikini",
-    "fileName": "vines.png",
-    "description": "Does this really count as swimwear?",
-    "alt": "Naomi wearing a light blue bikini with vines and stockings",
-    "credits": {
-      "outfit": "https://booth.pm/en/items/4649251"
     }
   },
   {
@@ -2247,15 +2125,6 @@
     }
   },
   {
-    "name": "Mesh Shawl",
-    "fileName": "shawl.png",
-    "description": "Punk enough for a party, professional enough for the office?",
-    "alt": "Naomi wearing a mesh sleeved shawl over a black bikini top, and a black mini skirt with garter leggings.",
-    "credits": {
-      "outfit": "https://booth.pm/en/items/4738887"
-    }
-  },
-  {
     "name": "White Cheongsam",
     "fileName": "cheongsam-2.png",
     "description": "Irresistible in the way it hugs her body, Naomi just had to have this.",
@@ -2346,16 +2215,6 @@
     }
   },
   {
-    "name": "Latex Crop",
-    "fileName": "croptop-2.png",
-    "description": "At what point does it not count as clothing anymore?",
-    "alt": "Naomi wearing a short tank top, a sheer cropped shirt, and latex pants.",
-    "credits": {
-      "top": "https://booth.pm/en/items/4825741",
-      "pants": "https://booth.pm/en/items/4819897"
-    }
-  },
-  {
     "name": "Mermaid Skirt",
     "fileName": "mermaid-2.png",
     "description": "Under the sea!",
@@ -2417,15 +2276,6 @@
     "alt": "Naomi wearing a pink baroque era dress with an excessively large skirt.",
     "credits": {
       "outfit": "https://booth.pm/en/items/4858222"
-    }
-  },
-  {
-    "name": "Silver Swimsuit",
-    "fileName": "silver.png",
-    "description": "It's nice and shiny.",
-    "alt": "Naomi wearing a reflective silver one-piece swimsuit with a snowflake pattern.",
-    "credits": {
-      "outfit": "https://booth.pm/en/items/4854974"
     }
   },
   {
@@ -2519,16 +2369,6 @@
     "credits": {
       "top": "https://booth.pm/en/items/4406235",
       "skirt": "https://booth.pm/en/items/3278406"
-    }
-  },
-  {
-    "name": "Hot Spring Robe",
-    "fileName": "bathrobe.png",
-    "description": "What she wears after getting out of a nice relaxing soak in the hot spring.",
-    "alt": "Naomi wearing a purple bikini, and a purple oversized bath robe.",
-    "credits": {
-      "robe": "https://booth.pm/en/items/3973871",
-      "bikini": "https://booth.pm/en/items/2087722"
     }
   },
   {
