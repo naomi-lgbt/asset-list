@@ -262,5 +262,11 @@
     "game": "Street Fighter VI",
     "alt": "Naomi wearing a black bikini top and mini skirt",
     "description": "Her quest for strength took her all over the world."
+  },
+  {
+    "fileName": "zomboid.jpg",
+    "game": "Project Zomboid",
+    "alt": "Naomi wearing a crop top and miniskirt.",
+    "description": "Can she survive the apocalypse?"
   }
 ]
