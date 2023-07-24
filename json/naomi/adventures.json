@@ -268,5 +268,11 @@
     "game": "Project Zomboid",
     "alt": "Naomi wearing a crop top and miniskirt.",
     "description": "Can she survive the apocalypse?"
+  },
+  {
+    "fileName": "pokemon-go.jpg",
+    "game": "Pokémon Go",
+    "alt": "Naomi wearing a white crop top and pink mini skirt, holding a Pokéball.",
+    "description": "Gotta catch 'em all!"
   }
 ]
