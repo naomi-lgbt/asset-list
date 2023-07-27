@@ -2491,5 +2491,23 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/4925063"
     }
+  },
+  {
+    "name": "Swordplay Kimono",
+    "fileName": "kimono-4.png",
+    "description": "Has the fun flowy sleeves of a kimono, but allows freedom of movement for sword practise.",
+    "alt": "Naomi wearing a pink kimono top and blue hakama shorts.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4960303"
+    }
+  },
+  {
+    "name": "Pink Sundress",
+    "fileName": "sundress-4.png",
+    "description": "Naomi loves being out in the sunshine. Despite how pale she is.",
+    "alt": "Naomi wearing a pink sundress with white lace hems.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4951133"
+    }
   }
 ]
