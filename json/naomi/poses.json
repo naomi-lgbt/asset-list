@@ -1270,5 +1270,35 @@
     "name": "Final Boss",
     "alt": "Naomi appearing as the combatant in an Undertale-styled fight screen.",
     "description": "'Despite everything, it's still you.'"
+  },
+  {
+    "fileName": "bliss.png",
+    "name": "Pure Bliss",
+    "alt": "Naomi sitting at a desk, grinning happily with her eyes closed.",
+    "description": "A rare moment where everything is just right."
+  },
+  {
+    "fileName": "breeze.png",
+    "name": "Summer Breeze",
+    "alt": "Naomi sitting on a wooden fence in a grass field, the breeze blowing her hair (and some leaves).",
+    "description": "After a long walk, the breeze feels cool and refreshing."
+  },
+  {
+    "fileName": "leaf.png",
+    "name": "Plucking a Leaf",
+    "alt": "Naomi gently pulling a leaf off a maple tree.",
+    "description": "Generally, nature should be left at peace. But sometimes a leaf just begs to be taken home and pressed."
+  },
+  {
+    "fileName": "parasol.png",
+    "name": "Parasol",
+    "alt": "Naomi holding a parasol, standing under a sakura tree.",
+    "description": "The parasol is a bit of a hassle to carry around, but it's worth it to keep the sun off her."
+  },
+  {
+    "fileName": "rose.png",
+    "name": "Queen of Thorns",
+    "alt": "Naomi sitting on a throne, roses floating in the air around her.",
+    "description": "The Queen will accept your tribute now."
   }
 ]
