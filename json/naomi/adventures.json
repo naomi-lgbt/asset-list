@@ -280,5 +280,11 @@
     "game": "Baldur's Gate 3",
     "alt": "Naomi wearing a black tank top and miniskirt, and black metal jewellery vines on her arms and legs.",
     "description": "Starting the adventure with a parasite in her brain was not what she was expecting."
+  },
+  {
+    "game": "Fire Emblem Fates",
+    "fileName": "fire-emblem-fates.png",
+    "description": "She could not decide between Hoshido and Nohr, so she forged her own path.",
+    "alt": "Naomi wearing Azura's dress."
   }
 ]
