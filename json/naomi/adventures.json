@@ -286,5 +286,17 @@
     "fileName": "fire-emblem-fates.png",
     "description": "She could not decide between Hoshido and Nohr, so she forged her own path.",
     "alt": "Naomi wearing Azura's dress."
+  },
+  {
+    "game": "Dragon Age: Origins",
+    "fileName": "dragon-age.jpg",
+    "description": "Becoming a Grey Warden, fighting the darkspawn... she was just supposed to take care of her family's lands!",
+    "alt": "Naomi wearing studded leather armour and wielding a longsword."
+  },
+  {
+    "game": "Dragon Age 2",
+    "fileName": "dragon-age-2.jpg",
+    "description": "After having to flee her homeland, she started a new life with her family in Kirkwall.",
+    "alt": "Naomi wearing leather armour and wielding a greatsword."
   }
 ]
