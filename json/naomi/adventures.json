@@ -86,7 +86,7 @@
   {
     "fileName": "mount-and-blade-2.jpg",
     "game": "Mount & Blade II",
-    "alt": "Naom,i wearing a dark grey dress with leather straps, charging into battle with her sword.",
+    "alt": "Naomi wearing a dark grey dress with leather straps, charging into battle with her sword.",
     "description": "From pauper to ruler, Naomi conquered the lands and liberated the people from constant fighting."
   },
   {
@@ -298,5 +298,11 @@
     "fileName": "dragon-age-2.jpg",
     "description": "After having to flee her homeland, she started a new life with her family in Kirkwall.",
     "alt": "Naomi wearing leather armour and wielding a greatsword."
+  },
+  {
+    "game": "Dragon's Dogma",
+    "fileName": "dragons-dogma.jpg",
+    "description": "She wasn't exactly planning to have her heart ripped out. Especially not literally.",
+    "alt": "Naomi wearing leather armour and wielding a longsword."
   }
 ]
