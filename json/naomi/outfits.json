@@ -2509,5 +2509,70 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/4951133"
     }
+  },
+  {
+    "name": "Fantasy Outfit",
+    "fileName": "fantasy.png",
+    "description": "This was sold to her as a fantasy outfit. She's still not sure what it is.",
+    "alt": "Naomi wearing a white top with a black overcoat, a black and gold miniskirt, and black and gold sleeves and stockings.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5022018"
+    }
+  },
+  {
+    "name": "Starry Dress",
+    "fileName": "space-2.png",
+    "description": "She really can't get enough space stuff.",
+    "alt": "Naomi wearing a rather proper blue dress with a white collar, the dress has a night sky pattern.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5020291"
+    }
+  },
+  {
+    "name": "Dripping Tanktop",
+    "fileName": "drippy.png",
+    "description": "The drippy pattern is a bit weird, but Naomi thought the overall outfit was cute.",
+    "alt": "Naomi wearing a pink and purple crop top with a dripping hem, a purple mesh shawl, and blue denim shorts.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5013423",
+      "bottom": "https://booth.pm/en/items/4971677"
+    }
+  },
+  {
+    "name": "Steampunk Corset",
+    "fileName": "steampunk-2.png",
+    "description": "Steampunk probably isn't the best way to describe it, but that's the vibe Naomi got.",
+    "alt": "Naomi wearing a black and gold corset, with a black pencil skirt, black flared sleeves, and black and gold stockings.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4997117"
+    }
+  },
+  {
+    "name": "Shrine Miko Dress",
+    "fileName": "miko.png",
+    "description": "It's not completely true to the traditional miko garb, but Naomi loved it.",
+    "alt": "Naomi wearing a dress in the style of traditional shrine maiden wear.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4991236"
+    }
+  },
+  {
+    "name": "Pentagram Shirt",
+    "fileName": "pentagram.png",
+    "description": "Ever mind the Rule of Three. Three times thine acts return to thee.",
+    "alt": "Naomi wearing a black shirt with a white inverted pentagram on it, a black and white plaid miniskirt, and black and purple striped gloves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4961420"
+    }
+  },
+  {
+    "name": "Ropped Croptop",
+    "fileName": "croptop-ripped.png",
+    "description": "Apparently this is a popular style?",
+    "alt": "Naomi wearing a loose sleeved croptop with a ripped hem, and black skirt with a mesh hem.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5009149",
+      "skirt": "https://booth.pm/en/items/4970626"
+    }
   }
 ]
