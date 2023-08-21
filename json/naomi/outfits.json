@@ -2574,5 +2574,54 @@
       "top": "https://booth.pm/en/items/5009149",
       "skirt": "https://booth.pm/en/items/4970626"
     }
+  },
+  {
+    "name": "Pink Ribbon Corset",
+    "fileName": "corset-3.png",
+    "description": "She loves to wear this when she goes out dancing.",
+    "alt": "Naomi wearing a black corset with pink ribbons, and a black miniskirt",
+    "credits": {
+      "top": "https://booth.pm/en/items/5008831",
+      "skirt": "https://booth.pm/en/items/5022864"
+    }
+  },
+  {
+    "name": "Off-Shoulder Shirt",
+    "fileName": "shoulder.png",
+    "description": "The off-shoulder look is cute, and it keeps her warm enough for a nice evening out.",
+    "alt": "Naomi wearing a long-sleeved white off-shoulder shirt, and black and white striped leggings.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4953982",
+      "pants": "https://booth.pm/en/items/4937820"
+    }
+  },
+  {
+    "name": "Celestial Skirt",
+    "fileName": "celestial.png",
+    "description": "Glitchy moons drew her eye to this outfit. She's not sure about the strange halter though.",
+    "alt": "Naomi wearing a black sleeveless turtleneck with a black halter, and a black skirt with a glitchy moon and star pattern.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4947879",
+      "skirt": "https://booth.pm/en/items/4941802"
+    }
+  },
+  {
+    "name": "Turtleneck Dress",
+    "fileName": "turtleneck.png",
+    "description": "Paired with a jacket, this is elegant enough for a night on the town but still keeps her warm.",
+    "alt": "Naomi wearing a knee-length sleevless black turtleneck dress.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4932531"
+    }
+  },
+  {
+    "name": "Heart Shirt",
+    "fileName": "heart-4.png",
+    "description": "Hearts are her jam, and it matched the skirt well enough that she had to get it.",
+    "alt": "Naomi wearing a short sleeve shirt with a heart-shaped window, and a black pencil skirt with pink crosses.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4405964",
+      "skirt": "https://booth.pm/en/items/4934907"
+    }
   }
 ]
