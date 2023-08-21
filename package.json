@@ -11,6 +11,10 @@
     "list-different": "node prod/listDifferent.js",
     "audit-outfits": "node prod/auditOutfits.js"
   },
+  "engines": {
+    "node": "18",
+    "pnpm": "8"
+  },
   "keywords": [
     "assets",
     "json"
