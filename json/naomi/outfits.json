@@ -2623,5 +2623,33 @@
       "top": "https://booth.pm/en/items/4405964",
       "skirt": "https://booth.pm/en/items/4934907"
     }
+  },
+  {
+    "name": "Crystal Gown",
+    "fileName": "crystal-2.png",
+    "description": "The elegance of the gown caught Naomi's eye.",
+    "alt": "Naomi wearing a silver strapless dress with crystal adornments.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3601401"
+    }
+  },
+  {
+    "name": "Leafy Skirt",
+    "fileName": "leaf.png",
+    "description": "It reminds her of the woods.",
+    "alt": "Naomi wearing a green dress with a leaf hem, and a single sleeve designed like branches.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3585695"
+    }
+  },
+  {
+    "name": "UwU Hoodie",
+    "fileName": "uwu.png",
+    "description": "uwu owo nya~!",
+    "alt": "Naomi wearing a purple hoodie with an uwu face, and purple plaid pyjama pants.",
+    "credits": {
+      "top": "https://booth.pm/en/items/3611074",
+      "pants": "https://booth.pm/en/items/3610330"
+    }
   }
 ]
