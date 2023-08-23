@@ -190,5 +190,35 @@
     "name": "Magic Spell",
     "alt": "Naomi casting a magic spell, Becca and Rosalia cheering her on from behind.",
     "description": "Even Naomi has a few tricks up her sleeve."
+  },
+  {
+    "fileName": "game.png",
+    "name": "Game Night",
+    "alt": "The Novas sitting on a couch, Naomi and Rosalia playing a game as Becca and Melody cheer them on.",
+    "description": "The Novas love to play games together, and are always looking for new ones to try."
+  },
+  {
+    "fileName": "kiss.png",
+    "name": "Stolen Kiss",
+    "alt": "The Novas riding a bus, Becca and Rosalia sneaking in a quick kiss, to Melody's annoyance.",
+    "description": "Even though it was just a quick kiss, Melody was still annoyed at the two love birds."
+  },
+  {
+    "fileName": "minecraft.png",
+    "name": "Minecraft",
+    "alt": "Naomi and Rosalia sitting on the edge of a minecraft patch, Becca watching as Melody carries a bucket of lava and water.",
+    "description": "Every game session, Melody seems to do all the work. Becca still can't figure out why."
+  },
+  {
+    "fileName": "ocean.png",
+    "name": "Dip in the Ocean",
+    "alt": "The Novas in their swimsuits, standing in shallow water.",
+    "description": "A rare opportunity to cut loose, Melody can't resist the chance to show off. Rosalia, on the other hand, feels quite shy."
+  },
+  {
+    "fileName": "study.png",
+    "name": "Study Time",
+    "alt": "Naomi and Rosalia sitting at their desks studying, as Becca and Melody observe.",
+    "description": "This is how it always goes. Naomi and Rosalia try to slack off, but Becca and Melody keep them in check."
   }
 ]
