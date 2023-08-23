@@ -46,5 +46,11 @@
         "name": "Working",
         "alt": "Melody sitting at a desk, using her computer.",
         "description": "Much of her work involves planning and detail. Her computer helps her keep it organised."
+    },
+    {
+        "fileName": "bed.png",
+        "name": "Unwinding",
+        "alt": "Melody laying in bed with her phone.",
+        "description": "A few moments to unwind before some much needed sleep."
     }
 ]
