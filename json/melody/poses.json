@@ -1,56 +1,56 @@
 [
-    {
-        "fileName": "beach.png",
-        "name": "Vacation",
-        "alt": "Melody wearing her swimsuit, laying on a towel at the beach.",
-        "description": "When given the rare day off, Melody takes full advantage."
-    },
-    {
-        "fileName": "gun.png",
-        "name": "Protector",
-        "alt": "Melody holding an assault rifle, ready to fire.",
-        "description": "One of her many duties is to ensure Naomi's safety."
-    },
-    {
-        "fileName": "late.png",
-        "name": "Late Night",
-        "alt": "Melody sitting in the dark working on her computer.",
-        "description": "While Naomi rests, Melody remains hard at work planning the next day."
-    },
-    {
-        "fileName": "maid.png",
-        "name": "Maid Melody",
-        "alt": "Melody wearing a sleeveless dress and jeans, holding a tray of food.",
-        "description": "Her Mistress should never go hungry."
-    },
-    {
-        "fileName": "motorcycle.png",
-        "name": "Motorcycle",
-        "alt": "Melody sitting on her motorcycle.",
-        "description": "A motorbike allows her to travel quickly, ensuring she can meet her Mistress' needs."
-    },
-    {
-        "fileName": "read.png",
-        "name": "Reading in Bed",
-        "alt": "Melody leaning back on her bed, reading a book.",
-        "description": "She likes to review tomorrows plans before catching some much needed rest."
-    },
-    {
-        "fileName": "research.png",
-        "name": "Researching",
-        "alt": "Melody sitting at her desk, browsing her computer.",
-        "description": "A good maid is always prepared."
-    },
-    {
-        "fileName": "work.png",
-        "name": "Working",
-        "alt": "Melody sitting at a desk, using her computer.",
-        "description": "Much of her work involves planning and detail. Her computer helps her keep it organised."
-    },
-    {
-        "fileName": "bed.png",
-        "name": "Unwinding",
-        "alt": "Melody laying in bed with her phone.",
-        "description": "A few moments to unwind before some much needed sleep."
-    }
+  {
+    "fileName": "beach.png",
+    "name": "Vacation",
+    "alt": "Melody wearing her swimsuit, laying on a towel at the beach.",
+    "description": "When given the rare day off, Melody takes full advantage."
+  },
+  {
+    "fileName": "gun.png",
+    "name": "Protector",
+    "alt": "Melody holding an assault rifle, ready to fire.",
+    "description": "One of her many duties is to ensure Naomi's safety."
+  },
+  {
+    "fileName": "late.png",
+    "name": "Late Night",
+    "alt": "Melody sitting in the dark working on her computer.",
+    "description": "While Naomi rests, Melody remains hard at work planning the next day."
+  },
+  {
+    "fileName": "maid.png",
+    "name": "Maid Melody",
+    "alt": "Melody wearing a sleeveless dress and jeans, holding a tray of food.",
+    "description": "Her Mistress should never go hungry."
+  },
+  {
+    "fileName": "motorcycle.png",
+    "name": "Motorcycle",
+    "alt": "Melody sitting on her motorcycle.",
+    "description": "A motorbike allows her to travel quickly, ensuring she can meet her Mistress' needs."
+  },
+  {
+    "fileName": "read.png",
+    "name": "Reading in Bed",
+    "alt": "Melody leaning back on her bed, reading a book.",
+    "description": "She likes to review tomorrows plans before catching some much needed rest."
+  },
+  {
+    "fileName": "research.png",
+    "name": "Researching",
+    "alt": "Melody sitting at her desk, browsing her computer.",
+    "description": "A good maid is always prepared."
+  },
+  {
+    "fileName": "work.png",
+    "name": "Working",
+    "alt": "Melody sitting at a desk, using her computer.",
+    "description": "Much of her work involves planning and detail. Her computer helps her keep it organised."
+  },
+  {
+    "fileName": "bed.png",
+    "name": "Unwinding",
+    "alt": "Melody laying in bed with her phone.",
+    "description": "A few moments to unwind before some much needed sleep."
+  }
 ]
