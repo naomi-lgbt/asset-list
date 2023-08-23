@@ -2651,5 +2651,42 @@
       "top": "https://booth.pm/en/items/3611074",
       "pants": "https://booth.pm/en/items/3610330"
     }
+  },
+  {
+    "fileName": "vampire-2.png",
+    "name": "Vampire Cloak",
+    "description": "She's a creature of the night now.",
+    "alt": "Naomi wearing a blue crop-top hoodie, black bat-wing cloak, and tattered red skirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4274963"
+    }
+  },
+  {
+    "name": "Lace Cardigan",
+    "fileName": "cardigan.png",
+    "description": "Excellent for those cool summer nights.",
+    "alt": "Naomi wearing a purple sleeveless sweater, purple dress with a flower pattern, and black lace cardigan.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5025918"
+    }
+  },
+  {
+    "name": "Butterfly Outfit",
+    "fileName": "flutterby.png",
+    "description": "She fell in love with the top and had to get the matching pants.",
+    "alt": "Naomi wearing a tank top shaped like a butterfly, and jeans with a butterfly pattern.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4262802"
+    }
+  },
+  {
+    "name": "Leather Corset",
+    "fileName": "leather-2.png",
+    "description": "It's got a modern goth vibe.",
+    "alt": "Naomi wearing a cropped leather corset, and torn jeans with a butterfly pattern.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5034650",
+      "pants": "https://booth.pm/en/items/4278084"
+    }
   }
 ]

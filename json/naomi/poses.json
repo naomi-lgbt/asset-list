@@ -1300,5 +1300,17 @@
     "name": "Queen of Thorns",
     "alt": "Naomi sitting on a throne, roses floating in the air around her.",
     "description": "The Queen will accept your tribute now."
+  },
+  {
+    "fileName": "caught.png",
+    "name": "Caught in the Pool",
+    "alt": "Naomi in the pool, trying to hide her face from a smartphone camera.",
+    "description": "She hates having her picture taken. Surprise pictures are even worse."
+  },
+  {
+    "fileName": "roof.png",
+    "name": "Rooftop Encounter",
+    "alt": "Naomi sitting on a bench on the roof of a building, holding a notebook in her lap.",
+    "description": "She invited you up here, but didn't say why..."
   }
 ]
