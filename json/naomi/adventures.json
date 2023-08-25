@@ -304,5 +304,17 @@
     "fileName": "dragons-dogma.jpg",
     "description": "She wasn't exactly planning to have her heart ripped out. Especially not literally.",
     "alt": "Naomi wearing leather armour and wielding a longsword."
+  },
+  {
+    "game": "Faery: Legends of Avalon",
+    "fileName": "faery.jpg",
+    "description": "Who knew that being a fairy would be so much fun?",
+    "alt": "Naomi with fairy wings wearing an iron armor dress."
+  },
+  {
+    "game": "Outward",
+    "fileName": "outward.png",
+    "description": "Barely surviving a shipwreck, only to have to repay the family debt... Life is rough sometimes.",
+    "alt": "Naomi wearing green robes and holding a long sword."
   }
 ]
