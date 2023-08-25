@@ -316,5 +316,17 @@
     "fileName": "outward.png",
     "description": "Barely surviving a shipwreck, only to have to repay the family debt... Life is rough sometimes.",
     "alt": "Naomi wearing green robes and holding a long sword."
+  },
+  {
+    "game": "Guild Wars 2",
+    "fileName": "gw-2.png",
+    "description": "One of her favourite realms to explore. It's quite beautiful.",
+    "alt": "Naomi wearing a purple dress with a stole."
+  },
+  {
+    "game": "Planet Explorers",
+    "fileName": "planet-explorers.jpg",
+    "description": "Crash landing on an unknown planet... what could be in store for Naomi here?",
+    "alt": "Naomi wearing military issued black shirt and slacks."
   }
 ]
