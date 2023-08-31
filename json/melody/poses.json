@@ -52,5 +52,29 @@
     "name": "Unwinding",
     "alt": "Melody laying in bed with her phone.",
     "description": "A few moments to unwind before some much needed sleep."
+  },
+  {
+    "fileName": "carry.png",
+    "name": "Carry the Weight",
+    "alt": "Melody cradling Naomi in her arms.",
+    "description": "Despite Naomi's embarrassment, Melody will carry her if the opportunity arises."
+  },
+  {
+    "fileName": "heart.png",
+    "name": "Heart Hands",
+    "alt": "Naomi and Melody putting their hands together to make a heart.",
+    "description": "So adorable!"
+  },
+  {
+    "fileName": "nap.png",
+    "name": "Sneak a Nap",
+    "description": "Naomi often works herself to exhaustion, so Melody frequently encourages naps.",
+    "alt": "Naomi laying her head in Melody's lap, sleeping while Melody strokes her hair."
+  },
+  {
+    "fileName": "thoughts.png",
+    "name": "Uncontrolled Thoughts",
+    "alt": "Melody thinking, the thought bubble showing Naomi.",
+    "description": "Her thoughts might get away from her, but her Mistress is always at the forefront of her mind."
   }
 ]
