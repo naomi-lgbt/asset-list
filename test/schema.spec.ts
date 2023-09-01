@@ -92,6 +92,16 @@ suite("Portraits schemas", () => {
   }
 });
 
+suite("Picrew schema", () => {
+  test("should be all strings", async () => {
+    const json = (await import(`../json/naomi/picrew.json`)).default;
+    for (const object of json) {
+      assert.isString(object);
+      assert.isNotEmpty(object);
+    }
+  });
+});
+
 suite("Poses schemas", () => {
   test("should all exist", () => {
     assert.equal(true, true);

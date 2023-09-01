@@ -208,6 +208,18 @@ suite("Asset data", () => {
     });
   }
 
+  test(`should have all picrew`, async () => {
+    const json = (await import(`../json/naomi/picrew.json`)).default;
+    const data = fileList
+      .filter((f) => f.Key[0].startsWith(`naomi/picrew`))
+      .map((i) => i.Key[0].split("/")[2])
+      .filter((el) => el);
+    for (const file of data) {
+      const picrew = json.find((a) => a === file);
+      assert.isDefined(picrew, `JSON is missing ${file}`);
+    }
+  });
+
   for (const ns of portraitsList) {
     test(`should have all portraits for ${ns}`, async () => {
       const json = (await import(`../json/${ns}/portraits.json`))
