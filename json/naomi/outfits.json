@@ -2688,5 +2688,41 @@
       "top": "https://booth.pm/en/items/5034650",
       "pants": "https://booth.pm/en/items/4278084"
     }
+  },
+  {
+    "name": "Leopard Top",
+    "fileName": "leopard.png",
+    "description": "Meow meow mew mew purrr",
+    "alt": "Naomi wearing an off-shoulder top with a leopard print, and a black mini skirt with a cat belt buckle",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5090027"
+    }
+  },
+  {
+    "name": "Gothic Victorian Dress",
+    "fileName": "victorian.png",
+    "description": "She liked the modern take on the victorian style.",
+    "alt": "Naomi wearing a red top with puffed sleeves, and a black skirt with a gothic lace.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5084773"
+    }
+  },
+  {
+    "name": "Qipao",
+    "fileName": "qipao.png",
+    "description": "At least she thinks that's what this is called...",
+    "alt": "Naomi wearing a pink cheongsam with a sakura pattern.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5084297"
+    }
+  },
+  {
+    "name": "Combat Dress",
+    "fileName": "combat.png",
+    "description": "The armoured weave in the dress allows her to use her off-hand as a shield, while leaving her sword arm mobile.",
+    "alt": "Nomi wearing a tight black dress with a red bra and a sleeve only on her right arm.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5055598"
+    }
   }
 ]
