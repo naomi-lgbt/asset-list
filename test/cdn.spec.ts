@@ -11,8 +11,7 @@ import {
 } from "../src/interfaces/Data";
 import { FileList } from "../src/interfaces/FileList";
 
-// eslint-disable-next-line init-declarations
-let fileList: FileList[];
+let fileList: FileList[] = [];
 const adventureList = ["becca", "naomi", "rosalia"];
 const emoteList = ["becca", "naomi"];
 const outfitList = ["naomi"];
