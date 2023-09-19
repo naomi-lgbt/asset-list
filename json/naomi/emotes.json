@@ -27,7 +27,7 @@
     "fileName": "NaomiCry.png",
     "name": "Cry",
     "alt": "Naomi rubbing tears from her eyes.",
-    "description": "Awww, she's sad..."
+    "description": "Aww, she's sad..."
   },
   {
     "fileName": "NaomiCute.png",
@@ -37,7 +37,7 @@
   },
   {
     "fileName": "NaomiDancy.gif",
-    "name": "Dancy",
+    "name": "Dance",
     "alt": "Naomi twisting her torso back and forth, swinging her arms.",
     "description": "She does love to dance."
   },
@@ -134,8 +134,8 @@
   {
     "fileName": "NaomiPat.png",
     "name": "Pat",
-    "alt": "Naomi receiving a headpat.",
-    "description": "She really loves headpats."
+    "alt": "Naomi receiving a head pat.",
+    "description": "She really loves head pats."
   },
   {
     "fileName": "NaomiPeek.png",
@@ -241,7 +241,7 @@
   },
   {
     "fileName": "NaomiThankies.gif",
-    "name": "Thankiess",
+    "name": "Thankies",
     "alt": "Naomi bowing forward in thanks.",
     "description": "She truly appreciates it."
   },
@@ -265,7 +265,7 @@
   },
   {
     "fileName": "NaomiWavey.gif",
-    "name": "Wavey",
+    "name": "Wave",
     "alt": "Naomi jumping and waving with both hands.",
     "description": "She's very excited to see you!"
   },

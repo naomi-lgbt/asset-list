@@ -168,7 +168,7 @@
     "description": "Wow, she actually agreed with you."
   },
   {
-    "fileName": "BeccaThumbsup.png",
+    "fileName": "BeccaThumbsUp.png",
     "name": "Thumbs Up",
     "alt": "Becca grinning and giving a thumbs up.",
     "description": "You've successfully impressed her. Nice work!"
@@ -204,9 +204,9 @@
     "description": "She probably stayed up too late last night."
   },
   {
-    "fileName": "BeccaYESSS.png",
-    "name": "YESSS",
-    "alt": "Becca with glowingeyes, her skin red with excitement.",
+    "fileName": "BeccaYES.png",
+    "name": "YES",
+    "alt": "Becca with glowing eyes, her skin red with excitement.",
     "description": "Whatever idea she has, there's no stopping her now."
   },
   {
