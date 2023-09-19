@@ -2724,5 +2724,34 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5055598"
     }
+  },
+  {
+    "name": "Fishnet Croptop",
+    "fileName": "fishnet-4.png",
+    "description": "She had to do a bit of tailoring to get this one to fit right.",
+    "alt": "Naomi wearing a black croptop with a fishnet pattern, and a black plaid miniskirt.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5099308",
+      "skirt": "https://booth.pm/en/items/5104232"
+    }
+  },
+  {
+    "name": "Necromancer Armour",
+    "fileName": "necromancer.png",
+    "description": "Her command over the dead surpasses even her command over the living.",
+    "alt": "Naomi wearing a black body suit with skeletal arm and leg guards, and plated armour on her chest.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5098392"
+    }
+  },
+  {
+    "name": "Cardigan Suit",
+    "fileName": "cardigan-2.png",
+    "description": "A bit more casual than the typical office wear.",
+    "alt": "Naomi wwearing a pink pinstripe cardigan and a red plaid miniskirt.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5102642",
+      "skirt": "https://booth.pm/en/items/5099724"
+    }
   }
 ]
