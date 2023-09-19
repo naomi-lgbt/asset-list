@@ -47,6 +47,6 @@
   },
   "dependencies": {
     "string-similarity": "4.0.4",
-    "winston": "3.9.0"
+    "winston": "3.10.0"
   }
 }
