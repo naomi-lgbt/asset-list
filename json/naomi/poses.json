@@ -43,7 +43,7 @@
   },
   {
     "fileName": "barista.png",
-    "name": "Barista",
+    "name": "Coffee Shop",
     "alt": "Naomi standing in a coffee shop, cup in hand ready to take an order.",
     "description": "She thinks she can make a good latte, but she only drinks black coffee..."
   },
@@ -79,19 +79,19 @@
   },
   {
     "fileName": "beach.png",
-    "name": "Popsicles",
-    "alt": "Naomi laying in a beach chair eating a popsicle",
+    "name": "Ice Pop",
+    "alt": "Naomi laying in a beach chair eating an ice pop.",
     "description": "The best time for a frozen treat is when you're at the beach."
   },
   {
     "fileName": "beatsaber.png",
-    "name": "Beatsaber",
-    "alt": "Naomi playing Beatsaber.",
+    "name": "Beat Sabre",
+    "alt": "Naomi playing Beat Sabre.",
     "description": "She doesn't own a VR set, but has always wanted to try this game."
   },
   {
     "fileName": "bed-11.png",
-    "name": "Feeling Lovey",
+    "name": "Feeling the Love",
     "alt": "Naomi on her stomach in bed, surrounded by hearts.",
     "description": "She took this to use as her avatar for a while."
   },
@@ -194,7 +194,7 @@
   {
     "fileName": "cheer.png",
     "name": "Cheering You On",
-    "alt": "Naomi cheering, pom poms in each hand.",
+    "alt": "Naomi cheering, a pom-pom in each hand.",
     "description": "She believes in you, so now you should believe in yourself."
   },
   {
@@ -290,7 +290,7 @@
   {
     "fileName": "fence.png",
     "name": "Atop a Fence",
-    "alt": "Naomi sitting on top of a chainlink fence.",
+    "alt": "Naomi sitting on top of a chain link fence.",
     "description": "She loves climbing things so she can look down at the view."
   },
   {
@@ -422,7 +422,7 @@
   {
     "fileName": "heart-3.png",
     "name": "Hearts for Valentines",
-    "alt": "Naomi making a heart with her hands, a pink and maroon checkerboard behind her.",
+    "alt": "Naomi making a heart with her hands, a pink and maroon checker board behind her.",
     "description": "This was the image for her valentine's card."
   },
   {
@@ -578,7 +578,7 @@
   {
     "fileName": "park.png",
     "name": "Bench in the Park",
-    "alt": "Naomi stting on a bench in the park.",
+    "alt": "Naomi sitting on a bench in the park.",
     "description": "She loves watching the sun set."
   },
   {
@@ -986,7 +986,7 @@
   {
     "fileName": "hot.png",
     "name": "Heat Wave",
-    "alt": "Naomi sitting in front of a fan, eating a popsicle.",
+    "alt": "Naomi sitting in front of a fan, eating an ice pop.",
     "description": "Hot weather is the absolute worst. She always struggles to stay cool."
   },
   {
@@ -1082,7 +1082,7 @@
   {
     "fileName": "confession.png",
     "name": "Secret Confession",
-    "alt": "Naomi standing on the sidewalk, extending a love letter to you, blushing.",
+    "alt": "Naomi standing on the side walk, extending a love letter to you, blushing.",
     "description": "If she confessed her love, what would you do?"
   },
   {
@@ -1118,7 +1118,7 @@
   {
     "fileName": "peek-2.png",
     "name": "Peeking Around a Pole",
-    "alt": "Naomi on the sidewalk, peeking out from behind a telephone pole.",
+    "alt": "Naomi on the side walk, peeking out from behind a telephone pole.",
     "description": "She saw someone across the street and got shy."
   },
   {

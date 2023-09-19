@@ -140,7 +140,7 @@
   {
     "fileName": "shadowrun.jpg",
     "game": "Shadowrun: Dragonfall",
-    "alt": "Naomi wearing a black trench coat with a white undershirt and black pants.",
+    "alt": "Naomi wearing a black trench coat with a white under shirt and black pants.",
     "description": "The world was an interesting fusion of magic and technology, and Naomi mastered both."
   },
   {
@@ -164,7 +164,7 @@
   {
     "fileName": "spellforce-3.jpg",
     "game": "SpellForce III",
-    "alt": "Naomi wearing a black robe and brown boots, carrying a glowing blue greatsword.",
+    "alt": "Naomi wearing a black robe and brown boots, carrying a glowing blue great sword.",
     "description": "Leading armies into battle and helping the races of the world was fun."
   },
   {
@@ -290,14 +290,14 @@
   {
     "game": "Dragon Age: Origins",
     "fileName": "dragon-age.jpg",
-    "description": "Becoming a Grey Warden, fighting the darkspawn... she was just supposed to take care of her family's lands!",
+    "description": "Becoming a Grey Warden, fighting the dark spawn... she was just supposed to take care of her family's lands!",
     "alt": "Naomi wearing studded leather armour and wielding a longsword."
   },
   {
     "game": "Dragon Age 2",
     "fileName": "dragon-age-2.jpg",
     "description": "After having to flee her homeland, she started a new life with her family in Kirkwall.",
-    "alt": "Naomi wearing leather armour and wielding a greatsword."
+    "alt": "Naomi wearing leather armour and wielding a great sword."
   },
   {
     "game": "Dragon's Dogma",
@@ -309,7 +309,7 @@
     "game": "Faery: Legends of Avalon",
     "fileName": "faery.jpg",
     "description": "Who knew that being a fairy would be so much fun?",
-    "alt": "Naomi with fairy wings wearing an iron armor dress."
+    "alt": "Naomi with fairy wings wearing an iron armour dress."
   },
   {
     "game": "Outward",
