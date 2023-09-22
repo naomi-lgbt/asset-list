@@ -1312,5 +1312,23 @@
     "name": "Rooftop Encounter",
     "alt": "Naomi sitting on a bench on the roof of a building, holding a notebook in her lap.",
     "description": "She invited you up here, but didn't say why..."
+  },
+  {
+    "fileName": "winter.png",
+    "name": "Winter Evening",
+    "alt": "Naomi leaning against a tree, snow falling around her.",
+    "description": "The chill in the air can get exhausting sometimes."
+  },
+  {
+    "fileName": "wine.png",
+    "name": "Glass of Wine",
+    "alt": "Naomi sitting in an armchair, holding a glass of wine",
+    "description": "A glass of wine is the perfect way to unwind after a long day of work."
+  },
+  {
+    "fileName": "zone.png",
+    "name": "Zoned Out",
+    "alt": "Naomi sitting at a desk, staring off into space while holding a pencil.",
+    "description": "There are days where it is nigh impossible to focus."
   }
 ]

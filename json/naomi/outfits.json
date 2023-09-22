@@ -2753,5 +2753,32 @@
       "top": "https://booth.pm/en/items/5102642",
       "skirt": "https://booth.pm/en/items/5099724"
     }
+  },
+  {
+    "name": "Sailor Dress",
+    "fileName": "sailor.png",
+    "description": "There once was a ship that put to sea, the name of the ship was the Billy o' Tea...",
+    "alt": "Naomi wearing a white dress with a sailor collar",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5107098"
+    }
+  },
+  {
+    "name": "Gothic Renaissance Dress",
+    "fileName": "gothic-7.png",
+    "description": "The frills are fun, and the collar accents her neck.",
+    "alt": "Naomi wearing a black frilled dress with a white overcoat.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5112882"
+    }
+  },
+  {
+    "name": "Strange Dress",
+    "fileName": "dress.png",
+    "description": "Unsure what this is supposed to be, she still liked it enough to purchase it.",
+    "alt": "Naomi wearing a black dress with a blue underskirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5111473"
+    }
   }
 ]
