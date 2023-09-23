@@ -4,7 +4,7 @@ const adventureList = ["becca", "naomi", "rosalia"];
 const emoteList = ["becca", "naomi"];
 const outfitList = ["naomi"];
 const portraitsList = ["becca", "beccalia", "naomi", "rosalia"];
-const posesList = ["becca", "beccalia", "naomi", "novas", "rosalia"];
+const posesList = ["becca", "beccalia", "naomi", "novas", "rosalia", "erin"];
 
 suite("Schema Validation:", () => {
   suite("Adventures", () => {
