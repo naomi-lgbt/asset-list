@@ -2780,5 +2780,41 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5111473"
     }
+  },
+  {
+    "name": "Overcoat",
+    "fileName": "overcoat.png",
+    "description": "This one makes her feel like a secret agent.",
+    "alt": "Naomi wearing a purple overcoat with matching pants and a black top.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5110827"
+    }
+  },
+  {
+    "name": "Running Gear",
+    "fileName": "running.png",
+    "description": "She bought this to hit the track with, but has yet to actually do so.",
+    "alt": "Naomi wearing a purple tank top and athletic shorts.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5115710"
+    }
+  },
+  {
+    "name": "Dancer Outfit",
+    "fileName": "dancer-3.png",
+    "description": "She really didn't need a third one, but it was too cute to pass up.",
+    "alt": "Naomi wearing a black cross top and white slit skirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5064531"
+    }
+  },
+  {
+    "name": "Cleaning Apron",
+    "fileName": "apron.png",
+    "description": "Perfect for getting the kitchen clean.",
+    "alt": "Naomi wearing a white and orange apron dress.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5115620"
+    }
   }
 ]
