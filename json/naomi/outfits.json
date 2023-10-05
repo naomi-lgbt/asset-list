@@ -2816,5 +2816,41 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5115620"
     }
+  },
+  {
+    "name": "Zen Dress",
+    "fileName": "zen.png",
+    "description": "This dress brings her inner peace.",
+    "alt": "Naomi wearing a black cheongsam with a blue branch pattern.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5145091"
+    }
+  },
+  {
+    "name": "Warlock Robe",
+    "fileName": "warlock.png",
+    "description": "Gives her the freedom to cast spells which require somatic components.",
+    "alt": "Naomi wearing a pink bikini with a white front skirt, and a red hooded robe.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5082581"
+    }
+  },
+  {
+    "name": "Ghost Robe",
+    "fileName": "ghost.png",
+    "description": "She's gonna haunt you :3",
+    "alt": "Naomi wearing a black tattered hooded robe.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5133239"
+    }
+  },
+  {
+    "name": "Floral Maid",
+    "fileName": "maid-3.png",
+    "description": "How many maid outfits is too many?",
+    "alt": "Naomi wearing a maid dress with a floral pattern.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5145538"
+    }
   }
 ]
