@@ -1330,5 +1330,23 @@
     "name": "Zoned Out",
     "alt": "Naomi sitting at a desk, staring off into space while holding a pencil.",
     "description": "There are days where it is nigh impossible to focus."
+  },
+  {
+    "fileName": "garden.png",
+    "name": "In the Garden",
+    "alt": "Naomi strolling through the garden, the sun shining behind her.",
+    "description": "Getting away from work, and electronics in general, is quite refreshing."
+  },
+  {
+    "fileName": "sunset.png",
+    "name": "Waiting in the Sunset",
+    "alt": "Naomi leaning against a wall on the roof, the sun setting in the distance.",
+    "description": "She's waiting for you to meet her..."
+  },
+  {
+    "fileName": "wake.png",
+    "name": "Waking Up",
+    "alt": "Naomi opening her bedroom door, rubbing her eye.",
+    "description": "So why did you disturb her sleep?"
   }
 ]
