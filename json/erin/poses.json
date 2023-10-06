@@ -64,5 +64,17 @@
     "name": "Surprise Visit",
     "description": "Nothing beats an unexpected encounter with your beloved.",
     "alt": "Naomi jumping on Erin from behind, surprising her."
+  },
+  {
+    "fileName": "dojo.png",
+    "name": "Dojo Session",
+    "description": "Sometimes the best way to unwind is with some swordplay.",
+    "alt": "Naomi and Erin in a dojo, facing each other with bokken."
+  },
+  {
+    "fileName": "proposal.png",
+    "name": "Proposal",
+    "description": "She said yes :3",
+    "alt": "Naomi on her knees presenting a ring to Erin."
   }
 ]
