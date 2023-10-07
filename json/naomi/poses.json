@@ -1348,5 +1348,11 @@
     "name": "Waking Up",
     "alt": "Naomi opening her bedroom door, rubbing her eye.",
     "description": "So why did you disturb her sleep?"
+  },
+  {
+    "fileName": "ring.png",
+    "name": "The Ring",
+    "alt": "Naomi crawling out of a television set.",
+    "description": "Absolutely terrifying. If you see this, run."
   }
 ]
