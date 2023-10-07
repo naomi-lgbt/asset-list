@@ -2852,5 +2852,33 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5145538"
     }
+  },
+  {
+    "name": "Shiny Dress",
+    "fileName": "shiny.png",
+    "description": "Sparkles are great, though this isn't the most comfortable to wear.",
+    "alt": "Naomi wearing a gold sparkly low-cut backless dress.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4819568"
+    }
+  },
+  {
+    "name": "Boss Bitch",
+    "fileName": "boss.png",
+    "description": "Do no harm but take no shit.",
+    "alt": "Naomi wearing a black shirt that says 'Boss Bitch' and a black skirt.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5127691",
+      "skirt": "https://booth.pm/en/items/5148691"
+    }
+  },
+  {
+    "name": "Bat Skirt",
+    "fileName": "bats.png",
+    "description": "She's gone batty!",
+    "alt": "Naomi wearing a pink sleeveless dress with a bat pattern and a translucent longsleeve shirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5148334"
+    }
   }
 ]
