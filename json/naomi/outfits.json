@@ -2880,5 +2880,23 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5148334"
     }
+  },
+  {
+    "name": "Enchantress Robes",
+    "fileName": "enchantress.png",
+    "description": "She'll put a spell on you.",
+    "alt": "Naomi wearing a purple gown with detatched sleeves and a witch hat.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5153232"
+    }
+  },
+  {
+    "name": "Dark Mage",
+    "fileName": "dark-mage.png",
+    "description": "Her power (and capacity for evil) knows no limits.",
+    "alt": "Naomi wearing a black translucent body suit with gold accents.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5154443"
+    }
   }
 ]
