@@ -58,7 +58,7 @@ suite("Data Validation:", () => {
           ).bestMatch;
           assert.isBelow(
             closest.rating,
-            0.9,
+            0.75,
             `${target} is too similar to ${closest.target}`
           );
         }
@@ -101,7 +101,7 @@ suite("Data Validation:", () => {
           ).bestMatch;
           assert.isBelow(
             closest.rating,
-            0.9,
+            0.75,
             `${target} is too similar to ${closest.target}`
           );
         }
@@ -144,7 +144,7 @@ suite("Data Validation:", () => {
           ).bestMatch;
           assert.isBelow(
             closest.rating,
-            0.9,
+            0.75,
             `${target} is too similar to ${closest.target}`
           );
         }
@@ -187,7 +187,7 @@ suite("Data Validation:", () => {
           ).bestMatch;
           assert.isBelow(
             closest.rating,
-            0.9,
+            0.75,
             `${target} is too similar to ${closest.target}`
           );
         }
@@ -230,7 +230,7 @@ suite("Data Validation:", () => {
           ).bestMatch;
           assert.isBelow(
             closest.rating,
-            0.9,
+            0.75,
             `${target} is too similar to ${closest.target}`
           );
         }
