@@ -1354,5 +1354,11 @@
     "name": "The Ring",
     "alt": "Naomi crawling out of a television set.",
     "description": "Absolutely terrifying. If you see this, run."
+  },
+  {
+    "fileName": "rage.png",
+    "name": "Cope and Seethe",
+    "alt": "Naomi surrounded in an aura of angry energy.",
+    "description": "She's big mad."
   }
 ]
