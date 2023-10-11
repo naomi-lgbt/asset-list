@@ -149,6 +149,23 @@ suite("Data Validation:", () => {
           );
         }
       });
+
+      test(`should not reuse outfit components`, async () => {
+        const urls: string[] = [];
+        const json = (await import(`../json/${ns}/outfits.json`))
+          .default as OutfitData[];
+        for (const outfit of json) {
+          for (const url of Object.values(outfit.credits)) {
+            if (url.includes("store.steampowered")) {
+              continue;
+            }
+            assert.match(url, /https:\/\/booth.pm\/en\/items\/\d+/);
+            urls.push(url);
+          }
+        }
+        const set = new Set(urls);
+        assert.strictEqual(set.size, urls.length);
+      });
     }
   });
 
