@@ -159,6 +159,7 @@ suite("Data Validation:", () => {
             if (url.includes("store.steampowered")) {
               continue;
             }
+            assert.match(url, /https:\/\/booth.pm\/en\/items\/\d+/);
             urls.push(url);
           }
         }
