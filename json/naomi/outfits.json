@@ -2898,5 +2898,52 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5154443"
     }
+  },
+  {
+    "name": "Goth Mesh Outfit",
+    "fileName": "goth-2.png",
+    "description": "She was told it was a matching set, but she's not convinced.",
+    "alt": "Naomi wearing a black tube top with suspenders and black jeans with fishnet leggings.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5161280",
+      "pants": "https://booth.pm/en/items/5158465"
+    }
+  },
+  {
+    "name": "Broken Hearted",
+    "fileName": "broken-heart.png",
+    "description": "This here song's for the broken hearted...",
+    "alt": "Naomi wearing a heart-shaped tank top with an opening down the front and a sparkly red skirt.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5140099",
+      "skirt": "https://booth.pm/en/items/5160909"
+    }
+  },
+  {
+    "name": "Hooded Bodysuit",
+    "fileName": "bodysuit-2.png",
+    "description": "Were it not for the hood, she might have passed this one by.",
+    "alt": "Naomi wearing a black thigh-high bodysuit with a loose black shoulder and hood.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5158317"
+    }
+  },
+  {
+    "name": "Cat Dress",
+    "fileName": "cat.png",
+    "description": "It doesn't quite look like a cat, but she liked it.",
+    "alt": "Naomi wearing a black sleevelss dress with a cat face over a red and white striped shirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5143524"
+    }
+  },
+  {
+    "name": "Power Armor",
+    "fileName": "power.png",
+    "description": "Despite the appearance, it's actually quite functional.",
+    "alt": "Naomi wearing a metal chestplate, white leggins, and black gloves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5141162"
+    }
   }
 ]
