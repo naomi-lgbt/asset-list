@@ -2973,5 +2973,14 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5168153"
     }
+  },
+  {
+    "name": "Jumper Skirt",
+    "fileName": "jumper.png",
+    "description": "She's not normally a fan of plaid, but this was cute.",
+    "alt": "Naomi wearing a plaid green top and skirt, and a pink mesh shawl.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5166241"
+    }
   }
 ]
