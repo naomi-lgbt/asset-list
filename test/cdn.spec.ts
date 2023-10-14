@@ -27,11 +27,19 @@ const posesList = [
 ];
 
 const getFiles = async () => {
+  const arr: FileList[] = [];
   const raw = await fetch(`https://cdn.naomi.lgbt`);
   const text = await raw.text();
   const parser = new Parser();
   const parsed = await parser.parseStringPromise(text);
-  return parsed.ListBucketResult.Contents as FileList[];
+  arr.push(...parsed.ListBucketResult.Contents);
+  const rawTwo = await fetch(
+    `https://cdn.naomi.lgbt?marker=${parsed.ListBucketResult.NextMarker[0]}`
+  );
+  const textTwo = await rawTwo.text();
+  const parsedTwo = await parser.parseStringPromise(textTwo);
+  arr.push(...parsedTwo.ListBucketResult.Contents);
+  return arr;
 };
 
 suite("CDN Validation:", () => {
