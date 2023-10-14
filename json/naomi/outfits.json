@@ -2982,5 +2982,133 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5166241"
     }
+  },
+  {
+    "name": "Cyborg",
+    "fileName": "cyborg.png",
+    "description": "She's not really a cyborg. She's just got a fancy power armour.",
+    "alt": "Naomi wearing a purple body suit that makes her look like a cyborg.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3992205"
+    }
+  },
+  {
+    "name": "This Bites",
+    "fileName": "bites.png",
+    "description": "'This' is Naomi. Naomi bites. :3",
+    "alt": "Naomi wearing a purple tank top with a vampire-fang pattern that says 'This bites', and black plaid pyjamas.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4077675"
+    }
+  },
+  {
+    "name": "Off-Shoulder Dress",
+    "fileName": "off-shoulder.png",
+    "description": "The fancy floral pattern caught her eye.",
+    "alt": "Naomi wearing a black off-shoulder dress with a purple skirt that has a black floral pattern.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3954815"
+    }
+  },
+  {
+    "name": "Love Shirt",
+    "fileName": "love.png",
+    "description": "Naomi loves you.",
+    "alt": "Naomi wearing a red oversized shirt with a heart on it, and blue denim shorts.",
+    "credits": {
+      "top": "https://booth.pm/en/items/3994182",
+      "shorts": "https://booth.pm/en/items/3959435"
+    }
+  },
+  {
+    "name": "Rogue Outfit",
+    "fileName": "rogue.png",
+    "description": "Loose enough for her to sneak around in, protective enough if she gets caught.",
+    "alt": "Naomi wearing a brown scale mail crop top and matching shorts.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3939860"
+    }
+  },
+  {
+    "name": "Belted Dress",
+    "fileName": "belted-dress.png",
+    "description": "This one caught her eye for the mesh top.",
+    "alt": "Naomi wearing a black off-shoulder dress with a mesh under-shirt and a purple under-skirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3775104"
+    }
+  },
+  {
+    "name": "Steampunk Trench Coat",
+    "fileName": "trenchcoat.png",
+    "description": "Marketed to her as steampunk, though she doesn't really see it.",
+    "alt": "Naomi wearing a brown trench coat with an elegant pattern, a black corseted top, and black striped leggings.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3770319"
+    }
+  },
+  {
+    "name": "Dreamy Dress",
+    "fileName": "dreamy.png",
+    "description": "She does find it a bit dreamy...",
+    "alt": "Naomi wearing a long purple sleeveless dress.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3878828"
+    }
+  },
+  {
+    "name": "Half-Shoulder Dress",
+    "fileName": "half-shoulder.png",
+    "description": "It's rather basic, but it's cute!",
+    "alt": "Naomi wearing a purple dress with one shoulder strap.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3654871"
+    }
+  },
+  {
+    "name": "Violet Ballgown",
+    "fileName": "ballgown.png",
+    "description": "May she have this dance?",
+    "alt": "Naomi wearing a purple shiny strapless dress.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3687168"
+    }
+  },
+  {
+    "name": "Academy Uniform",
+    "fileName": "academy.png",
+    "description": "She was invited to attend a prestigious academy. Though she doesn't know much about it.",
+    "alt": "Naomi wearing a white uniform top and a long blue coat/skirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3725777"
+    }
+  },
+  {
+    "name": "zzzz",
+    "fileName": "zzzz.png",
+    "description": "She is perpetually sleepy.",
+    "alt": "Naomi wearing a white and purple dress that says 'zzzz' on the chest.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3752175"
+    }
+  },
+  {
+    "name": "Rawr Shirt",
+    "fileName": "rawr.png",
+    "description": "This was supposed to be a ghost? It just makes Naomi want to say rawr.",
+    "alt": "Naomi wearing a purple shirt with a emoticon style face on it, and a purple argyle skirt.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5169358",
+      "skirt": "https://booth.pm/en/items/3924868"
+    }
+  },
+  {
+    "name": "Grancrest Armour",
+    "fileName": "grancrest.png",
+    "description": "Combat isn't for everyone.",
+    "alt": "Naomi wearing a set of armour in the style of the Record of Grancrest show.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/1262433"
+    }
   }
 ]

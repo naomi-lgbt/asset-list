@@ -81,4 +81,6 @@ module.exports = [
   "owo",
   "qipao",
   "makima",
+  "rawr",
+  "grancrest",
 ];
