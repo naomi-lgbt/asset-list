@@ -80,4 +80,5 @@ module.exports = [
   "blub",
   "owo",
   "qipao",
+  "makima",
 ];

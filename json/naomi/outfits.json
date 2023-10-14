@@ -2945,5 +2945,42 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5141162"
     }
+  },
+  {
+    "name": "Sakura Skirt",
+    "fileName": "sakura-3.png",
+    "description": "Unfortunately she couldn't really find a matching top for this...",
+    "alt": "Naomi wearing a black cropped hoodie and a long purple skirt with a sakura branch pattern.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5155685",
+      "skirt": "https://booth.pm/en/items/5168279"
+    }
+  },
+  {
+    "name": "Goth Mesh Dress",
+    "fileName": "goth-3.png",
+    "description": "The fishnets caught her eye.",
+    "alt": "Naomi wearing black dress with fishnet sleeves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5163750"
+    }
+  },
+  {
+    "name": "Makima Cosplay",
+    "fileName": "makima.png",
+    "description": "If you manage to outdrink me, then I'll tell you.",
+    "alt": "Naomi cosplaying as Makima from Chainsaw Man",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5168153"
+    }
+  },
+  {
+    "name": "Jumper Skirt",
+    "fileName": "jumper.png",
+    "description": "She's not normally a fan of plaid, but this was cute.",
+    "alt": "Naomi wearing a plaid green top and skirt, and a pink mesh shawl.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5166241"
+    }
   }
 ]
