@@ -28,17 +28,17 @@ const posesList = [
 
 const getFiles = async () => {
   const arr: FileList[] = [];
-  const raw = await fetch(`https://cdn.naomi.lgbt`);
-  const text = await raw.text();
-  const parser = new Parser();
-  const parsed = await parser.parseStringPromise(text);
-  arr.push(...parsed.ListBucketResult.Contents);
-  const rawTwo = await fetch(
-    `https://cdn.naomi.lgbt?marker=${parsed.ListBucketResult.NextMarker[0]}`
-  );
-  const textTwo = await rawTwo.text();
-  const parsedTwo = await parser.parseStringPromise(textTwo);
-  arr.push(...parsedTwo.ListBucketResult.Contents);
+  let truncated = true;
+  let marker = "";
+  while (truncated) {
+    const raw = await fetch(`https://cdn.naomi.lgbt?marker=${marker}`);
+    const text = await raw.text();
+    const parser = new Parser();
+    const parsed = await parser.parseStringPromise(text);
+    truncated = parsed.ListBucketResult.IsTruncated?.[0] === "true";
+    marker = parsed.ListBucketResult.NextMarker?.[0];
+    arr.push(...parsed.ListBucketResult.Contents);
+  }
   return arr;
 };
 

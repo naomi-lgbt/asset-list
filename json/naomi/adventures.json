@@ -328,5 +328,11 @@
     "fileName": "planet-explorers.jpg",
     "description": "Crash landing on an unknown planet... what could be in store for Naomi here?",
     "alt": "Naomi wearing military issued black shirt and slacks."
+  },
+  {
+    "game": "Age of Wonders III",
+    "fileName": "aow-3.png",
+    "description": "Building her own empire was quite the new challenge.",
+    "alt": "Naomi wearing a black sleeveless dress with a v-neck."
   }
 ]
