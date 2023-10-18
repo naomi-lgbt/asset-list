@@ -10,6 +10,7 @@ import { NameSpace } from "../interfaces/NameSpace";
  */
 export const getNamespaces = async (): Promise<NameSpace> => {
   const namespace: NameSpace = {
+    _names: [],
     adventures: [],
     emotes: [],
     outfits: [],
@@ -19,6 +20,7 @@ export const getNamespaces = async (): Promise<NameSpace> => {
   };
   const namespaces = await readdir(join(process.cwd(), "json"));
   for (const name of namespaces) {
+    namespace._names.push(name);
     const data = await readdir(join(process.cwd(), "json", name));
     if (data.includes("adventures.json")) {
       namespace.adventures.push(name);

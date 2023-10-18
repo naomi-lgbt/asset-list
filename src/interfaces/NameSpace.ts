@@ -1,4 +1,5 @@
 export interface NameSpace {
+  _names: string[];
   adventures: string[];
   emotes: string[];
   outfits: string[];
