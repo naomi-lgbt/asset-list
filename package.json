@@ -13,7 +13,6 @@
     "test:cdn": "ts-mocha -u tdd 'test/cdn.spec.ts' --timeout 10000",
     "count": "ts-node src/counts.ts",
     "list-different": "ts-ndoe src/listDifferent.ts",
-    "audit-outfits": "ts-node src/auditOutfits.ts",
     "picrew": "ts-node src/picrew.ts"
   },
   "engines": {
