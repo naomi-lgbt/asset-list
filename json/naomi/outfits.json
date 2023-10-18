@@ -3110,5 +3110,41 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/1262433"
     }
+  },
+  {
+    "name": "Chaos Shark",
+    "fileName": "shark.png",
+    "description": "She's actually a chaos goblin, despite what her community says.",
+    "alt": "Naomi wearing a hoodie with a shark hood and tail.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5183237"
+    }
+  },
+  {
+    "name": "Princess Dress",
+    "fileName": "princess-2.png",
+    "description": "She's not sure this is actually a princess outfit, but that's how it was marketed to her.",
+    "alt": "Naomi wearing a pink dress with red and gold accents.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5181466"
+    }
+  },
+  {
+    "name": "Floral Corset",
+    "fileName": "corset-4.png",
+    "description": "The corset was the selling point for this otherwise fairly standard dress.",
+    "alt": "Naomi wearing a black off-shoulder dress with a floral corset.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5176964"
+    }
+  },
+  {
+    "name": "Divine Miko",
+    "fileName": "miko-2.png",
+    "description": "Can she ever have enough of these?",
+    "alt": "Naomi wearing traditional shrine maiden garb.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5171935"
+    }
   }
 ]
