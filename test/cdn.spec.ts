@@ -2,6 +2,7 @@ import { assert } from "chai";
 import { before } from "mocha";
 import { Parser } from "xml2js";
 
+import { NameSpaces } from "../src/config/NameSpaces";
 import {
   AdventureData,
   EmoteData,
@@ -12,19 +13,12 @@ import {
 import { FileList } from "../src/interfaces/FileList";
 
 let fileList: FileList[] = [];
-const adventureList = ["becca", "naomi", "rosalia"];
-const emoteList = ["becca", "naomi"];
-const outfitList = ["naomi"];
-const portraitsList = ["becca", "beccalia", "naomi", "rosalia"];
-const posesList = [
-  "becca",
-  "beccalia",
-  "naomi",
-  "novas",
-  "rosalia",
-  "melody",
-  "erin",
-];
+const adventureList = NameSpaces.adventures;
+const emoteList = NameSpaces.emotes;
+const outfitList = NameSpaces.outfits;
+const picrewList = NameSpaces.picrew;
+const portraitsList = NameSpaces.portraits;
+const posesList = NameSpaces.poses;
 
 const getFiles = async () => {
   const arr: FileList[] = [];
@@ -111,17 +105,19 @@ suite("CDN Validation:", () => {
   });
 
   suite("Picrew", () => {
-    test(`should have all picrew`, async () => {
-      const json = (await import(`../json/naomi/picrew.json`)).default;
-      const data = fileList
-        .filter((f) => f.Key[0].startsWith(`naomi/picrew`))
-        .map((i) => i.Key[0].split("/")[2])
-        .filter((el) => el);
-      for (const file of data) {
-        const picrew = json.find((a) => a === file);
-        assert.isDefined(picrew, `JSON is missing ${file}`);
-      }
-    });
+    for (const ns of picrewList) {
+      test(`should have all picrew`, async () => {
+        const json = (await import(`../json/${ns}/picrew.json`)).default;
+        const data = fileList
+          .filter((f) => f.Key[0].startsWith(`${ns}/picrew`))
+          .map((i) => i.Key[0].split("/")[2])
+          .filter((el) => el);
+        for (const file of data) {
+          const picrew = json.find((a) => a === file);
+          assert.isDefined(picrew, `JSON is missing ${file}`);
+        }
+      });
+    }
   });
 
   suite("Portraits", () => {
