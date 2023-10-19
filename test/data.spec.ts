@@ -1,6 +1,7 @@
 import { assert } from "chai";
 import { findBestMatch } from "string-similarity";
 
+import { NameSpaces } from "../src/config/NameSpaces";
 import {
   AdventureData,
   EmoteData,
@@ -9,19 +10,12 @@ import {
   PosesData,
 } from "../src/interfaces/Data";
 
-const adventureList = ["becca", "naomi", "rosalia"];
-const emoteList = ["becca", "naomi"];
-const outfitList = ["naomi"];
-const portraitsList = ["becca", "beccalia", "naomi", "rosalia"];
-const posesList = [
-  "becca",
-  "beccalia",
-  "naomi",
-  "novas",
-  "rosalia",
-  "melody",
-  "erin",
-];
+const adventureList = NameSpaces.adventures;
+const emoteList = NameSpaces.emotes;
+const outfitList = NameSpaces.outfits;
+const picrewList = NameSpaces.picrew;
+const portraitsList = NameSpaces.portraits;
+const posesList = NameSpaces.poses;
 
 suite("Data Validation:", () => {
   suite("Adventures", () => {
@@ -165,6 +159,25 @@ suite("Data Validation:", () => {
         }
         const set = new Set(urls);
         assert.strictEqual(set.size, urls.length);
+      });
+    }
+  });
+
+  suite("Picrew", () => {
+    for (const ns of picrewList) {
+      test(`should have unique filenames for ${ns}`, async () => {
+        const json = (await import(`../json/${ns}/picrew.json`))
+          .default as string[];
+        const set = new Set(json);
+        assert.equal(set.size, json.length);
+      });
+
+      test(`should all be image files`, async () => {
+        const json = (await import(`../json/${ns}/picrew.json`))
+          .default as string[];
+        for (const file of json) {
+          assert.match(file, /\.png$/);
+        }
       });
     }
   });

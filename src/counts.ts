@@ -4,11 +4,10 @@ import { join } from "path";
 import { logHandler } from "./utils/logHandler";
 import { titleCase } from "./utils/titleCase";
 
-const namespaces = ["becca", "beccalia", "naomi", "novas", "rosalia"];
-
 (async () => {
   let grandTotal = 0;
   let result = "\n";
+  const namespaces = await readdir(join(process.cwd(), "json"));
   for (const name of namespaces) {
     result += `=== ${titleCase(name)} ===\n`;
     let total = 0;

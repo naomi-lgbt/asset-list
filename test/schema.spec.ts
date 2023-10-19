@@ -1,10 +1,13 @@
 import { assert } from "chai";
 
-const adventureList = ["becca", "naomi", "rosalia"];
-const emoteList = ["becca", "naomi"];
-const outfitList = ["naomi"];
-const portraitsList = ["becca", "beccalia", "naomi", "rosalia"];
-const posesList = ["becca", "beccalia", "naomi", "novas", "rosalia", "erin"];
+import { NameSpaces } from "../src/config/NameSpaces";
+
+const adventureList = NameSpaces.adventures;
+const emoteList = NameSpaces.emotes;
+const outfitList = NameSpaces.outfits;
+const picrewList = NameSpaces.picrew;
+const portraitsList = NameSpaces.portraits;
+const posesList = NameSpaces.poses;
 
 suite("Schema Validation:", () => {
   suite("Adventures", () => {
@@ -101,13 +104,15 @@ suite("Schema Validation:", () => {
   });
 
   suite("Picrew", () => {
-    test("should be all strings", async () => {
-      const json = (await import(`../json/naomi/picrew.json`)).default;
-      for (const object of json) {
-        assert.isString(object);
-        assert.isNotEmpty(object);
-      }
-    });
+    for (const ns of picrewList) {
+      test("should be all strings", async () => {
+        const json = (await import(`../json/${ns}/picrew.json`)).default;
+        for (const object of json) {
+          assert.isString(object);
+          assert.isNotEmpty(object);
+        }
+      });
+    }
   });
 
   suite("Poses", () => {
