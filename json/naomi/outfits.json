@@ -3146,5 +3146,33 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5171935"
     }
+  },
+  {
+    "name": "Rhinestone Jacket",
+    "fileName": "rhinestone.png",
+    "description": "She wishes the skirt had the diamonds too...",
+    "alt": "Naomi wearing a black high-collar suit jacket with rhinestones and a black matching skirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5186256"
+    }
+  },
+  {
+    "name": "Maid Uniform",
+    "fileName": "maid-4.png",
+    "description": "For someone who never cleans, she has far too many maid outfits.",
+    "alt": "Naomi wearing a traditional blue french maid outfit.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5185656"
+    }
+  },
+  {
+    "name": "Spy Suit",
+    "fileName": "harness.png",
+    "description": "Plenty of pockets for all of her spy gear.",
+    "alt": "Naomi wearing a black cropped hoodie with a harness, and pants with equipment packs.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5183907",
+      "pants": "https://store.steampowered.com/app/1486350/VRoid_Studio_v1190/"
+    }
   }
 ]
