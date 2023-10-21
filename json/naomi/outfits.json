@@ -3174,5 +3174,26 @@
       "top": "https://booth.pm/en/items/5183907",
       "pants": "https://store.steampowered.com/app/1486350/VRoid_Studio_v1190/"
     }
+  },
+  {
+    "name": "Pumpkin Queen",
+    "fileName": "pumpkin.png",
+    "description": "She is the pumpkin queen!",
+    "alt": "Naomi wearing an orange hoodie with a jack-o-lantern face, a pumpkin shaped hat, and black leggings.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5180571",
+      "leggings": "https://booth.pm/en/items/5191384",
+      "hat": "https://booth.pm/en/items/5175651"
+    }
+  },
+  {
+    "name": "Space Witch",
+    "fileName": "witch-3.png",
+    "description": "This is secretly her favourite work uniform.",
+    "alt": "Naomi wearing a black petticoat and bloomers with a gold star and bat design, and a black pointed hat.",
+    "credits": {
+      "outfit": "https://store.steampowered.com/app/1486350/VRoid_Studio_v1232/",
+      "hat": "https://booth.pm/en/items/5190282"
+    }
   }
 ]
