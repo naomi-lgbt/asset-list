@@ -83,4 +83,5 @@ module.exports = [
   "makima",
   "rawr",
   "grancrest",
+  "hanzel",
 ];
