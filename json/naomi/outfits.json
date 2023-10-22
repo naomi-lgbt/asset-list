@@ -3306,5 +3306,24 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5192344"
     }
+  },
+  {
+    "name": "Skull Dress",
+    "fileName": "skull.png",
+    "description": "She loved the pattern and simply had to get this.",
+    "alt": "Naomi wearing a purple top and skirt with a skull pattern, a white layered underskirt, and a black ripped body suit.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5138939"
+    }
+  },
+  {
+    "name": "Pink Sweater",
+    "fileName": "sweatshirt.png",
+    "description": "Ideal for the winter weather.",
+    "alt": "Naomi wearing a pink striped sweater and black capris with plaid cuffs.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5148359",
+      "pants": "https://store.steampowered.com/app/1486350/VRoid_Studio_v1190/"
+    }
   }
 ]
