@@ -84,4 +84,7 @@ module.exports = [
   "rawr",
   "grancrest",
   "hanzel",
+  "roxana",
+  "agriche",
+  "verosika",
 ];
