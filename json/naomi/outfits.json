@@ -3493,5 +3493,87 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5193103"
     }
+  },
+  {
+    "name": "Tactical Coat",
+    "fileName": "tactical.png",
+    "description": "She wears this when commanding the away team.",
+    "alt": "Naomi wearing a white bodysuit with black gloves and stockings and a blue half-coat.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4355759"
+    }
+  },
+  {
+    "name": "Futuristic Outfit",
+    "fileName": "futuristic.png",
+    "description": "She got this from a more technologically advanced society. It doesn't seem to have any function, though.",
+    "alt": "Naomi wearing a black crop top and purple half-leggings, with a pink and black coat.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4355701"
+    }
+  },
+  {
+    "name": "Ugly Sweater",
+    "fileName": "ugly.png",
+    "description": "She'll never understand why people have ugly sweater contests, but at least she's prepared.",
+    "alt": "Naomi wearing a black christmas sweater with black and white leggings that have a snow pattern.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4341068",
+      "leggings": "https://booth.pm/en/items/4422437"
+    }
+  },
+  {
+    "name": "Saint Robe",
+    "fileName": "saint.png",
+    "description": "Is she actually pure enough to wear this?",
+    "alt": "Naomi wearing a plain white saint robe with a red ribbon belt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4332180"
+    }
+  },
+  {
+    "name": "Marquis Vestments",
+    "fileName": "marquis.png",
+    "description": "The perfect look for patrolling the lands that she rules.",
+    "alt": "Naomi wearing a blue vest, coat, and pants all with gold accents, black stockings, and a gold cravat.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4386939"
+    }
+  },
+  {
+    "name": "Officer Coat",
+    "fileName": "officer.png",
+    "description": "She served under a ruling lord for a while. This outfit assisted her in leading the militia.",
+    "alt": "Naomi wearing a blue robe with pants and a blue waist wrap, all with gold accents.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4404526"
+    }
+  },
+  {
+    "name": "Starfleet Uniform",
+    "fileName": "starfleet.png",
+    "description": "Long before she became an admiral, she served as an ordinary trooper with the Starfleet.",
+    "alt": "Naomi wearing a green-grey and black coat and matching shorts.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4426635"
+    }
+  },
+  {
+    "name": "Assassin Uniform",
+    "fileName": "assassin.png",
+    "description": "A modification of her tactical gear, the tweaks make it easier for her to move silently and position herself to take out the target.",
+    "alt": "Naomi wearing black tactical gear with additional pouches and an overcoat.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4448409"
+    }
+  },
+  {
+    "name": "Steampunk Rabbit",
+    "fileName": "rabbit.png",
+    "description": "IT was cute, and the hat made it irresistable.",
+    "alt": "Naomi wearing a black and gold sleeveless coat with black pants and a brown rabbit ears hat.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4468213"
+    }
   }
 ]
