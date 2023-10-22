@@ -3195,5 +3195,116 @@
       "outfit": "https://store.steampowered.com/app/1486350/VRoid_Studio_v1232/",
       "hat": "https://booth.pm/en/items/5190282"
     }
+  },
+  {
+    "name": "Classy Loungewear",
+    "fileName": "classy.png",
+    "description": "It looks rather nice, but it's secretly pyjamas.",
+    "alt": "Naomi wearing a grey sleeveless dress and oversized coat.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5055802"
+    }
+  },
+  {
+    "name": "Romantic Goth",
+    "fileName": "romantic.png",
+    "description": "At least, that's what she was told the style was...",
+    "alt": "Naomi wearing a black dress with a lace skirt and loose sleeves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5132116"
+    }
+  },
+  {
+    "name": "Student Robes",
+    "fileName": "robes.png",
+    "description": "She wore these during her early days learning witchcraft.",
+    "alt": "Naomi wearing black witch robes with gold hems.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5042366"
+    }
+  },
+  {
+    "name": "Magical Princess",
+    "fileName": "magical.png",
+    "description": "This princess won't need rescuing, she can hold her own quite well.",
+    "alt": "Naomi wearing a lavender and white dress with matching gloves and stockings.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5042365"
+    }
+  },
+  {
+    "name": "Admiral Uniform",
+    "fileName": "admiral.png",
+    "description": "She has, in fact, commanded an entire space fleet before.",
+    "alt": "Naomi wearing a navy blue jacket with a rose medal, a black cape, and a black pleated skirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5124138"
+    }
+  },
+  {
+    "name": "Cybersleeve Suit",
+    "fileName": "cybersleeve.png",
+    "description": "It enhances her combat abilities.",
+    "alt": "Naomi wearing a grey cybersuit with unattached sleeves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5122953"
+    }
+  },
+  {
+    "name": "Midnight Dress",
+    "fileName": "midnight.png",
+    "description": "It's red. How is that midnight? Naomi will never know.",
+    "alt": "Naomi wearing a short sleeved red dress.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5112267"
+    }
+  },
+  {
+    "name": "Gretel's Dress",
+    "fileName": "gretel.png",
+    "description": "Yes, from Hanzel and Gretel.",
+    "alt": "Naomi wearing a white dress with a blue skirt and a red shawl.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5144291"
+    }
+  },
+  {
+    "name": "Purple Turtleneck",
+    "fileName": "turtleneck-2.png",
+    "description": "A simple outfit, but sometimes simple is nice.",
+    "alt": "Naomi wearing a purple turtleneck and ripped denim shorts.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5192401",
+      "shorts": "https://booth.pm/en/items/5155618"
+    }
+  },
+  {
+    "name": "Skater Outfit",
+    "fileName": "skater.png",
+    "description": "She can't skate, but liked the look.",
+    "alt": "Naomi wearing a black and white striped hoodie with undershirt, and white striped pants with purple straps and chains.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5181450",
+      "pants": "https://booth.pm/en/items/5042273"
+    }
+  },
+  {
+    "name": "Haunted Outfit",
+    "fileName": "haunted.png",
+    "description": "But is the outfit haunted, or is Naomi haunting you??",
+    "alt": "Naomi wearing a pink crop top with a ghost pattern and black leggings with a leg bone pattern.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5119355",
+      "leggings": "https://booth.pm/en/items/5143613"
+    }
+  },
+  {
+    "name": "Oracle Armour",
+    "fileName": "oracle.png",
+    "description": "Blessed with unholy magic, this armour keeps her safe from nearly all threats.",
+    "alt": "Naomi wearing black armour with a black long skirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5192344"
+    }
   }
 ]
