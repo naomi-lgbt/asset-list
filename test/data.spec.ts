@@ -144,6 +144,19 @@ suite("Data Validation:", () => {
         }
       });
 
+      test(`should not have outfit links with trailing slash`, async () => {
+        const json = (await import(`../json/${ns}/outfits.json`))
+          .default as OutfitData[];
+        for (const outfit of json) {
+          for (const url of Object.values(outfit.credits)) {
+            if (url.includes("store.steampowered")) {
+              continue;
+            }
+            assert.notMatch(url, /\/$/);
+          }
+        }
+      });
+
       test(`should not reuse outfit components`, async () => {
         const urls: string[] = [];
         const json = (await import(`../json/${ns}/outfits.json`))
