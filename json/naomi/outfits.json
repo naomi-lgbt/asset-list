@@ -3329,5 +3329,169 @@
       "top": "https://booth.pm/en/items/5148359",
       "pants": "https://store.steampowered.com/app/1486350/VRoid_Studio_v1190/"
     }
+  },
+  {
+    "name": "Shaman Robes",
+    "fileName": "shaman.png",
+    "description": "It allows her connection with the spirits of the earth, channeling their energy.",
+    "alt": "Naomi wearing a tattered black robe with gold rings and a feather necklace.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4259624"
+    }
+  },
+  {
+    "name": "Murder Shirt",
+    "fileName": "murder.png",
+    "description": "Committing crimes is cute, right?",
+    "alt": "Naomi wearing a pink shirt with a rainbow cloud and text that says 'Murder', and a black miniskirt.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4164046",
+      "skirt": "https://booth.pm/en/items/4197682"
+    }
+  },
+  {
+    "name": "Wizard Robe",
+    "fileName": "wizard.png",
+    "description": "She wears this when travelling the realms, using her powers to help those in need.",
+    "alt": "Naomi wearing a teal dress with a white bodice and a blue pendant necklace.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4259022"
+    }
+  },
+  {
+    "name": "Winter Ball Gown",
+    "fileName": "ball.png",
+    "description": "To attend the yule ball with the best of looks.",
+    "alt": "Naomi wearing a grey dress with a purple overcoat that has a snow pattern.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4247006"
+    }
+  },
+  {
+    "name": "Roxana Cosplay",
+    "fileName": "roxana.png",
+    "description": "Father, I am very happy that we bear the same name; Agriche.",
+    "alt": "Naomi weraing a red ballgown.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4170458"
+    }
+  },
+  {
+    "name": "Black Mini Dress",
+    "fileName": "minidress.png",
+    "description": "She could totally wear this to the club.",
+    "alt": "Naomi wearing a short black cocktail dress with exposed sides held with straps.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4170500"
+    }
+  },
+  {
+    "name": "Pink Stripe Dress",
+    "fileName": "stripe.png",
+    "description": "It was a bit unique, so she had to have it.",
+    "alt": "Naomi wearing a black and white dress with pink accents and pink and black striped gloves and belt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4182708"
+    }
+  },
+  {
+    "name": "Black Butterfly",
+    "fileName": "butterfly-3.png",
+    "description": "Simultaenously dark and cute.",
+    "alt": "Naomi wearing a black butterfly-shaped crop top and a black and white checkered skirt.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4278067",
+      "skirt": "https://booth.pm/en/items/4338219"
+    }
+  },
+  {
+    "name": "Skeleton Suit",
+    "fileName": "skeleton.png",
+    "description": "Spooky scary skeletons send shivers down your spine.",
+    "alt": "Naomi wearing a black bodysuit with a purple skeleton.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4193985"
+    }
+  },
+  {
+    "name": "Pilot Uniform",
+    "fileName": "pilot.png",
+    "description": "Believe it or not, she actually can pilot giant mechs.",
+    "alt": "Naomi wearing a pink bodysuit with semi-exposed arms and thighs.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4193729"
+    }
+  },
+  {
+    "name": "Formal Skirt",
+    "fileName": "formalwear.png",
+    "description": "It's still fun and fanciful, but formal enough for the most important of occasions.",
+    "alt": "Naomi wearing a white blazer and a matching skirt with purple, black, and checker patterns.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4218322"
+    }
+  },
+  {
+    "name": "Blood-hemmed Dress",
+    "fileName": "bloody.png",
+    "description": "it's just startling enough to be a conversation starter, without being too distracting.",
+    "alt": "Naomi wearing a skinny black dress with a blood-styled hem.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4210287"
+    }
+  },
+  {
+    "name": "Slim Red Dress",
+    "fileName": "slim.png",
+    "description": "A great choice for an evening cocktail party.",
+    "alt": "Naomi wearing a skin-tight red strapless cocktail dress.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4221452"
+    }
+  },
+  {
+    "name": "Evil Nurse",
+    "fileName": "nurse-2.png",
+    "description": "You probably shouldn't trust her with your health care...",
+    "alt": "Naomi wearing a black sparkling nurse uniform.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4133194"
+    }
+  },
+  {
+    "name": "Verosika Cosplay",
+    "fileName": "verosika.png",
+    "description": "They let me out because I'm still famous, and rehab is for sad, loser wash-ups. So, your sister says hi.",
+    "alt": "Naomi wearing a cosplay of Verosika from Helluva Boss",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4163460"
+    }
+  },
+  {
+    "name": "Apprentice Robes",
+    "fileName": "apprentice.png",
+    "description": "After a few years in the academy, she was given these robes when she was assigned to an expert witch for private training.",
+    "alt": "Naomi wearing blue hooded robes with gold trim.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4097055"
+    }
+  },
+  {
+    "name": "Purple Cheongsam",
+    "fileName": "cheongsam-3.png",
+    "description": "She lvoes this style so much she buys one every time she sees one.",
+    "alt": "Naomi wearing a purple cheongsam with gold accents.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5194568"
+    }
+  },
+  {
+    "name": "Corrupted Magical Girl",
+    "fileName": "magical-girl-2.png",
+    "description": "What happens when a heroine succumbs to the very darkness she is trying to fight?",
+    "alt": "Naomi wearing a pink body suit with an open skirt, pink stockings, and black gloves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5193103"
+    }
   }
 ]
