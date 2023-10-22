@@ -250,7 +250,9 @@
     "fileName": "chain.png",
     "description": "Not nearly as exciting as it sounds, but simple and elegant.",
     "alt": "Naomi wearing a black dress with a chain belt and hem.",
-    "credits": {}
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4234556"
+    }
   },
   {
     "name": "Champion's Armour",
@@ -862,7 +864,9 @@
     "fileName": "ivy.png",
     "description": "A cute little forest themed dress.",
     "alt": "Naomi wearing a green dress with an ivy pattern and red flowers.",
-    "credits": {}
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4238816"
+    }
   },
   {
     "name": "Blue Jeans",
