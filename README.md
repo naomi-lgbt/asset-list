@@ -82,7 +82,7 @@ Koikatsu scenes.
 
 ## Live Version
 
-This page is currently deployed. [View the live website.]
+This page is currently deployed. [View the live website.](https://asset-list.naomi.lgbt/json/)
 
 ## Feedback and Bugs
 
