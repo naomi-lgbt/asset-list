@@ -20,6 +20,9 @@ export const getNamespaces = async (): Promise<NameSpace> => {
   };
   const namespaces = await readdir(join(process.cwd(), "json"));
   for (const name of namespaces) {
+    if (name === "README.md") {
+      continue;
+    }
     namespace._names.push(name);
     const data = await readdir(join(process.cwd(), "json", name));
     if (data.includes("adventures.json")) {
