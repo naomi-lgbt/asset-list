@@ -13,6 +13,7 @@ ara-ara.png
 arachnid.png
 armour.png
 assassin.png
+asymmetrical.png
 baggy.png
 ball.png
 ballgown.png
@@ -203,6 +204,7 @@ lace-2.png
 lace.png
 latex-2.png
 latex.png
+laundry.png
 lavender.png
 layla.png
 leaf.png
@@ -243,6 +245,7 @@ midnight.png
 miko-2.png
 miko.png
 miku.png
+military.png
 minidress.png
 mint.png
 monarch.png
@@ -297,6 +300,7 @@ princess-2.png
 princess.png
 professional.png
 pumpkin.png
+punk-2.png
 punk.png
 purple-2.png
 purple-3.png
@@ -364,6 +368,7 @@ space-2.png
 space.png
 sparkle.png
 specops.png
+spider-2.png
 spider.png
 spidergwen.png
 spoopy-2.png
@@ -429,6 +434,8 @@ vines.png
 violet.png
 virgin-killer-2.png
 virgin-killer.png
+vroid.png
+waistcoat.png
 warlock.png
 warm.png
 warrior.png

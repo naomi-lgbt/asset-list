@@ -3575,5 +3575,70 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/4468213"
     }
+  },
+  {
+    "name": "Spider Queen",
+    "fileName": "spider-2.png",
+    "description": "She's got you caught in her web.",
+    "alt": "Naomi wearing a black dress with a spiderweb pattern.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3219805"
+    }
+  },
+  {
+    "name": "Asymmetrical Dress",
+    "fileName": "asymmetrical.png",
+    "description": "The asymmetry is what caught her eye.",
+    "alt": "Naomi wearing a red dress with a blue open bodice.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5204203"
+    }
+  },
+  {
+    "name": "Punk Dress",
+    "fileName": "punk-2.png",
+    "description": "It literally says Punk, so that makes it punk right?",
+    "alt": "Naomi wearing a black sleeveless top that says punk, a tattered red plaid skirt, black fingerless gloves, and a black sock with a black and white striped sock.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5203133"
+    }
+  },
+  {
+    "name": "Military Uniform",
+    "fileName": "military.png",
+    "description": "Her uniform from when she first started attending the military academy.",
+    "alt": "Naomi wearing a black jacketed dress with gold accents and a red under-skirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/1376071"
+    }
+  },
+  {
+    "name": "Vested Waistcoat",
+    "fileName": "waistcoat.png",
+    "description": "It doesn't really go together, but she likes feeling like she is wearing a cape.",
+    "alt": "Naomi wearing a purple tank top and leggings, and a black vest with a long back.",
+    "credits": {
+      "coat": "https://booth.pm/en/items/4992897",
+      "top": "https://booth.pm/en/items/2696548",
+      "leggings": "https://booth.pm/en/items/3693815"
+    }
+  },
+  {
+    "name": "Laundry Day",
+    "fileName": "laundry.png",
+    "description": "When all of her other clothing is being washed, she wears this. Generally she won't go out in it though.",
+    "alt": "Naomi wearing a purple tank top and purple short shorts.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4990181"
+    }
+  },
+  {
+    "name": "VRoid Outfit",
+    "fileName": "vroid.png",
+    "description": "Is this too meta?",
+    "alt": "Naomi wearing a black tank top and blue jeans, with paint splatters all over them, and the text 'VRoid' on both.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/1392512"
+    }
   }
 ]
