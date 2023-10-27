@@ -13,6 +13,7 @@ Naomi (Ara Ara).vrm
 Naomi (Arachnid).vrm
 Naomi (Armour).vrm
 Naomi (Assassin).vrm
+Naomi (Asymmetrical).vrm
 Naomi (Baggy).vrm
 Naomi (Ball).vrm
 Naomi (Ballgown).vrm
@@ -203,6 +204,7 @@ Naomi (Lace 2).vrm
 Naomi (Lace).vrm
 Naomi (Latex 2).vrm
 Naomi (Latex).vrm
+Naomi (Laundry).vrm
 Naomi (Lavender).vrm
 Naomi (Layla).vrm
 Naomi (Leaf).vrm
@@ -243,6 +245,7 @@ Naomi (Midnight).vrm
 Naomi (Miko 2).vrm
 Naomi (Miko).vrm
 Naomi (Miku).vrm
+Naomi (Military).vrm
 Naomi (Minidress).vrm
 Naomi (Mint).vrm
 Naomi (Monarch).vrm
@@ -297,6 +300,7 @@ Naomi (Princess 2).vrm
 Naomi (Princess).vrm
 Naomi (Professional).vrm
 Naomi (Pumpkin).vrm
+Naomi (Punk 2).vrm
 Naomi (Punk).vrm
 Naomi (Purple 2).vrm
 Naomi (Purple 3).vrm
@@ -364,6 +368,7 @@ Naomi (Space 2).vrm
 Naomi (Space).vrm
 Naomi (Sparkle).vrm
 Naomi (SpecOps).vrm
+Naomi (Spider 2).vrm
 Naomi (Spider).vrm
 Naomi (SpiderGwen).vrm
 Naomi (Spoopy 2).vrm
@@ -429,6 +434,8 @@ Naomi (Vines).vrm
 Naomi (Violet).vrm
 Naomi (Virgin Killer 2).vrm
 Naomi (Virgin Killer).vrm
+Naomi (Vroid).vrm
+Naomi (Waistcoat).vrm
 Naomi (Warlock).vrm
 Naomi (Warm).vrm
 Naomi (Warrior).vrm

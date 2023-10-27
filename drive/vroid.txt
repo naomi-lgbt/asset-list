@@ -13,6 +13,7 @@ naomi-ara-ara.vroid
 naomi-arachnid.vroid
 naomi-armour.vroid
 naomi-assassin.vroid
+naomi-asymmetrical.vroid
 naomi-baggy.vroid
 naomi-ball.vroid
 naomi-ballgown.vroid
@@ -203,6 +204,7 @@ naomi-lace-2.vroid
 naomi-lace.vroid
 naomi-latex-2.vroid
 naomi-latex.vroid
+naomi-laundry.vroid
 naomi-lavender.vroid
 naomi-layla.vroid
 naomi-leaf.vroid
@@ -243,6 +245,7 @@ naomi-midnight.vroid
 naomi-miko-2.vroid
 naomi-miko.vroid
 naomi-miku.vroid
+naomi-military.vroid
 naomi-minidress.vroid
 naomi-mint.vroid
 naomi-monarch.vroid
@@ -297,6 +300,7 @@ naomi-princess-2.vroid
 naomi-princess.vroid
 naomi-professional.vroid
 naomi-pumpkin.vroid
+naomi-punk-2.vroid
 naomi-punk.vroid
 naomi-purple-2.vroid
 naomi-purple-3.vroid
@@ -364,6 +368,7 @@ naomi-space-2.vroid
 naomi-space.vroid
 naomi-sparkle.vroid
 naomi-specops.vroid
+naomi-spider-2.vroid
 naomi-spider.vroid
 naomi-spidergwen.vroid
 naomi-spoopy-2.vroid
@@ -429,6 +434,8 @@ naomi-vines.vroid
 naomi-violet.vroid
 naomi-virgin-killer-2.vroid
 naomi-virgin-killer.vroid
+naomi-vroid.vroid
+naomi-waistcoat.vroid
 naomi-warlock.vroid
 naomi-warm.vroid
 naomi-warrior.vroid
