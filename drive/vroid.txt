@@ -11,6 +11,7 @@ naomi-apron.vroid
 naomi-aquamancer.vroid
 naomi-ara-ara.vroid
 naomi-arachnid.vroid
+naomi-arcane.vroid
 naomi-armour.vroid
 naomi-assassin.vroid
 naomi-asymmetrical.vroid
@@ -118,6 +119,7 @@ naomi-dress.vroid
 naomi-drippy.vroid
 naomi-elegant-2.vroid
 naomi-elegant.vroid
+naomi-elementalist.vroid
 naomi-elvish.vroid
 naomi-enchantress.vroid
 naomi-evening.vroid
@@ -421,6 +423,7 @@ naomi-usagi.vroid
 naomi-uwu.vroid
 naomi-valentine-2.vroid
 naomi-valentine.vroid
+naomi-valkyrie.vroid
 naomi-vampire-2.vroid
 naomi-vampire.vroid
 naomi-velvet-crowe.vroid

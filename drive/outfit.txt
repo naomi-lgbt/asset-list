@@ -11,6 +11,7 @@ apron.png
 aquamancer.png
 ara-ara.png
 arachnid.png
+arcane.png
 armour.png
 assassin.png
 asymmetrical.png
@@ -118,6 +119,7 @@ dress.png
 drippy.png
 elegant-2.png
 elegant.png
+elementalist.png
 elvish.png
 enchantress.png
 evening.png
@@ -421,6 +423,7 @@ usagi.png
 uwu.png
 valentine-2.png
 valentine.png
+valkyrie.png
 vampire-2.png
 vampire.png
 velvet-crowe.png
