@@ -88,4 +88,5 @@ module.exports = [
   "agriche",
   "verosika",
   "vroid",
+  "elementalist",
 ];

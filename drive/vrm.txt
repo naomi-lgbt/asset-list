@@ -11,6 +11,7 @@ Naomi (Apron).vrm
 Naomi (Aquamancer).vrm
 Naomi (Ara Ara).vrm
 Naomi (Arachnid).vrm
+Naomi (Arcane).vrm
 Naomi (Armour).vrm
 Naomi (Assassin).vrm
 Naomi (Asymmetrical).vrm
@@ -118,6 +119,7 @@ Naomi (Dress).vrm
 Naomi (Drippy).vrm
 Naomi (Elegant 2).vrm
 Naomi (Elegant).vrm
+Naomi (Elementalist).vrm
 Naomi (Elvish).vrm
 Naomi (Enchantress).vrm
 Naomi (Evening).vrm
@@ -421,6 +423,7 @@ Naomi (Usagi).vrm
 Naomi (UwU).vrm
 Naomi (Valentine 2).vrm
 Naomi (Valentine).vrm
+Naomi (Valkyrie).vrm
 Naomi (Vampire 2).vrm
 Naomi (Vampire).vrm
 Naomi (Velvet Crowe).vrm

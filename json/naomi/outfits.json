@@ -3640,5 +3640,32 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/1392512"
     }
+  },
+  {
+    "name": "Elementalist Robe",
+    "fileName": "elementalist.png",
+    "description": "Giving her complete control over the elements, this robe wreathes her in blue hot flames.",
+    "alt": "Naomi wearing a white and blue robe with a slit skirt and bottomless sleeves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4106547"
+    }
+  },
+  {
+    "name": "Arcane Armour",
+    "fileName": "arcane.png",
+    "description": "She can sling blades and sling spells all at once with this armour.",
+    "alt": "Naomi wearing purple armour stylised to be a dress.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4596963"
+    }
+  },
+  {
+    "name": "Valkyrie Armour",
+    "fileName": "valkyrie.png",
+    "description": "Grants her the power of the holiest of knights.",
+    "alt": "Naomi wearing blue and gold armour with a blue halo behind her head.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4001920"
+    }
   }
 ]
