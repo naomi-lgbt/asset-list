@@ -176,6 +176,7 @@ naomi-gym.vroid
 naomi-hacker.vroid
 naomi-hakama.vroid
 naomi-half-shoulder.vroid
+naomi-half-vest.vroid
 naomi-halter.vroid
 naomi-harness.vroid
 naomi-haunted.vroid
@@ -309,6 +310,7 @@ naomi-purple-3.vroid
 naomi-purple-4.vroid
 naomi-purple.vroid
 naomi-pyjamas.vroid
+naomi-pyromancer.vroid
 naomi-qipao.vroid
 naomi-rabbit.vroid
 naomi-rags.vroid
@@ -399,6 +401,7 @@ naomi-sundress-2.vroid
 naomi-sundress-3.vroid
 naomi-sundress-4.vroid
 naomi-sundress.vroid
+naomi-suspenders.vroid
 naomi-sweater.vroid
 naomi-sweatshirt.vroid
 naomi-swim.vroid

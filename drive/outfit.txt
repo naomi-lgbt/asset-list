@@ -176,6 +176,7 @@ gym.png
 hacker.png
 hakama.png
 half-shoulder.png
+half-vest.png
 halter.png
 harness.png
 haunted.png
@@ -309,6 +310,7 @@ purple-3.png
 purple-4.png
 purple.png
 pyjamas.png
+pyromancer.png
 qipao.png
 rabbit.png
 rags.png
@@ -399,6 +401,7 @@ sundress-2.png
 sundress-3.png
 sundress-4.png
 sundress.png
+suspenders.png
 sweater.png
 sweatshirt.png
 swim.png
