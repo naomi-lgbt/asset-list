@@ -89,4 +89,5 @@ module.exports = [
   "verosika",
   "vroid",
   "elementalist",
+  "pyromancer",
 ];

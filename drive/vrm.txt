@@ -176,6 +176,7 @@ Naomi (Gym).vrm
 Naomi (Hacker).vrm
 Naomi (Hakama).vrm
 Naomi (Half Shoulder).vrm
+Naomi (Half Vest).vrm
 Naomi (Halter).vrm
 Naomi (Harness).vrm
 Naomi (Haunted).vrm
@@ -309,6 +310,7 @@ Naomi (Purple 3).vrm
 Naomi (Purple 4).vrm
 Naomi (Purple).vrm
 Naomi (Pyjamas).vrm
+Naomi (Pyromancer).vrm
 Naomi (Qipao).vrm
 Naomi (Rabbit).vrm
 Naomi (Rags).vrm
@@ -399,6 +401,7 @@ Naomi (Sundress 2).vrm
 Naomi (Sundress 3).vrm
 Naomi (Sundress 4).vrm
 Naomi (Sundress).vrm
+Naomi (Suspenders).vrm
 Naomi (Sweater).vrm
 Naomi (Sweatshirt).vrm
 Naomi (Swim).vrm

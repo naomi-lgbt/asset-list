@@ -3667,5 +3667,32 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/4001920"
     }
+  },
+  {
+    "name": "Half-Vested Dress",
+    "fileName": "half-vest.png",
+    "description": "Elegant enough for nobility, but loose enough to allow for swordplay if needed.",
+    "alt": "Naomi wearing a blue sleeveless dress with a white ruffled underskirt and a white best on her left side.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5215258"
+    }
+  },
+  {
+    "name": "Pyromancer Dress",
+    "fileName": "pyromancer.png",
+    "description": "Channelling the inner flame, this dress unlocks her ability to summon demons and other denizens of the underworld.",
+    "alt": "Naomi wearing a black dress with flaming patterns.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5215200"
+    }
+  },
+  {
+    "name": "Suspenders",
+    "fileName": "suspenders.png",
+    "description": "It's formal and elegant, but not restrictive so she can still fight.",
+    "alt": "Naomi wearing a red button up shirt and black slacks with black suspenders.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5208734"
+    }
   }
 ]
