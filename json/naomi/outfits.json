@@ -3694,5 +3694,80 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5208734"
     }
+  },
+  {
+    "name": "Dress with Cut-outs",
+    "fileName": "slit-2.png",
+    "description": "It might walk the line of too revealing, but she found it rather cute.",
+    "alt": "Naomi wearing a red dress with slots cut out of the chest, sleeves, and hips.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5233713"
+    }
+  },
+  {
+    "name": "Blazer",
+    "fileName": "blazer.png",
+    "description": "Comfortable, but still professional enough for the office.",
+    "alt": "Naomi wearing a pink blazer jacket and pencil skirt.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5233000",
+      "skirt": "https://booth.pm/en/items/5233084"
+    }
+  },
+  {
+    "name": "Doily Dress",
+    "fileName": "doily.png",
+    "description": "Yes, it does remind her of those things that typically go on the dining table.",
+    "alt": "Naomi wearing a white dress with a lace hem and separated lace sleeves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5229675"
+    }
+  },
+  {
+    "name": "Knit Sweater",
+    "fileName": "knit.png",
+    "description": "Warm and cosy, and still cute!",
+    "alt": "Naomi wearing a cream coloured knit sweater, and a black pleated skirt with a flower pattern on a single pleat.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5229980",
+      "skirt": "https://booth.pm/en/items/5200839"
+    }
+  },
+  {
+    "name": "Idol Dress",
+    "fileName": "idol.png",
+    "description": "She can't sing, but maybe one day?",
+    "alt": "Naomi wearing a white shirt with a blue vest, and a blue and black pleated skirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5226323"
+    }
+  },
+  {
+    "name": "Flower Ninja",
+    "fileName": "ninja.png",
+    "description": "Great for when she needs to be stealthy, but still prepared for hand-to-hand combat.",
+    "alt": "Naomi wearing a grey body suit with pink flowers, and a red cape.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5229132",
+      "cape": "https://booth.pm/en/items/5220421"
+    }
+  },
+  {
+    "name": "Queen Gown",
+    "fileName": "queen.png",
+    "description": "She is the queen of the night.",
+    "alt": "Naomi wearing a purple dress with gold accents and a black under-skirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5178553"
+    }
+  },
+  {
+    "name": "Paladin Armour",
+    "fileName": "paladin.png",
+    "description": "She is the holy protector of the realm.",
+    "alt": "Naomi wearing a red suit of armour with a purple cape.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5192127"
+    }
   }
 ]

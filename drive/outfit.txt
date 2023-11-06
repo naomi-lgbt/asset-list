@@ -35,6 +35,7 @@ biker.png
 bikini.png
 bites.png
 black.png
+blazer.png
 blood.png
 bloody.png
 blouse.png
@@ -114,6 +115,7 @@ dancer.png
 dark-mage.png
 demon.png
 devil.png
+doily.png
 dreamy.png
 dress.png
 drippy.png
@@ -189,6 +191,7 @@ hentai.png
 holy.png
 hoodie-2.png
 hoodie.png
+idol.png
 ivy.png
 jeans.png
 jinbei.png
@@ -202,6 +205,7 @@ kimono-4.png
 kimono.png
 kitty.png
 knight.png
+knit.png
 kyonshi.png
 lace-2.png
 lace.png
@@ -261,6 +265,7 @@ neglige.png
 newyear.png
 night.png
 nina.png
+ninja.png
 nurse-2.png
 nurse.png
 ocean.png
@@ -276,6 +281,7 @@ overcoat.png
 overlord.png
 overwatch.png
 paimon.png
+paladin.png
 panda.png
 party.png
 pastel.png
@@ -312,6 +318,7 @@ purple.png
 pyjamas.png
 pyromancer.png
 qipao.png
+queen.png
 rabbit.png
 rags.png
 rainbow.png
@@ -363,6 +370,7 @@ sleep.png
 sleeveless.png
 slim.png
 slime.png
+slit-2.png
 slit.png
 snake.png
 snow.png
