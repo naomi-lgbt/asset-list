@@ -35,6 +35,7 @@ naomi-biker.vroid
 naomi-bikini.vroid
 naomi-bites.vroid
 naomi-black.vroid
+naomi-blazer.vroid
 naomi-blood.vroid
 naomi-bloody.vroid
 naomi-blouse.vroid
@@ -114,6 +115,7 @@ naomi-dancer.vroid
 naomi-dark-mage.vroid
 naomi-demon.vroid
 naomi-devil.vroid
+naomi-doily.vroid
 naomi-dreamy.vroid
 naomi-dress.vroid
 naomi-drippy.vroid
@@ -189,6 +191,7 @@ naomi-hentai.vroid
 naomi-holy.vroid
 naomi-hoodie-2.vroid
 naomi-hoodie.vroid
+naomi-idol.vroid
 naomi-ivy.vroid
 naomi-jeans.vroid
 naomi-jinbei.vroid
@@ -202,6 +205,7 @@ naomi-kimono-4.vroid
 naomi-kimono.vroid
 naomi-kitty.vroid
 naomi-knight.vroid
+naomi-knit.vroid
 naomi-kyonshi.vroid
 naomi-lace-2.vroid
 naomi-lace.vroid
@@ -261,6 +265,7 @@ naomi-neglige.vroid
 naomi-newyear.vroid
 naomi-night.vroid
 naomi-nina.vroid
+naomi-ninja.vroid
 naomi-nurse-2.vroid
 naomi-nurse.vroid
 naomi-ocean.vroid
@@ -276,6 +281,7 @@ naomi-overcoat.vroid
 naomi-overlord.vroid
 naomi-overwatch.vroid
 naomi-paimon.vroid
+naomi-paladin.vroid
 naomi-panda.vroid
 naomi-party.vroid
 naomi-pastel.vroid
@@ -312,6 +318,7 @@ naomi-purple.vroid
 naomi-pyjamas.vroid
 naomi-pyromancer.vroid
 naomi-qipao.vroid
+naomi-queen.vroid
 naomi-rabbit.vroid
 naomi-rags.vroid
 naomi-rainbow.vroid
@@ -363,6 +370,7 @@ naomi-sleep.vroid
 naomi-sleeveless.vroid
 naomi-slim.vroid
 naomi-slime.vroid
+naomi-slit-2.vroid
 naomi-slit.vroid
 naomi-snake.vroid
 naomi-snow.vroid
