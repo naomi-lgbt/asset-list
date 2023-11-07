@@ -35,7 +35,7 @@
     "@types/string-similarity": "4.0.1",
     "@types/xml2js": "0.4.13",
     "chai": "4.3.10",
-    "cspell": "7.3.8",
+    "cspell": "7.3.9",
     "eslint": "8.53.0",
     "mocha": "10.2.0",
     "prettier": "2.8.8",
