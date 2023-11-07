@@ -3769,5 +3769,134 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5192127"
     }
+  },
+  {
+    "name": "Training Gear",
+    "fileName": "training.png",
+    "description": "Her standard attire for practising her martial arts.",
+    "alt": "Naomi wearing tight red sweat pants and a tight red crop-top with a black under-shirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5218991"
+    }
+  },
+  {
+    "name": "China Dress",
+    "fileName": "china.png",
+    "description": "The design reminds her of a set of fine china.",
+    "alt": "Naomi wearing a black ruffled dress and a white overcoat with a lace pattern.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5112882"
+    }
+  },
+  {
+    "name": "Wardrobe Malfunction",
+    "fileName": "malfunction.png",
+    "description": "This is very much not a good day for her.",
+    "alt": "Naomi wearing a dress made from a tattered curtain.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5106971"
+    }
+  },
+  {
+    "name": "Astromancer Robes",
+    "fileName": "astromancer.png",
+    "description": "Bending time and space to her will.",
+    "alt": "Naomi weraing a black dress with a purple hem, black and purple striped socks, and a blue robe with a space pattern.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5092431"
+    }
+  },
+  {
+    "name": "Alternative Punk",
+    "fileName": "alt.png",
+    "description": "She likes the pentagrams and hearts in the design.",
+    "alt": "Naomi wearing a black tube top with pentagram straps, a fishnet top, black shorts with a heart belt buckle, and black socks with hearts and pentagrams.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5092428"
+    }
+  },
+  {
+    "name": "Midnight Butterfly",
+    "fileName": "butterfly-4.png",
+    "description": "A butterfly in the darkness has a unique beauty to it. This dress captures that.",
+    "alt": "Naomi wearing a blue and purple dress with a butterfly pattern and separated sleeves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5092496"
+    }
+  },
+  {
+    "name": "Riding Cloak",
+    "fileName": "cloak.png",
+    "description": "Not much of a cloak, but keeps her warm when hunkered down riding a horse.",
+    "alt": "Naomi wearing a red cloak/cape and a black dress with red accents.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4428860"
+    }
+  },
+  {
+    "name": "Camisole with Hoodie",
+    "fileName": "camisole.png",
+    "description": "It's quite comfortable, but still cute enough that she can leave the house in it.",
+    "alt": "Naomi wearing a purple camisole, pink mesh skirt, and black off-shoulder hoodie.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4708389",
+      "skirt": "https://booth.pm/en/items/4970626",
+      "hoodie": "https://booth.pm/en/items/4709941"
+    }
+  },
+  {
+    "name": "Cyber Outfit",
+    "fileName": "cyber.png",
+    "description": "The cybernetic enhancements allow her to move faster. But it still technically complies with academy uniform regulations.",
+    "alt": "Naomi wearing a black school uniform with purple glowing accents.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3231813"
+    }
+  },
+  {
+    "name": "Artoria Pendragon Cosplay",
+    "fileName": "artoria.png",
+    "description": "Her childhood name was Altria, but she has been known as King Arthur since her coronation.",
+    "alt": "Naomi wearing a cosplay of Artoria Pendragon from Fate: Grand Order.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3220067"
+    }
+  },
+  {
+    "name": "Ceremonial Uniform",
+    "fileName": "ceremony.png",
+    "description": "This was the standard uniform for important events at the Academy, such as graduation galas.",
+    "alt": "Naomi wearing a black and white dress with a red tie and matching separated sleeves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5148221"
+    }
+  },
+  {
+    "name": "Waiter Uniform",
+    "fileName": "waiter.png",
+    "description": "She had a part time job to help fund her studies at the academy...",
+    "alt": "Naomi wearing a sleevless white shirt with a black corset and black slacks.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5234580",
+      "pants": "https://store.steampowered.com/app/1486350/VRoid_Studio_v1190/"
+    }
+  },
+  {
+    "name": "Yet Another Maid Dress",
+    "fileName": "maid-5.png",
+    "description": "She has enough of these now that they are all starting to blend together.",
+    "alt": "Naomi wearing a traditional black and white french maid outfit.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5228709"
+    }
+  },
+  {
+    "name": "Upperclass Uniform",
+    "fileName": "upperclass.png",
+    "description": "This was the uniform for her last couple of years at the academy.",
+    "alt": "Naomi wearing a white shirt with a purple corset, coat, and pleated skirt, and black translucent stockings.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5224823"
+    }
   }
 ]
