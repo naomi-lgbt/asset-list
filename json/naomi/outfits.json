@@ -3801,7 +3801,7 @@
     "name": "Astromancer Robes",
     "fileName": "astromancer.png",
     "description": "Bending time and space to her will.",
-    "alt": "Naomi weraing a black dress with a purple hem, black and purple striped socks, and a blue robe with a space pattern.",
+    "alt": "Naomi wearing a black dress with a purple hem, black and purple striped socks, and a blue robe with a space pattern.",
     "credits": {
       "outfit": "https://booth.pm/en/items/5092431"
     }
@@ -3875,7 +3875,7 @@
     "name": "Waiter Uniform",
     "fileName": "waiter.png",
     "description": "She had a part time job to help fund her studies at the academy...",
-    "alt": "Naomi wearing a sleevless white shirt with a black corset and black slacks.",
+    "alt": "Naomi wearing a sleeveless white shirt with a black corset and black slacks.",
     "credits": {
       "top": "https://booth.pm/en/items/5234580",
       "pants": "https://store.steampowered.com/app/1486350/VRoid_Studio_v1190/"
@@ -3995,8 +3995,8 @@
   {
     "name": "Barbarian Armour",
     "fileName": "barbarian.png",
-    "description": "Sometimes the situation calls for wonton violence and bloodshed. This armour is for those situations.",
-    "alt": "Naomi wearing a black chestplate with black leather wrist and ankle guards and a white fur cape.",
+    "description": "Sometimes the situation calls for wanton violence and bloodshed. This armour is for those situations.",
+    "alt": "Naomi wearing a black chest plate with black leather wrist and ankle guards and a white fur cape.",
     "credits": {
       "outfit": "https://booth.pm/en/items/5236452"
     }
@@ -4014,7 +4014,7 @@
     "name": "Combat Bandages",
     "fileName": "bandages.png",
     "description": "The bandages protect her during melee combat. The dress just makes it look like a proper outfit.",
-    "alt": "Naomi wearing a yellow cheongsame and cloth bandages across her entire body.",
+    "alt": "Naomi wearing a yellow cheongsam and cloth bandages across her entire body.",
     "credits": {
       "outfit": "https://booth.pm/en/items/5100439"
     }
