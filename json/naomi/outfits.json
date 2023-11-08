@@ -3898,5 +3898,98 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5224823"
     }
+  },
+  {
+    "name": "Nebula Top",
+    "fileName": "nebula.png",
+    "description": "Naomi is a sucker for anything space themed.",
+    "alt": "Naomi wearing a tank top with a space pattern and a pink ruffled skirt.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4983085",
+      "skirt": "https://booth.pm/en/items/4774897"
+    }
+  },
+  {
+    "name": "Hot Weather Outfit",
+    "fileName": "hot.png",
+    "description": "She overheats quite easily, so it's important to be able to cool down.",
+    "alt": "Naomi wearing a black crop top and matching short shorts.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4967856"
+    }
+  },
+  {
+    "name": "Laced Top",
+    "fileName": "laced.png",
+    "description": "Both comfy and flirty, she's quite fond of this outfit.",
+    "alt": "Naomi wearing a laced black and purple corset top and a black pleated skirt.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4989698",
+      "skirt": "https://booth.pm/en/items/5034865"
+    }
+  },
+  {
+    "name": "Fractured Ice",
+    "fileName": "ice.png",
+    "description": "The broken glass/ice pattern really attracted her.",
+    "alt": "Naomi wearing a white dress with a blue icy shattered pattern.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5081073"
+    }
+  },
+  {
+    "name": "Winter Coat",
+    "fileName": "cold.png",
+    "description": "Keeps her warmer in the winter while still meeting the academy's dress code.",
+    "alt": "Naomi wearing a red sweater with a pink scarf and a dark red skirt with a pink hem.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5032760"
+    }
+  },
+  {
+    "name": "Chain Hoodie",
+    "fileName": "chain-2.png",
+    "description": "This may not be the first cropped hoodie in her wardrobe, but she's falling more in love with the style.",
+    "alt": "Naomi wearing a cropped black hoodie with chains connecting to her black skirt, and a black tube top.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5001719"
+    }
+  },
+  {
+    "name": "Button-Up Blouse",
+    "fileName": "buttonup.png",
+    "description": "Walking the line between business and casual.",
+    "alt": "Naomi wearing a blue button-up blouse and a brown skirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5159258"
+    }
+  },
+  {
+    "name": "Shinobi Garb",
+    "fileName": "shinobi.png",
+    "description": "Stealthy and quiet, the ease of movement allows her to quickly complete a mission.",
+    "alt": "Naomi wearing a blue velvet coat and blue loose-fitting velvet pants.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5165870"
+    }
+  },
+  {
+    "name": "Hooded Jacket",
+    "fileName": "jacket.png",
+    "description": "She can quickly remove the jacket if she needs to cool down. Or make a run for it.",
+    "alt": "Naomi wearing a black sports bra and shorts, with black stockings, and a black and red zip-up hoodie.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5228765",
+      "shorts": "https://booth.pm/en/items/5147354"
+    }
+  },
+  {
+    "name": "Military Police",
+    "fileName": "police.png",
+    "description": "She served on the police force at the military academy - usually to cover up her own mischief.",
+    "alt": "Naomi wearing a blue button up shirt, dark blue formal jacket with a police emblem, and dark blue slacks.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5235483"
+    }
   }
 ]
