@@ -171,7 +171,13 @@ suite("Data Validation:", () => {
           }
         }
         const set = new Set(urls);
-        assert.strictEqual(set.size, urls.length);
+        assert.strictEqual(
+          set.size,
+          urls.length,
+          `The following outfit components are duplicated: ${urls.filter(
+            (u, i) => urls.indexOf(u) !== i
+          )}`
+        );
       });
     }
   });

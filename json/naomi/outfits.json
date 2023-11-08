@@ -3769,5 +3769,272 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5192127"
     }
+  },
+  {
+    "name": "Training Gear",
+    "fileName": "training.png",
+    "description": "Her standard attire for practising her martial arts.",
+    "alt": "Naomi wearing tight red sweat pants and a tight red crop-top with a black under-shirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5218991"
+    }
+  },
+  {
+    "name": "Wardrobe Malfunction",
+    "fileName": "malfunction.png",
+    "description": "This is very much not a good day for her.",
+    "alt": "Naomi wearing a dress made from a tattered curtain.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5106971"
+    }
+  },
+  {
+    "name": "Astromancer Robes",
+    "fileName": "astromancer.png",
+    "description": "Bending time and space to her will.",
+    "alt": "Naomi wearing a black dress with a purple hem, black and purple striped socks, and a blue robe with a space pattern.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5092431"
+    }
+  },
+  {
+    "name": "Alternative Punk",
+    "fileName": "alt.png",
+    "description": "She likes the pentagrams and hearts in the design.",
+    "alt": "Naomi wearing a black tube top with pentagram straps, a fishnet top, black shorts with a heart belt buckle, and black socks with hearts and pentagrams.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5092428"
+    }
+  },
+  {
+    "name": "Midnight Butterfly",
+    "fileName": "butterfly-4.png",
+    "description": "A butterfly in the darkness has a unique beauty to it. This dress captures that.",
+    "alt": "Naomi wearing a blue and purple dress with a butterfly pattern and separated sleeves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5092496"
+    }
+  },
+  {
+    "name": "Riding Cloak",
+    "fileName": "cloak.png",
+    "description": "Not much of a cloak, but keeps her warm when hunkered down riding a horse.",
+    "alt": "Naomi wearing a red cloak/cape and a black dress with red accents.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4428860"
+    }
+  },
+  {
+    "name": "Camisole with Hoodie",
+    "fileName": "camisole.png",
+    "description": "It's quite comfortable, but still cute enough that she can leave the house in it.",
+    "alt": "Naomi wearing a purple camisole, black sweat pants with purple glitter and bands, and black off-shoulder hoodie.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4708389",
+      "pants": "https://booth.pm/en/items/4062086",
+      "hoodie": "https://booth.pm/en/items/4709941"
+    }
+  },
+  {
+    "name": "Cyber Outfit",
+    "fileName": "cyber.png",
+    "description": "The cybernetic enhancements allow her to move faster. But it still technically complies with academy uniform regulations.",
+    "alt": "Naomi wearing a black school uniform with purple glowing accents.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3231813"
+    }
+  },
+  {
+    "name": "Artoria Pendragon Cosplay",
+    "fileName": "artoria.png",
+    "description": "Her childhood name was Altria, but she has been known as King Arthur since her coronation.",
+    "alt": "Naomi wearing a cosplay of Artoria Pendragon from Fate: Grand Order.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3220067"
+    }
+  },
+  {
+    "name": "Ceremonial Uniform",
+    "fileName": "ceremony.png",
+    "description": "This was the standard uniform for important events at the Academy, such as graduation galas.",
+    "alt": "Naomi wearing a black and white dress with a red tie and matching separated sleeves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5148221"
+    }
+  },
+  {
+    "name": "Waiter Uniform",
+    "fileName": "waiter.png",
+    "description": "She had a part time job to help fund her studies at the academy...",
+    "alt": "Naomi wearing a sleeveless white shirt with a black corset and black slacks.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5234580",
+      "pants": "https://store.steampowered.com/app/1486350/VRoid_Studio_v1190/"
+    }
+  },
+  {
+    "name": "Yet Another Maid Dress",
+    "fileName": "maid-5.png",
+    "description": "She has enough of these now that they are all starting to blend together.",
+    "alt": "Naomi wearing a traditional black and white french maid outfit.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5228709"
+    }
+  },
+  {
+    "name": "Upperclass Uniform",
+    "fileName": "upperclass.png",
+    "description": "This was the uniform for her last couple of years at the academy.",
+    "alt": "Naomi wearing a white shirt with a purple corset, coat, and pleated skirt, and black translucent stockings.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5224823"
+    }
+  },
+  {
+    "name": "Nebula Top",
+    "fileName": "nebula.png",
+    "description": "Naomi is a sucker for anything space themed.",
+    "alt": "Naomi wearing a tank top with a space pattern and a pink ruffled skirt.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4983085",
+      "skirt": "https://booth.pm/en/items/4774897"
+    }
+  },
+  {
+    "name": "Hot Weather Outfit",
+    "fileName": "hot.png",
+    "description": "She overheats quite easily, so it's important to be able to cool down.",
+    "alt": "Naomi wearing a black crop top and matching short shorts.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4967856"
+    }
+  },
+  {
+    "name": "Laced Top",
+    "fileName": "laced.png",
+    "description": "Both comfy and flirty, she's quite fond of this outfit.",
+    "alt": "Naomi wearing a laced black and purple corset top and a black pleated skirt.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4989698",
+      "skirt": "https://booth.pm/en/items/5034865"
+    }
+  },
+  {
+    "name": "Fractured Ice",
+    "fileName": "ice.png",
+    "description": "The broken glass/ice pattern really attracted her.",
+    "alt": "Naomi wearing a white dress with a blue icy shattered pattern.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5081073"
+    }
+  },
+  {
+    "name": "Winter Coat",
+    "fileName": "cold.png",
+    "description": "Keeps her warmer in the winter while still meeting the academy's dress code.",
+    "alt": "Naomi wearing a red sweater with a pink scarf and a dark red skirt with a pink hem.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5032760"
+    }
+  },
+  {
+    "name": "Chain Hoodie",
+    "fileName": "chain-2.png",
+    "description": "This may not be the first cropped hoodie in her wardrobe, but she's falling more in love with the style.",
+    "alt": "Naomi wearing a cropped black hoodie with chains connecting to her black skirt, and a black tube top.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5001719"
+    }
+  },
+  {
+    "name": "Button-Up Blouse",
+    "fileName": "buttonup.png",
+    "description": "Walking the line between business and casual.",
+    "alt": "Naomi wearing a blue button-up blouse and a brown skirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5159258"
+    }
+  },
+  {
+    "name": "Shinobi Garb",
+    "fileName": "shinobi.png",
+    "description": "Stealthy and quiet, the ease of movement allows her to quickly complete a mission.",
+    "alt": "Naomi wearing a blue velvet coat and blue loose-fitting velvet pants.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5165870"
+    }
+  },
+  {
+    "name": "Hooded Jacket",
+    "fileName": "jacket.png",
+    "description": "She can quickly remove the jacket if she needs to cool down. Or make a run for it.",
+    "alt": "Naomi wearing a black sports bra and shorts, with black stockings, and a black and red zip-up hoodie.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5228765",
+      "shorts": "https://booth.pm/en/items/5147354"
+    }
+  },
+  {
+    "name": "Military Police",
+    "fileName": "police.png",
+    "description": "She served on the police force at the military academy - usually to cover up her own mischief.",
+    "alt": "Naomi wearing a blue button up shirt, dark blue formal jacket with a police emblem, and dark blue slacks.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5235483"
+    }
+  },
+  {
+    "name": "Barbarian Armour",
+    "fileName": "barbarian.png",
+    "description": "Sometimes the situation calls for wanton violence and bloodshed. This armour is for those situations.",
+    "alt": "Naomi wearing a black chest plate with black leather wrist and ankle guards and a white fur cape.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5236452"
+    }
+  },
+  {
+    "name": "Yakuza Outfit",
+    "fileName": "yakuza.png",
+    "description": "She did do a brief bit of time with the mafia, yes.",
+    "alt": "Naomi wearing a black trench coat, black flared pants, and a red under-shirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5065623"
+    }
+  },
+  {
+    "name": "Combat Bandages",
+    "fileName": "bandages.png",
+    "description": "The bandages protect her during melee combat. The dress just makes it look like a proper outfit.",
+    "alt": "Naomi wearing a yellow cheongsam and cloth bandages across her entire body.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5100439"
+    }
+  },
+  {
+    "name": "Unicorn Constellation Dress",
+    "fileName": "unicorn.png",
+    "description": "Her star sign is technically cancer, but she pretends it's a unicorn instead.",
+    "alt": "Naomi wearing a purple dress with a galaxy pattern, a unicorn on the skirt, and white sleeves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4798411"
+    }
+  },
+  {
+    "name": "Patterned Outfit",
+    "fileName": "pattern.png",
+    "description": "All of the different patterns might be a bit much, but it's what caught her eye.",
+    "alt": "Naomi wearing a grey t-shirt with a star pattern, fishnet gloves and stockings, a plaid grey skirt, checker board sleeves, and gradient stockings.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4844098"
+    }
+  },
+  {
+    "name": "Lilac Daisy Dress",
+    "fileName": "lilac.png",
+    "description": "The daisies on the mesh lilac background have a nice charm.",
+    "alt": "Naomi wearing a mesh purple dress with daisies on it.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4528837"
+    }
   }
 ]

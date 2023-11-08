@@ -90,4 +90,9 @@ module.exports = [
   "vroid",
   "elementalist",
   "pyromancer",
+  "astromancer",
+  "artoria",
+  "pendragon",
+  "upperclass",
+  "shinobi",
 ];
