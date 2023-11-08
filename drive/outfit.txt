@@ -3,6 +3,7 @@ academy.png
 admiral.png
 aikido.png
 alice.png
+alt.png
 angel.png
 anime.png
 apocalypse.png
@@ -13,11 +14,15 @@ ara-ara.png
 arachnid.png
 arcane.png
 armour.png
+artoria.png
 assassin.png
+astromancer.png
 asymmetrical.png
 baggy.png
 ball.png
 ballgown.png
+bandages.png
+barbarian.png
 barcode.png
 barmaid.png
 baroque.png
@@ -56,7 +61,10 @@ business.png
 butler.png
 butterfly-2.png
 butterfly-3.png
+butterfly-4.png
 butterfly.png
+buttonup.png
+camisole.png
 cardigan-2.png
 cardigan.png
 casual-2.png
@@ -64,6 +72,8 @@ casual.png
 cat.png
 catgirl.png
 celestial.png
+ceremony.png
+chain-2.png
 chain.png
 champion.png
 cheer.png
@@ -73,15 +83,18 @@ cheongsam.png
 chiffon.png
 chihiro.png
 chill.png
+china.png
 christmas-2.png
 christmas.png
 chunli.png
 circus.png
 classy.png
 cleric.png
+cloak.png
 clockwork.png
 cocktail-2.png
 cocktail.png
+cold.png
 combat.png
 comfy.png
 commando.png
@@ -101,6 +114,7 @@ crystal-2.png
 crystal.png
 cum.png
 cute.png
+cyber.png
 cyberdress.png
 cybergoth.png
 cybermaid.png
@@ -191,8 +205,11 @@ hentai.png
 holy.png
 hoodie-2.png
 hoodie.png
+hot.png
+ice.png
 idol.png
 ivy.png
+jacket.png
 jeans.png
 jinbei.png
 jinx.png
@@ -209,6 +226,7 @@ knit.png
 kyonshi.png
 lace-2.png
 lace.png
+laced.png
 latex-2.png
 latex.png
 laundry.png
@@ -239,8 +257,10 @@ magpie.png
 maid-2.png
 maid-3.png
 maid-4.png
+maid-5.png
 maid.png
 makima.png
+malfunction.png
 maroon.png
 marquis.png
 meeting.png
@@ -260,6 +280,7 @@ monochrome.png
 moon.png
 mummy.png
 murder.png
+nebula.png
 necromancer.png
 neglige.png
 newyear.png
@@ -285,6 +306,7 @@ paladin.png
 panda.png
 party.png
 pastel.png
+pattern.png
 peacock.png
 pencil.png
 penguin.png
@@ -298,6 +320,7 @@ pirate-2.png
 pirate.png
 plaid-2.png
 plaid.png
+police.png
 poolside.png
 power.png
 preppy.png
@@ -356,6 +379,7 @@ school.png
 shaman.png
 shark.png
 shawl.png
+shinobi.png
 shiny.png
 shortcake.png
 shoulder.png
@@ -423,6 +447,7 @@ torn.png
 towel.png
 toxic.png
 tracksuit.png
+training.png
 trans-2.png
 trans.png
 trench.png
@@ -430,6 +455,8 @@ trenchcoat.png
 turtleneck-2.png
 turtleneck.png
 ugly.png
+unicorn.png
+upperclass.png
 usagi.png
 uwu.png
 valentine-2.png
@@ -450,6 +477,7 @@ virgin-killer-2.png
 virgin-killer.png
 vroid.png
 waistcoat.png
+waiter.png
 warlock.png
 warm.png
 warrior.png
@@ -462,6 +490,7 @@ witch-3.png
 witch.png
 wizard.png
 workout.png
+yakuza.png
 yor.png
 yukata.png
 zen.png

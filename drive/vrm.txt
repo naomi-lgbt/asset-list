@@ -3,6 +3,7 @@ Naomi (Academy).vrm
 Naomi (Admiral).vrm
 Naomi (Aikido).vrm
 Naomi (Alice).vrm
+Naomi (Alt).vrm
 Naomi (Angel).vrm
 Naomi (Anime).vrm
 Naomi (Apocalypse).vrm
@@ -13,11 +14,15 @@ Naomi (Ara Ara).vrm
 Naomi (Arachnid).vrm
 Naomi (Arcane).vrm
 Naomi (Armour).vrm
+Naomi (Artoria).vrm
 Naomi (Assassin).vrm
+Naomi (Astromancer).vrm
 Naomi (Asymmetrical).vrm
 Naomi (Baggy).vrm
 Naomi (Ball).vrm
 Naomi (Ballgown).vrm
+Naomi (Bandages).vrm
+Naomi (Barbarian).vrm
 Naomi (Barcode).vrm
 Naomi (Barmaid).vrm
 Naomi (Baroque).vrm
@@ -56,7 +61,10 @@ Naomi (Business).vrm
 Naomi (Butler).vrm
 Naomi (Butterfly 2).vrm
 Naomi (Butterfly 3).vrm
+Naomi (Butterfly 4).vrm
 Naomi (Butterfly).vrm
+Naomi (Buttonup).vrm
+Naomi (Camisole).vrm
 Naomi (Cardigan 2).vrm
 Naomi (Cardigan).vrm
 Naomi (Casual 2).vrm
@@ -64,6 +72,8 @@ Naomi (Casual).vrm
 Naomi (Cat).vrm
 Naomi (Catgirl).vrm
 Naomi (Celestial).vrm
+Naomi (Ceremony).vrm
+Naomi (Chain 2).vrm
 Naomi (Chain).vrm
 Naomi (Champion).vrm
 Naomi (Cheer).vrm
@@ -73,15 +83,18 @@ Naomi (Cheongsam).vrm
 Naomi (Chiffon).vrm
 Naomi (Chihiro).vrm
 Naomi (Chill).vrm
+Naomi (China).vrm
 Naomi (Christmas 2).vrm
 Naomi (Christmas).vrm
 Naomi (ChunLi).vrm
 Naomi (Circus).vrm
 Naomi (Classy).vrm
 Naomi (Cleric).vrm
+Naomi (Cloak).vrm
 Naomi (Clockwork).vrm
 Naomi (Cocktail 2).vrm
 Naomi (Cocktail).vrm
+Naomi (Cold).vrm
 Naomi (Combat).vrm
 Naomi (Comfy).vrm
 Naomi (Commando).vrm
@@ -101,6 +114,7 @@ Naomi (Crystal 2).vrm
 Naomi (Crystal).vrm
 Naomi (Cum).vrm
 Naomi (Cute).vrm
+Naomi (Cyber).vrm
 Naomi (Cyberdress).vrm
 Naomi (Cybergoth).vrm
 Naomi (Cybermaid).vrm
@@ -191,8 +205,11 @@ Naomi (Hentai).vrm
 Naomi (Holy).vrm
 Naomi (Hoodie 2).vrm
 Naomi (Hoodie).vrm
+Naomi (Hot).vrm
+Naomi (Ice).vrm
 Naomi (Idol).vrm
 Naomi (Ivy).vrm
+Naomi (Jacket).vrm
 Naomi (Jeans).vrm
 Naomi (Jinbei).vrm
 Naomi (Jinx).vrm
@@ -209,6 +226,7 @@ Naomi (Knit).vrm
 Naomi (Kyonshi).vrm
 Naomi (Lace 2).vrm
 Naomi (Lace).vrm
+Naomi (Laced).vrm
 Naomi (Latex 2).vrm
 Naomi (Latex).vrm
 Naomi (Laundry).vrm
@@ -239,8 +257,10 @@ Naomi (Magpie).vrm
 Naomi (Maid 2).vrm
 Naomi (Maid 3).vrm
 Naomi (Maid 4).vrm
+Naomi (Maid 5).vrm
 Naomi (Maid).vrm
 Naomi (Makima).vrm
+Naomi (Malfunction).vrm
 Naomi (Maroon).vrm
 Naomi (Marquis).vrm
 Naomi (Meeting).vrm
@@ -260,6 +280,7 @@ Naomi (Monochrome).vrm
 Naomi (Moon).vrm
 Naomi (Mummy).vrm
 Naomi (Murder).vrm
+Naomi (Nebula).vrm
 Naomi (Necromancer).vrm
 Naomi (Neglige).vrm
 Naomi (NewYear).vrm
@@ -285,6 +306,7 @@ Naomi (Paladin).vrm
 Naomi (Panda).vrm
 Naomi (Party).vrm
 Naomi (Pastel).vrm
+Naomi (Pattern).vrm
 Naomi (Peacock).vrm
 Naomi (Pencil).vrm
 Naomi (Penguin).vrm
@@ -298,6 +320,7 @@ Naomi (Pirate 2).vrm
 Naomi (Pirate).vrm
 Naomi (Plaid 2).vrm
 Naomi (Plaid).vrm
+Naomi (Police).vrm
 Naomi (Poolside).vrm
 Naomi (Power).vrm
 Naomi (Preppy).vrm
@@ -356,6 +379,7 @@ Naomi (School).vrm
 Naomi (Shaman).vrm
 Naomi (Shark).vrm
 Naomi (Shawl).vrm
+Naomi (Shinobi).vrm
 Naomi (Shiny).vrm
 Naomi (Shortcake).vrm
 Naomi (Shoulder).vrm
@@ -423,6 +447,7 @@ Naomi (Torn).vrm
 Naomi (Towel).vrm
 Naomi (Toxic).vrm
 Naomi (Tracksuit).vrm
+Naomi (Training).vrm
 Naomi (Trans 2).vrm
 Naomi (Trans).vrm
 Naomi (Trench).vrm
@@ -430,6 +455,8 @@ Naomi (Trenchcoat).vrm
 Naomi (Turtleneck 2).vrm
 Naomi (Turtleneck).vrm
 Naomi (Ugly).vrm
+Naomi (Unicorn).vrm
+Naomi (Upperclass).vrm
 Naomi (Usagi).vrm
 Naomi (UwU).vrm
 Naomi (Valentine 2).vrm
@@ -450,6 +477,7 @@ Naomi (Virgin Killer 2).vrm
 Naomi (Virgin Killer).vrm
 Naomi (Vroid).vrm
 Naomi (Waistcoat).vrm
+Naomi (Waiter).vrm
 Naomi (Warlock).vrm
 Naomi (Warm).vrm
 Naomi (Warrior).vrm
@@ -462,6 +490,7 @@ Naomi (Witch 3).vrm
 Naomi (Witch).vrm
 Naomi (Wizard).vrm
 Naomi (Workout).vrm
+Naomi (Yakuza).vrm
 Naomi (Yor).vrm
 Naomi (Yukata).vrm
 Naomi (Zen).vrm
