@@ -32,7 +32,7 @@
     "@types/chai": "4.3.10",
     "@types/mocha": "10.0.4",
     "@types/node": "20.8.10",
-    "@types/string-similarity": "4.0.1",
+    "@types/string-similarity": "4.0.2",
     "@types/xml2js": "0.4.13",
     "chai": "4.3.10",
     "cspell": "7.3.9",
