@@ -83,7 +83,6 @@ naomi-cheongsam.vroid
 naomi-chiffon.vroid
 naomi-chihiro.vroid
 naomi-chill.vroid
-naomi-china.vroid
 naomi-christmas-2.vroid
 naomi-christmas.vroid
 naomi-chunli.vroid
@@ -237,6 +236,7 @@ naomi-leather-2.vroid
 naomi-leather.vroid
 naomi-leopard.vroid
 naomi-leotard.vroid
+naomi-lilac.vroid
 naomi-lingerie-2.vroid
 naomi-lingerie-3.vroid
 naomi-lingerie-4.vroid

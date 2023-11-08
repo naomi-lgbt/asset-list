@@ -3780,15 +3780,6 @@
     }
   },
   {
-    "name": "China Dress",
-    "fileName": "china.png",
-    "description": "The design reminds her of a set of fine china.",
-    "alt": "Naomi wearing a black ruffled dress and a white overcoat with a lace pattern.",
-    "credits": {
-      "outfit": "https://booth.pm/en/items/5112882"
-    }
-  },
-  {
     "name": "Wardrobe Malfunction",
     "fileName": "malfunction.png",
     "description": "This is very much not a good day for her.",

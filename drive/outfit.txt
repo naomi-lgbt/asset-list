@@ -83,7 +83,6 @@ cheongsam.png
 chiffon.png
 chihiro.png
 chill.png
-china.png
 christmas-2.png
 christmas.png
 chunli.png
@@ -237,6 +236,7 @@ leather-2.png
 leather.png
 leopard.png
 leotard.png
+lilac.png
 lingerie-2.png
 lingerie-3.png
 lingerie-4.png

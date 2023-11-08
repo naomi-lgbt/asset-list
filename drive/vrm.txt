@@ -83,7 +83,6 @@ Naomi (Cheongsam).vrm
 Naomi (Chiffon).vrm
 Naomi (Chihiro).vrm
 Naomi (Chill).vrm
-Naomi (China).vrm
 Naomi (Christmas 2).vrm
 Naomi (Christmas).vrm
 Naomi (ChunLi).vrm
@@ -237,6 +236,7 @@ Naomi (Leather 2).vrm
 Naomi (Leather).vrm
 Naomi (Leopard).vrm
 Naomi (Leotard).vrm
+Naomi (Lilac).vrm
 Naomi (Lingerie 2).vrm
 Naomi (Lingerie 3).vrm
 Naomi (Lingerie 4).vrm
