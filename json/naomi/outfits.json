@@ -3991,5 +3991,50 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5235483"
     }
+  },
+  {
+    "name": "Barbarian Armour",
+    "fileName": "barbarian.png",
+    "description": "Sometimes the situation calls for wonton violence and bloodshed. This armour is for those situations.",
+    "alt": "Naomi wearing a black chestplate with black leather wrist and ankle guards and a white fur cape.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5236452"
+    }
+  },
+  {
+    "name": "Yakuza Outfit",
+    "fileName": "yakuza.png",
+    "description": "She did do a brief bit of time with the mafia, yes.",
+    "alt": "Naomi wearing a black trench coat, black flared pants, and a red under-shirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5065623"
+    }
+  },
+  {
+    "name": "Combat Bandages",
+    "fileName": "bandages.png",
+    "description": "The bandages protect her during melee combat. The dress just makes it look like a proper outfit.",
+    "alt": "Naomi wearing a yellow cheongsame and cloth bandages across her entire body.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5100439"
+    }
+  },
+  {
+    "name": "Unicorn Constellation Dress",
+    "fileName": "unicorn.png",
+    "description": "Her star sign is technically cancer, but she pretends it's a unicorn instead.",
+    "alt": "Naomi wearing a purple dress with a galaxy pattern, a unicorn on the skirt, and white sleeves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4798411"
+    }
+  },
+  {
+    "name": "Patterned Outfit",
+    "fileName": "pattern.png",
+    "description": "All of the different patterns might be a bit much, but it's what caught her eye.",
+    "alt": "Naomi wearing a grey t-shirt with a star pattern, fishnet gloves and stockings, a plaid grey skirt, checker board sleeves, and gradient stockings.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4844098"
+    }
   }
 ]
