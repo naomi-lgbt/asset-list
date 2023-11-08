@@ -3837,10 +3837,10 @@
     "name": "Camisole with Hoodie",
     "fileName": "camisole.png",
     "description": "It's quite comfortable, but still cute enough that she can leave the house in it.",
-    "alt": "Naomi wearing a purple camisole, pink mesh skirt, and black off-shoulder hoodie.",
+    "alt": "Naomi wearing a purple camisole, black sweat pants with purple glitter and bands, and black off-shoulder hoodie.",
     "credits": {
       "top": "https://booth.pm/en/items/4708389",
-      "skirt": "https://booth.pm/en/items/4970626",
+      "pants": "https://booth.pm/en/items/4062086",
       "hoodie": "https://booth.pm/en/items/4709941"
     }
   },
@@ -4035,6 +4035,15 @@
     "alt": "Naomi wearing a grey t-shirt with a star pattern, fishnet gloves and stockings, a plaid grey skirt, checker board sleeves, and gradient stockings.",
     "credits": {
       "outfit": "https://booth.pm/en/items/4844098"
+    }
+  },
+  {
+    "name": "Lilac Daisy Dress",
+    "fileName": "lilac.png",
+    "description": "The daisies on the mesh lilac background have a nice charm.",
+    "alt": "Naomi wearing a mesh purple dress with daisies on it.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4528837"
     }
   }
 ]
