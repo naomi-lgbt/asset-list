@@ -55,6 +55,7 @@ naomi-brocade.vroid
 naomi-broken-heart.vroid
 naomi-bubbles.vroid
 naomi-bun.vroid
+naomi-bunmaid.vroid
 naomi-bunny-2.vroid
 naomi-bunny.vroid
 naomi-business.vroid
@@ -280,11 +281,13 @@ naomi-monochrome.vroid
 naomi-moon.vroid
 naomi-mummy.vroid
 naomi-murder.vroid
+naomi-n7.vroid
 naomi-nebula.vroid
 naomi-necromancer.vroid
 naomi-neglige.vroid
 naomi-newyear.vroid
 naomi-night.vroid
+naomi-nightgown.vroid
 naomi-nina.vroid
 naomi-ninja.vroid
 naomi-nurse-2.vroid
@@ -372,6 +375,7 @@ naomi-saint.vroid
 naomi-sakura-2.vroid
 naomi-sakura-3.vroid
 naomi-sakura.vroid
+naomi-santa.vroid
 naomi-sarashi.vroid
 naomi-scarlet.vroid
 naomi-school-2.vroid

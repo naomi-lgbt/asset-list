@@ -4036,5 +4036,44 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/4528837"
     }
+  },
+  {
+    "name": "Santa Dress",
+    "fileName": "santa.png",
+    "description": "She sees you when you're sleeping...",
+    "alt": "Naomi wearing a sleeveless Santa dress.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5241676"
+    }
+  },
+  {
+    "name": "Nightgown",
+    "fileName": "nightgown.png",
+    "description": "She doesn't actually sleep in it, but it's great for relaxing before bed.",
+    "alt": "Naomi wearing a long black frilled nightgown.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5240795"
+    }
+  },
+  {
+    "name": "N7 Outfit",
+    "fileName": "n7.png",
+    "description": "When she was accepted into the programme, she received this hoodie to wear during her training.",
+    "alt": "Naomi wearing a black hoodie with the N7 logo, and black leggings.",
+    "credits": {
+      "hoodie": "https://booth.pm/en/items/5244450",
+      "leggings": "https://store.steampowered.com/app/1486350/VRoid_Studio_v1241/"
+    }
+  },
+  {
+    "name": "Bunny Maid",
+    "fileName": "bunmaid.png",
+    "description": "The strangest uniform she's ever had to wear.",
+    "alt": "Naomi wearing a bunny suit with a mesh maid dress over it.",
+    "credits": {
+      "ears": "https://booth.pm/en/items/4101862",
+      "bodysuit": "https://booth.pm/en/items/5229002",
+      "dress": "https://booth.pm/en/items/5239763"
+    }
   }
 ]

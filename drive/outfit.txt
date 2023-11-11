@@ -55,6 +55,7 @@ brocade.png
 broken-heart.png
 bubbles.png
 bun.png
+bunmaid.png
 bunny-2.png
 bunny.png
 business.png
@@ -280,11 +281,13 @@ monochrome.png
 moon.png
 mummy.png
 murder.png
+n7.png
 nebula.png
 necromancer.png
 neglige.png
 newyear.png
 night.png
+nightgown.png
 nina.png
 ninja.png
 nurse-2.png
@@ -372,6 +375,7 @@ saint.png
 sakura-2.png
 sakura-3.png
 sakura.png
+santa.png
 sarashi.png
 scarlet.png
 school-2.png

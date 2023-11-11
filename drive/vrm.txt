@@ -55,6 +55,7 @@ Naomi (Brocade).vrm
 Naomi (Broken Heart).vrm
 Naomi (Bubbles).vrm
 Naomi (Bun).vrm
+Naomi (Bunmaid).vrm
 Naomi (Bunny 2).vrm
 Naomi (Bunny).vrm
 Naomi (Business).vrm
@@ -280,11 +281,13 @@ Naomi (Monochrome).vrm
 Naomi (Moon).vrm
 Naomi (Mummy).vrm
 Naomi (Murder).vrm
+Naomi (N7).vrm
 Naomi (Nebula).vrm
 Naomi (Necromancer).vrm
 Naomi (Neglige).vrm
 Naomi (NewYear).vrm
 Naomi (Night).vrm
+Naomi (Nightgown).vrm
 Naomi (Nina).vrm
 Naomi (Ninja).vrm
 Naomi (Nurse 2).vrm
@@ -372,6 +375,7 @@ Naomi (Saint).vrm
 Naomi (Sakura 2).vrm
 Naomi (Sakura 3).vrm
 Naomi (Sakura).vrm
+Naomi (Santa).vrm
 Naomi (Sarashi).vrm
 Naomi (Scarlet).vrm
 Naomi (School 2).vrm
