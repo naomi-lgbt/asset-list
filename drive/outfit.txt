@@ -19,6 +19,7 @@ assassin.png
 astromancer.png
 asymmetrical.png
 baggy.png
+bakery.png
 ball.png
 ballgown.png
 bandages.png
@@ -194,6 +195,7 @@ hakama.png
 half-shoulder.png
 half-vest.png
 halter.png
+harley.png
 harness.png
 haunted.png
 healer.png
@@ -375,6 +377,7 @@ saint.png
 sakura-2.png
 sakura-3.png
 sakura.png
+santa-2.png
 santa.png
 sarashi.png
 scarlet.png
@@ -496,6 +499,7 @@ wizard.png
 workout.png
 yakuza.png
 yor.png
+yukata-2.png
 yukata.png
 zen.png
 zero.png
