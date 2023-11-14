@@ -95,4 +95,5 @@ module.exports = [
   "pendragon",
   "upperclass",
   "shinobi",
+  "samhain",
 ];

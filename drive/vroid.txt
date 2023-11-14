@@ -19,6 +19,7 @@ naomi-assassin.vroid
 naomi-astromancer.vroid
 naomi-asymmetrical.vroid
 naomi-baggy.vroid
+naomi-bakery.vroid
 naomi-ball.vroid
 naomi-ballgown.vroid
 naomi-bandages.vroid
@@ -194,6 +195,7 @@ naomi-hakama.vroid
 naomi-half-shoulder.vroid
 naomi-half-vest.vroid
 naomi-halter.vroid
+naomi-harley.vroid
 naomi-harness.vroid
 naomi-haunted.vroid
 naomi-healer.vroid
@@ -375,6 +377,7 @@ naomi-saint.vroid
 naomi-sakura-2.vroid
 naomi-sakura-3.vroid
 naomi-sakura.vroid
+naomi-santa-2.vroid
 naomi-santa.vroid
 naomi-sarashi.vroid
 naomi-scarlet.vroid
@@ -496,6 +499,7 @@ naomi-wizard.vroid
 naomi-workout.vroid
 naomi-yakuza.vroid
 naomi-yor.vroid
+naomi-yukata-2.vroid
 naomi-yukata.vroid
 naomi-zen.vroid
 naomi-zero.vroid

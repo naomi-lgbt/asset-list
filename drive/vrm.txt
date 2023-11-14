@@ -19,6 +19,7 @@ Naomi (Assassin).vrm
 Naomi (Astromancer).vrm
 Naomi (Asymmetrical).vrm
 Naomi (Baggy).vrm
+Naomi (Bakery).vrm
 Naomi (Ball).vrm
 Naomi (Ballgown).vrm
 Naomi (Bandages).vrm
@@ -194,6 +195,7 @@ Naomi (Hakama).vrm
 Naomi (Half Shoulder).vrm
 Naomi (Half Vest).vrm
 Naomi (Halter).vrm
+Naomi (Harley).vrm
 Naomi (Harness).vrm
 Naomi (Haunted).vrm
 Naomi (Healer).vrm
@@ -375,6 +377,7 @@ Naomi (Saint).vrm
 Naomi (Sakura 2).vrm
 Naomi (Sakura 3).vrm
 Naomi (Sakura).vrm
+Naomi (Santa 2).vrm
 Naomi (Santa).vrm
 Naomi (Sarashi).vrm
 Naomi (Scarlet).vrm
@@ -496,6 +499,7 @@ Naomi (Wizard).vrm
 Naomi (Workout).vrm
 Naomi (Yakuza).vrm
 Naomi (Yor).vrm
+Naomi (Yukata 2).vrm
 Naomi (Yukata).vrm
 Naomi (Zen).vrm
 Naomi (Zero).vrm

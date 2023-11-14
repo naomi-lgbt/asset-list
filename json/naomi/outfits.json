@@ -4075,5 +4075,41 @@
       "bodysuit": "https://booth.pm/en/items/5229002",
       "dress": "https://booth.pm/en/items/5239763"
     }
+  },
+  {
+    "name": "Casual Yukata",
+    "fileName": "yukata-2.png",
+    "description": "She'll wear this around the house, or among close friends, but for proper outings she prefers her longer yukata.",
+    "alt": "Naomi wearing a short purple yukata, slightly off the shoulder, with a red sash belt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5250620"
+    }
+  },
+  {
+    "name": "Bakery Uniform",
+    "fileName": "bakery.png",
+    "description": "She worked for a family-owned doughnut shop, at one point.",
+    "alt": "Naomi wearing a white shirt, blue skirt, and blue and white checker board apron.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5244408"
+    }
+  },
+  {
+    "name": "Harley Quinn Cosplay",
+    "fileName": "harley.png",
+    "description": "Sometimes the only way to stay sane is to go a little crazy.",
+    "alt": "Naomi wearing a cosplay of Harley Quinn from Suicide Squad.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5161548"
+    }
+  },
+  {
+    "name": "Samhain Santa",
+    "fileName": "santa-2.png",
+    "description": "What if Christmas was on Halloween?",
+    "alt": "Naomi wearing a Santa top and shorts, but gold and black for Halloween.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5219669"
+    }
   }
 ]
