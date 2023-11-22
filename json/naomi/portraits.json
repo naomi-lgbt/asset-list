@@ -294,5 +294,21 @@
     "url": "https://twitter.com/Sleepybleats",
     "alt": "Emote of Naomi sitting on the ground wrapped in a purple blanket.",
     "description": "She loves to be cosy and warm."
+  },
+  {
+    "fileName": "chiblii.png",
+    "name": "Pondering",
+    "artist": "Chiblii",
+    "url": "https://twitter.com/chiblii",
+    "alt": "Naomi sitting on a half-wall, lost in thought.",
+    "description": "She has once again become lost in her thoughts."
+  },
+  {
+    "fileName": "AngelRose.png",
+    "name": "Furry Friends",
+    "artist": "AngelRose",
+    "url": "https://twitter.com/AngelRosePetals",
+    "alt": "Naomi hiding under the couch with a friend as four other furry friends run rampant through the room.",
+    "description": "When you're outnumbered, hiding is the best option."
   }
 ]
