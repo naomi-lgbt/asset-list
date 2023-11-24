@@ -155,6 +155,7 @@ flower.png
 flowy.png
 flutterby.png
 forest.png
+formal-maid.png
 formal.png
 formalwear.png
 french.png
@@ -312,6 +313,7 @@ panda.png
 party.png
 pastel.png
 pattern.png
+patterned.png
 peacock.png
 pencil.png
 penguin.png
@@ -326,6 +328,7 @@ pirate.png
 plaid-2.png
 plaid.png
 police.png
+pompom.png
 poolside.png
 power.png
 preppy.png
@@ -336,6 +339,7 @@ prim.png
 princess-2.png
 princess.png
 professional.png
+programmer.png
 pumpkin.png
 punk-2.png
 punk.png
@@ -383,6 +387,7 @@ sarashi.png
 scarlet.png
 school-2.png
 school.png
+seraph.png
 shaman.png
 shark.png
 shawl.png
@@ -404,6 +409,7 @@ slime.png
 slit-2.png
 slit.png
 snake.png
+snow-2.png
 snow.png
 snowflake.png
 sorceress.png
@@ -414,6 +420,7 @@ specops.png
 spider-2.png
 spider.png
 spidergwen.png
+splatfest.png
 spoopy-2.png
 spoopy.png
 sportwear.png
@@ -497,6 +504,7 @@ witch-3.png
 witch.png
 wizard.png
 workout.png
+yae.png
 yakuza.png
 yor.png
 yukata-2.png
