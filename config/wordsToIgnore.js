@@ -96,4 +96,10 @@ module.exports = [
   "upperclass",
   "shinobi",
   "samhain",
+  "honkai",
+  "yae",
+  "guuji",
+  "narukami",
+  "splatfest",
+  "inkopolis",
 ];

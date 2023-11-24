@@ -155,6 +155,7 @@ Naomi (Flower).vrm
 Naomi (Flowy).vrm
 Naomi (Flutterby).vrm
 Naomi (Forest).vrm
+Naomi (Formal Maid).vrm
 Naomi (Formal).vrm
 Naomi (Formalwear).vrm
 Naomi (French).vrm
@@ -312,6 +313,7 @@ Naomi (Panda).vrm
 Naomi (Party).vrm
 Naomi (Pastel).vrm
 Naomi (Pattern).vrm
+Naomi (Patterned).vrm
 Naomi (Peacock).vrm
 Naomi (Pencil).vrm
 Naomi (Penguin).vrm
@@ -326,6 +328,7 @@ Naomi (Pirate).vrm
 Naomi (Plaid 2).vrm
 Naomi (Plaid).vrm
 Naomi (Police).vrm
+Naomi (PomPom).vrm
 Naomi (Poolside).vrm
 Naomi (Power).vrm
 Naomi (Preppy).vrm
@@ -336,6 +339,7 @@ Naomi (Prim).vrm
 Naomi (Princess 2).vrm
 Naomi (Princess).vrm
 Naomi (Professional).vrm
+Naomi (Programmer).vrm
 Naomi (Pumpkin).vrm
 Naomi (Punk 2).vrm
 Naomi (Punk).vrm
@@ -383,6 +387,7 @@ Naomi (Sarashi).vrm
 Naomi (Scarlet).vrm
 Naomi (School 2).vrm
 Naomi (School).vrm
+Naomi (Seraph).vrm
 Naomi (Shaman).vrm
 Naomi (Shark).vrm
 Naomi (Shawl).vrm
@@ -404,6 +409,7 @@ Naomi (Slime).vrm
 Naomi (Slit 2).vrm
 Naomi (Slit).vrm
 Naomi (Snake).vrm
+Naomi (Snow 2).vrm
 Naomi (Snow).vrm
 Naomi (Snowflake).vrm
 Naomi (Sorceress).vrm
@@ -414,6 +420,7 @@ Naomi (SpecOps).vrm
 Naomi (Spider 2).vrm
 Naomi (Spider).vrm
 Naomi (SpiderGwen).vrm
+Naomi (Splatfest).vrm
 Naomi (Spoopy 2).vrm
 Naomi (Spoopy).vrm
 Naomi (Sportwear).vrm
@@ -497,6 +504,7 @@ Naomi (Witch 3).vrm
 Naomi (Witch).vrm
 Naomi (Wizard).vrm
 Naomi (Workout).vrm
+Naomi (Yae).vrm
 Naomi (Yakuza).vrm
 Naomi (Yor).vrm
 Naomi (Yukata 2).vrm

@@ -4111,5 +4111,81 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5219669"
     }
+  },
+  {
+    "name": "Seraphim",
+    "fileName": "seraph.png",
+    "description": "When her powers of light are at their peak, she can manifest a set of wings.",
+    "alt": "Naomi wearing a white blouse with a brown bodice, skirt, and stockings.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5274715"
+    }
+  },
+  {
+    "name": "Snow Hoodie",
+    "fileName": "snow-2.png",
+    "description": "Reminds her of the patterns that form on a frozen window.",
+    "alt": "Naomi wearing a white hoodie with a snowflake-patterned hem and a blue skirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5280715"
+    }
+  },
+  {
+    "name": "Programmer Outfit",
+    "fileName": "programmer.png",
+    "description": "The closest she'll ever get to wearing programming socks.",
+    "alt": "Naomi wearing a purple shirt with the JavaScript logo, a purple mini skirt, and purple and grey striped socks.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5276839",
+      "skirt": "https://store.steampowered.com/app/1486350/VRoid_Studio_v1190/",
+      "socks": "https://store.steampowered.com/app/1486350/VRoid_Studio_v1190/"
+    }
+  },
+  {
+    "name": "Patterns",
+    "fileName": "patterned.png",
+    "description": "They totally clash, but she kind of likes that about it.",
+    "alt": "Naomi wearing a plaid purple flannel shirt and a pink and blue mini skirt with a Halloween pattern.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5267020",
+      "skirt": "https://booth.pm/en/items/5278705"
+    }
+  },
+  {
+    "name": "PomPom Cosplay",
+    "fileName": "pompom.png",
+    "description": "Pom-Pom can't go outside, yet even from here, the stars are still so pretty to look at.",
+    "alt": "Naomi wearing a cosplay of Pom-Pom from Honkai Star Rail",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5268234",
+      "hat": "https://booth.pm/en/items/5268233"
+    }
+  },
+  {
+    "name": "Yae Miko Cosplay",
+    "fileName": "yae.png",
+    "description": "I am the Guuji of the Grand Narukami Shrine.",
+    "alt": "Naomi wearing a cosplay of Yae Miko from Genshin Impact",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5265428"
+    }
+  },
+  {
+    "name": "Formal Maid Outfit",
+    "fileName": "formal-maid.png",
+    "description": "For the clients who demand a more professional appearance.",
+    "alt": "Naomi wearing a traditional maid outfit with an ankle-length skirt and full-length sleeves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5278064"
+    }
+  },
+  {
+    "name": "Splatfest Outfit",
+    "fileName": "splatfest.png",
+    "description": "Sometimes the citizens of Inkopolis just wanna party, you know? To satisfy this urge, they throw an event called a Splatfest.",
+    "alt": "Naomi wearing a pink tie dye shirt and black leggings with a pink stripe.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5262229"
+    }
   }
 ]

@@ -155,6 +155,7 @@ naomi-flower.vroid
 naomi-flowy.vroid
 naomi-flutterby.vroid
 naomi-forest.vroid
+naomi-formal-maid.vroid
 naomi-formal.vroid
 naomi-formalwear.vroid
 naomi-french.vroid
@@ -312,6 +313,7 @@ naomi-panda.vroid
 naomi-party.vroid
 naomi-pastel.vroid
 naomi-pattern.vroid
+naomi-patterned.vroid
 naomi-peacock.vroid
 naomi-pencil.vroid
 naomi-penguin.vroid
@@ -326,6 +328,7 @@ naomi-pirate.vroid
 naomi-plaid-2.vroid
 naomi-plaid.vroid
 naomi-police.vroid
+naomi-pompom.vroid
 naomi-poolside.vroid
 naomi-power.vroid
 naomi-preppy.vroid
@@ -336,6 +339,7 @@ naomi-prim.vroid
 naomi-princess-2.vroid
 naomi-princess.vroid
 naomi-professional.vroid
+naomi-programmer.vroid
 naomi-pumpkin.vroid
 naomi-punk-2.vroid
 naomi-punk.vroid
@@ -383,6 +387,7 @@ naomi-sarashi.vroid
 naomi-scarlet.vroid
 naomi-school-2.vroid
 naomi-school.vroid
+naomi-seraph.vroid
 naomi-shaman.vroid
 naomi-shark.vroid
 naomi-shawl.vroid
@@ -404,6 +409,7 @@ naomi-slime.vroid
 naomi-slit-2.vroid
 naomi-slit.vroid
 naomi-snake.vroid
+naomi-snow-2.vroid
 naomi-snow.vroid
 naomi-snowflake.vroid
 naomi-sorceress.vroid
@@ -414,6 +420,7 @@ naomi-specops.vroid
 naomi-spider-2.vroid
 naomi-spider.vroid
 naomi-spidergwen.vroid
+naomi-splatfest.vroid
 naomi-spoopy-2.vroid
 naomi-spoopy.vroid
 naomi-sportwear.vroid
@@ -497,6 +504,7 @@ naomi-witch-3.vroid
 naomi-witch.vroid
 naomi-wizard.vroid
 naomi-workout.vroid
+naomi-yae.vroid
 naomi-yakuza.vroid
 naomi-yor.vroid
 naomi-yukata-2.vroid
