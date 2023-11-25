@@ -104,6 +104,7 @@ Naomi (Corpse).vrm
 Naomi (Corset 2).vrm
 Naomi (Corset 3).vrm
 Naomi (Corset 4).vrm
+Naomi (Corset 5).vrm
 Naomi (Corset).vrm
 Naomi (Crimson).vrm
 Naomi (Croptop 2).vrm
