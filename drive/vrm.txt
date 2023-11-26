@@ -55,6 +55,7 @@ Naomi (Boss).vrm
 Naomi (Brocade).vrm
 Naomi (Broken Heart).vrm
 Naomi (Bubbles).vrm
+Naomi (Bulletproof).vrm
 Naomi (Bun).vrm
 Naomi (Bunmaid).vrm
 Naomi (Bunny 2).vrm
@@ -104,6 +105,7 @@ Naomi (Corpse).vrm
 Naomi (Corset 2).vrm
 Naomi (Corset 3).vrm
 Naomi (Corset 4).vrm
+Naomi (Corset 5).vrm
 Naomi (Corset).vrm
 Naomi (Crimson).vrm
 Naomi (Croptop 2).vrm
@@ -416,6 +418,7 @@ Naomi (Sorceress).vrm
 Naomi (Space 2).vrm
 Naomi (Space).vrm
 Naomi (Sparkle).vrm
+Naomi (Sparring).vrm
 Naomi (SpecOps).vrm
 Naomi (Spider 2).vrm
 Naomi (Spider).vrm
