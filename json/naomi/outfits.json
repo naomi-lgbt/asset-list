@@ -4189,6 +4189,25 @@
     }
   },
   {
+    "name": "Sparring Outfit",
+    "fileName": "sparring.png",
+    "description": "For those times she had to practise fighting with her comrades at the military school.",
+    "alt": "Naomi wearing a purple and white stripped tank top and black tight pants with weapon belts.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5265578",
+      "pants": "https://booth.pm/en/items/5287857"
+    }
+  },
+  {
+    "name": "Bulletproof Outfit",
+    "fileName": "bulletproof.png",
+    "description": "It looks like a normal outfit, but is made of bulletproof cloth. Ideal for clandestine missions that may get dangerous.",
+    "alt": "Naomi wearing a black sleeveless top with a long sleeved crop jacket, and black leggings.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5288332"
+    }
+  },
+  {
     "name": "Corset and Skirt",
     "fileName": "corset-5.png",
     "description": "It came with a hoodie too, but she thought it looked better without.",

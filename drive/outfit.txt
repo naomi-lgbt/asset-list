@@ -55,6 +55,7 @@ boss.png
 brocade.png
 broken-heart.png
 bubbles.png
+bulletproof.png
 bun.png
 bunmaid.png
 bunny-2.png
@@ -417,6 +418,7 @@ sorceress.png
 space-2.png
 space.png
 sparkle.png
+sparring.png
 specops.png
 spider-2.png
 spider.png

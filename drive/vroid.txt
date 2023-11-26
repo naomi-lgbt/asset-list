@@ -55,6 +55,7 @@ naomi-boss.vroid
 naomi-brocade.vroid
 naomi-broken-heart.vroid
 naomi-bubbles.vroid
+naomi-bulletproof.vroid
 naomi-bun.vroid
 naomi-bunmaid.vroid
 naomi-bunny-2.vroid
@@ -417,6 +418,7 @@ naomi-sorceress.vroid
 naomi-space-2.vroid
 naomi-space.vroid
 naomi-sparkle.vroid
+naomi-sparring.vroid
 naomi-specops.vroid
 naomi-spider-2.vroid
 naomi-spider.vroid
