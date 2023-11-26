@@ -4206,5 +4206,15 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5288332"
     }
+  },
+  {
+    "name": "Corset and Skirt",
+    "fileName": "corset-5.png",
+    "description": "It came with a hoodie too, but she thought it looked better without.",
+    "alt": "Naomi wearing a black leather corset and matching leather skirt.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5284827",
+      "skirt": "https://booth.pm/en/items/5285435"
+    }
   }
 ]
