@@ -104,6 +104,7 @@ corpse.png
 corset-2.png
 corset-3.png
 corset-4.png
+corset-5.png
 corset.png
 crimson.png
 croptop-2.png

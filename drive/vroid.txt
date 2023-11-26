@@ -104,6 +104,7 @@ naomi-corpse.vroid
 naomi-corset-2.vroid
 naomi-corset-3.vroid
 naomi-corset-4.vroid
+naomi-corset-5.vroid
 naomi-corset.vroid
 naomi-crimson.vroid
 naomi-croptop-2.vroid
