@@ -1,4 +1,4 @@
-name: CDN Validation
+name: Google Drive Validation
 on:
   pull_request:
     branches:
@@ -29,8 +29,11 @@ jobs:
         with:
           version: 8
 
+      - name: Load Token
+        run: echo ${{ secrets.TOKEN }} > ./drive/token.json
+
       - name: Install Dependencies
         run: pnpm install
 
       - name: Run Tests
-        run: pnpm run test:cdn
+        run: pnpm run test:drive
