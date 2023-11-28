@@ -4216,5 +4216,91 @@
       "top": "https://booth.pm/en/items/5284827",
       "skirt": "https://booth.pm/en/items/5285435"
     }
+  },
+  {
+    "name": "Amazon Armour",
+    "fileName": "amazon.png",
+    "description": "Does this even count as armour at this point?",
+    "alt": "Naomi wearing a red cross bikini and skirt, with shoulder and hip plates and metal arm bands.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4908421",
+      "skirt": "https://booth.pm/en/items/4908420",
+      "gloves": "https://booth.pm/en/items/4908423"
+    }
+  },
+  {
+    "name": "Hazmat Suit",
+    "fileName": "hazmat.png",
+    "description": "Theoretically rated for hazardous material handling, though that might require wearing the gloves and boots.",
+    "alt": "Naomi wearing a black jumpsuit with pink and neon green accents.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4890514"
+    }
+  },
+  {
+    "name": "Triforce Toga",
+    "fileName": "toga.png",
+    "description": "If Link wore a toga it would probably look like this.",
+    "alt": "Naomi wearing a green and brown toga with a triforce pattern on the hem.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4878158"
+    }
+  },
+  {
+    "name": "Shrine Garb",
+    "fileName": "shrine-2.png",
+    "description": "She will never turn down a new outfit in this style.",
+    "alt": "Naomi wearing a strapless dress in the style of a shrine maiden.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4870944"
+    }
+  },
+  {
+    "name": "Pearlescent Outfit",
+    "fileName": "pearl.png",
+    "description": "It's probably a dated style at this point, but the shininess caught her eye.",
+    "alt": "Naomi wearing a blue cropped tank top with a pink pearlescent jacket and a white pearlescent skirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4841073"
+    }
+  },
+  {
+    "name": "Sukajan",
+    "fileName": "sukajan.png",
+    "description": "Typically a sukajan is just the jacket, but this one came with matching pants.",
+    "alt": "Naomi wearing a blue jacket with white sleeves and matching bell-bottom pants.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4803808",
+      "bra": "https://booth.pm/en/items/5280718"
+    }
+  },
+  {
+    "name": "Do What You Love",
+    "fileName": "dwyl.png",
+    "description": "There's a joke to be made in there somewhere.",
+    "alt": "Naomi wearing a green cropped shirt with the text 'do what you love', and black distressed skinny jeans.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5294459",
+      "pants": "https://booth.pm/en/items/5294454"
+    }
+  },
+  {
+    "name": "Summertime Dress",
+    "fileName": "summertime.png",
+    "description": "Really meant for the cool summer evenings, where the wind can still carry a chill.",
+    "alt": "Naomi wearing a teal top with a chest window and a matching teal slit skirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4804165"
+    }
+  },
+  {
+    "name": "Oversized Mori Shirt",
+    "fileName": "mori.png",
+    "description": "Mori Calliope was one of the first VTubers Naomi had ever heard of.",
+    "alt": "Naomi wearing an oversized t-shirt with Mori Calliope on it, and blue stockings.",
+    "credits": {
+      "top": "https://booth.pm/en/items/4851709",
+      "stockings": "https://booth.pm/en/items/5282910"
+    }
   }
 ]
