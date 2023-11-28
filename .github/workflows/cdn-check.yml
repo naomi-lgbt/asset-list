@@ -5,6 +5,7 @@ on:
       - main
     paths:
       - json/**/*.json
+  workflow_dispatch:
 
 jobs:
   ci:
