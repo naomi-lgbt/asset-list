@@ -1,1 +1,7 @@
 Credentials go in here.
+
+Note to self because I WILL forget. To get the token JSON into GitHub secrets:
+
+cat ./drive/token.json | base64 > temp.txt
+Remove ALL line breaks from the file (yes even the trailing NL)
+Paste the SINGLE line into the action secret.
