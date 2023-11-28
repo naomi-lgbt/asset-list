@@ -102,4 +102,7 @@ module.exports = [
   "narukami",
   "splatfest",
   "inkopolis",
+  "pearlescent",
+  "sukajan",
+  "mori",
 ];
