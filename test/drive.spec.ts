@@ -2,122 +2,112 @@ import { readFile } from "fs/promises";
 import { join } from "path";
 
 import { assert } from "chai";
+import { google } from "googleapis";
 
-import { OutfitData } from "../src/interfaces/Data";
+import Outfits from "../json/naomi/outfits.json";
 
 suite("google drive validation", () => {
-  test("should have parity between VROID and VRM/PNG files", async () => {
-    const outfitFiles = (
-      await readFile(join(process.cwd(), "drive", "outfit.txt"), "utf-8")
-    )
-      .trim()
-      .split("\n")
-      .map((file) => file.replace(".png", ""));
-    const vrmFiles = (
-      await readFile(join(process.cwd(), "drive", "vrm.txt"), "utf-8")
-    )
-      .trim()
-      .split("\n")
-      .map((file) =>
-        file
-          .replace(/Naomi \((.*)\)\.vrm/, "$1")
-          .toLowerCase()
-          .replace(/\s+/g, "-")
-      );
-    const vroidFiles = (
-      await readFile(join(process.cwd(), "drive", "vroid.txt"), "utf-8")
-    )
-      .trim()
-      .split("\n")
-      .map((file) =>
-        file
-          .replace(".vroid", "")
-          .replace(/^naomi-/, "")
-          .replace(/\s+/g, "-")
-      );
-    const uniqueVroid = vroidFiles.filter(
-      (el) => vroidFiles.indexOf(el) !== vroidFiles.lastIndexOf(el)
-    );
-    const uniqueVrm = vrmFiles.filter(
-      (el) => vrmFiles.indexOf(el) !== vrmFiles.lastIndexOf(el)
-    );
-    const uniqueOutfit = outfitFiles.filter(
-      (el) => outfitFiles.indexOf(el) !== outfitFiles.lastIndexOf(el)
-    );
-    assert.lengthOf(
-      uniqueVroid,
-      0,
-      `${uniqueVroid.join(", ")} appear to be duplicates.`
-    );
-    assert.lengthOf(
-      uniqueVrm,
-      0,
-      `${uniqueVrm.join(", ")} appear to be duplicates.`
-    );
-    assert.lengthOf(
-      uniqueOutfit,
-      0,
-      `${uniqueOutfit.join(", ")} appear to be duplicates.`
-    );
-    const missingVroidFromOutfits = outfitFiles.filter(
-      (file) => !vroidFiles.includes(file)
-    );
-    const missingVroidFromVrms = vrmFiles.filter(
-      (file) => !vroidFiles.includes(file)
-    );
-    const missingOutfitForVroid = vroidFiles.filter(
-      (file) => !outfitFiles.includes(file)
-    );
-    const missingVrmForVroid = vroidFiles.filter(
-      (file) => !vrmFiles.includes(file)
-    );
-    assert.lengthOf(
-      missingVroidFromOutfits,
-      0,
-      `Outfit file **${missingVroidFromOutfits.join(
-        ", "
-      )}** missing corresponding VRoid file.`
-    );
-    assert.lengthOf(
-      missingVroidFromVrms,
-      0,
-      `VRM file **${missingVroidFromVrms.join(
-        ", "
-      )}** missing corresponding VRoid file.`
-    );
-    assert.lengthOf(
-      missingOutfitForVroid,
-      0,
-      `VRoid file **${missingOutfitForVroid.join(
-        ", "
-      )}** missing corresponding outfit file.`
-    );
-    assert.lengthOf(
-      missingVrmForVroid,
-      0,
-      `VRoid file **${missingVroidFromOutfits.join(
-        ", "
-      )}** missing corresponding VRM file.`
-    );
-    // sanity checking
-    assert.equal(vrmFiles.length, vroidFiles.length);
-    assert.equal(outfitFiles.length, vroidFiles.length);
-  });
-
-  test("should have all png files for registered outfits", async () => {
-    const json = (await import(`../json/naomi/outfits.json`))
-      .default as OutfitData[];
-    const outfitFiles = await readFile(
-      join(process.cwd(), "drive", "outfit.txt"),
+  test("should have necessary file parity", async () => {
+    const tokenContent = await readFile(
+      join(process.cwd(), "drive", "token.json"),
       "utf-8"
     );
-    const outfitList = outfitFiles.trim().split("\n");
-    for (const outfit of json) {
-      assert.include(
-        outfitList,
-        outfit.fileName,
-        `${outfit.fileName} is not found in Google Drive!`
-      );
+    const credentials = JSON.parse(tokenContent);
+    const client = google.auth.fromJSON(credentials);
+    // @ts-expect-error can't figure out the typedef here
+    const drive = google.drive({ version: "v3", auth: client });
+
+    const vroidFileList = await drive.files.list({
+      pageSize: 1000,
+      q: "'1bfNwGBsaUiwppbygC_KK7IcKiF6zBb4_' in parents and trashed = false and mimeType != 'application/vnd.google-apps.folder'",
+    });
+    const VRMFileList = await drive.files.list({
+      pageSize: 1000,
+      q: "'1-vVfHFpcyyQYAwoM4jyvuPie1eJX1mGN' in parents and trashed = false and mimeType != 'application/vnd.google-apps.folder'",
+    });
+    const outfitFileList = await drive.files.list({
+      pageSize: 1000,
+      q: "'1O1izkpzFkcmf0mtFWXEl0SodctbM1lmJ' in parents and trashed = false and mimeType != 'application/vnd.google-apps.folder'",
+    });
+
+    if (
+      !vroidFileList.data.files?.length ||
+      !VRMFileList.data.files?.length ||
+      !outfitFileList.data.files?.length
+    ) {
+      assert.fail("Unable to load file list from Drive.");
+      return;
     }
+
+    const vroidFiles = vroidFileList.data.files
+      ?.map((f) =>
+        f.name
+          ?.replace(".vroid", "")
+          .replace(/^naomi-/, "")
+          .replace(/\s+/g, "-")
+      )
+      .filter(Boolean);
+    const VRMFiles = VRMFileList.data.files
+      ?.map((f) =>
+        f.name
+          ?.replace(/Naomi \((.*)\)\.vrm/, "$1")
+          .toLowerCase()
+          .replace(/\s+/g, "-")
+      )
+      .filter(Boolean);
+    const outfitFiles = outfitFileList.data.files
+      ?.map((f) => f.name?.replace(".png", ""))
+      .filter(Boolean);
+    const outfitFileNames = outfitFileList.data.files
+      .map((f) => f.name)
+      .filter(Boolean);
+
+    const missingVRMFiles = vroidFiles.filter((f) => !VRMFiles.includes(f));
+    const missingOutfitFiles = vroidFiles.filter(
+      (f) => !outfitFiles.includes(f)
+    );
+    const missingVroidFilesFromOutfit = outfitFiles.filter(
+      (f) => !vroidFiles.includes(f)
+    );
+    const missingVroidFilesFromVRM = VRMFiles.filter(
+      (f) => !vroidFiles.includes(f)
+    );
+    const missingDriveFilesFromVroid = Outfits.filter(
+      (o) => !outfitFileNames.includes(o.fileName)
+    );
+
+    assert.lengthOf(
+      missingVRMFiles,
+      0,
+      `Following VROID files do not have a VRM: ${missingVRMFiles.join("\n")}`
+    );
+    assert.lengthOf(
+      missingOutfitFiles,
+      0,
+      `Following VROID files do not have an outfit: ${missingOutfitFiles.join(
+        "\n"
+      )}`
+    );
+    assert.lengthOf(
+      missingVroidFilesFromOutfit,
+      0,
+      `Following outfit files do not have a VROID: ${missingVroidFilesFromOutfit.join(
+        "\n"
+      )}`
+    );
+    assert.lengthOf(
+      missingVroidFilesFromVRM,
+      0,
+      `Following VRM files do not have a VROID: ${missingVroidFilesFromVRM.join(
+        "\n"
+      )}`
+    );
+    assert.lengthOf(
+      missingDriveFilesFromVroid,
+      0,
+      `Following outfits in CDN are not on drive: ${missingDriveFilesFromVroid.join(
+        "\n"
+      )}`
+    );
   });
 });

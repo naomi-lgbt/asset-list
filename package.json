@@ -11,7 +11,7 @@
     "postspellcheck": "rm -rf temp",
     "test": "ts-mocha -u tdd 'test/**/*.spec.ts' -exclude test/cdn.spec.ts --exclude test/drive.spec.ts --recursive --timeout 10000",
     "test:cdn": "ts-mocha -u tdd 'test/cdn.spec.ts' --timeout 10000",
-    "test:drive": "ts-mocha -u tdd 'test/drive.spec.ts' --timeout 10000",
+    "test:drive": "ts-mocha -u tdd 'test/drive.spec.ts' --timeout 20000",
     "count": "ts-node src/counts.ts",
     "list-different": "ts-ndoe src/listDifferent.ts",
     "picrew": "ts-node src/picrew.ts"
