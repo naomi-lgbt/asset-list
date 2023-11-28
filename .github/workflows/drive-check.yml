@@ -1,14 +1,15 @@
-name: Node.js CI
+name: Google Drive Validation
 on:
   pull_request:
     branches:
       - main
     paths:
-      - "json/**/*.json"
+      - json/**/*.json
+  workflow_dispatch:
 
 jobs:
   ci:
-    name: Check CDN
+    name: Check that files are correct
     runs-on: ubuntu-20.04
 
     strategy:
@@ -29,8 +30,11 @@ jobs:
         with:
           version: 8
 
+      - name: Load Token
+        run: echo ${{ secrets.TOKEN }} > ./drive/token.json
+
       - name: Install Dependencies
         run: pnpm install
 
       - name: Run Tests
-        run: pnpm run test:cdn
+        run: pnpm run test:drive
