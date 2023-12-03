@@ -23,7 +23,6 @@ import { titleCase } from "./utils/titleCase";
       grandTotal += json.length;
     }
     result += `Total: ${total}\n`;
-    logHandler.log("info", result);
   }
   result += "=== Grand Total ===\n";
   result += `Total assets: ${grandTotal}\n`;
