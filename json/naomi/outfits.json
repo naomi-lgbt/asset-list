@@ -4302,5 +4302,60 @@
       "top": "https://booth.pm/en/items/4851709",
       "stockings": "https://booth.pm/en/items/5282910"
     }
+  },
+  {
+    "name": "Gala Outfit",
+    "fileName": "gala.png",
+    "description": "When an event calls for formal but fun, this is her go-to look.",
+    "alt": "Naomi wearing a purple ruffled dress, skin-coloured tights, and her hair in a side ponytail.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5309145"
+    }
+  },
+  {
+    "name": "shinsengumi Kimono",
+    "fileName": "shinsengumi.png",
+    "description": "On one of her adventures, she became recognised as a very proficient samurai.",
+    "alt": "Naomi wearing a black inner top and hakama skirt, and a blue kimono robe.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5299283"
+    }
+  },
+  {
+    "name": "Adventurer Gear",
+    "fileName": "adventurer.png",
+    "description": "Keeps her protected when diving into a cave, but cool during the physical exertion of combat.",
+    "alt": "Naomi wearing a white top, puffed black shorts, white stockings, and black gloves.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5299654",
+      "outfit": "https://booth.pm/en/items/5309304"
+    }
+  },
+  {
+    "name": "Coven Gown",
+    "fileName": "coven.png",
+    "description": "The standard attire for leading her coven through a ritual.",
+    "alt": "Naomi wearing a black dress with long flowing sleeves and a chest window.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5308900"
+    }
+  },
+  {
+    "name": "Dress with Bow",
+    "fileName": "bow.png",
+    "description": "She doesn't have much to say about this one, other than it was cute.",
+    "alt": "Naomi wearing a black overcoat styled dress with a purple bow.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5294696"
+    }
+  },
+  {
+    "name": "Nanchatte Hakama",
+    "fileName": "nanchatte.png",
+    "description": "She was told that 'nanchatte' refers to the school life aesthetic? She doesn't see it though.",
+    "alt": "Naomi wearing a red hakama with floral patterns.",
+    "credits": {
+      "outfit": "nanchatte"
+    }
   }
 ]

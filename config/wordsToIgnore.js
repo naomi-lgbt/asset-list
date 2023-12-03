@@ -105,4 +105,6 @@ module.exports = [
   "pearlescent",
   "sukajan",
   "mori",
+  "shinsengumi",
+  "nanchatte",
 ];
