@@ -107,4 +107,5 @@ module.exports = [
   "mori",
   "shinsengumi",
   "nanchatte",
+  "anri",
 ];

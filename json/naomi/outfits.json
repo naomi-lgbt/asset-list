@@ -4357,5 +4357,59 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5308989"
     }
+  },
+  {
+    "name": "Special Agent",
+    "fileName": "agent.png",
+    "description": "Her uniform while she was performing classified operations for a classified military organisation.",
+    "alt": "Naomi wearing a white cropped button up, black shorts, and black stockings, with a gun holster and three throwing knives.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5310841"
+    }
+  },
+  {
+    "name": "ANRI Arcane",
+    "fileName": "anri.png",
+    "description": "She can't sing though...",
+    "alt": "Naomi wearing a cosplay of ANRI Arcane from Synthesiser V5",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5313399"
+    }
+  },
+  {
+    "name": "Cyber Inferno",
+    "fileName": "inferno.png",
+    "description": "Cybernetically enhanced to provide her heat protection AND is stylish.",
+    "alt": "Naomi wearing a purple and blue patterned suit.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5325068"
+    }
+  },
+  {
+    "name": "Stranded",
+    "fileName": "stranded.png",
+    "description": "Her boat sank, and she had to survive on a deserted island.",
+    "alt": "Naomi wearing a tattered yellow top and tattered blue jeans.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5317576"
+    }
+  },
+  {
+    "name": "Winter Maid",
+    "fileName": "maid-6.png",
+    "description": "While still not very warm, it's better than most of her maid uniforms during the colder months.",
+    "alt": "Naomi wearing a long black maid dress with a white apron, ruffles, and flower pattern.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5313302"
+    }
+  },
+  {
+    "name": "Student Witch",
+    "fileName": "student.png",
+    "description": "She did a brief stint at another wizardry school, but left when she realised she was not welcome.",
+    "alt": "Naomi wearing a black robe and miniskirt with green hems, and a grey shirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5321580"
+    }
   }
 ]
