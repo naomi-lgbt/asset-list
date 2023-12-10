@@ -4411,5 +4411,65 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5321580"
     }
+  },
+  {
+    "name": "Fruit Pursuits Cosplay",
+    "fileName": "fruit.png",
+    "description": "Naomi cosplaying as one of her partners.",
+    "alt": "Naomi wearing a pink off-shoulder sweater and blue skinny jeans.",
+    "credits": {
+      "hair": "https://booth.pm/en/items/4755279",
+      "top": "https://booth.pm/en/items/3534553",
+      "pants": "https://booth.pm/en/items/3672735"
+    }
+  },
+  {
+    "name": "Modest Santa",
+    "fileName": "santa-3.png",
+    "description": "This one is a bit more modest than some of her other Christmas outfits.",
+    "alt": "Naomi wearing a sleeveless red santa dress with white fur hems, and red and white wristbands.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5327345"
+    }
+  },
+  {
+    "name": "Sailor Fuku",
+    "fileName": "sailor-fuku.png",
+    "description": "It wasn't one of her uniforms. She just thought it was cute.",
+    "alt": "Naomi wearing a black sailor fuku with white stripes on the hems and a red tie.",
+    "credits": {
+      "hair": "https://booth.pm/en/items/4994127",
+      "outfit": "https://booth.pm/en/items/5326712"
+    }
+  },
+  {
+    "name": "Brat",
+    "fileName": "brat.png",
+    "description": "She doesn't always feel like being an obedient, good girl.",
+    "alt": "Naomi wearing a tight white shirt with the text 'Brat' and red skinny jeans.",
+    "credits": {
+      "hair": "https://booth.pm/en/items/4363685",
+      "top": "https://booth.pm/en/items/5327443",
+      "pants": "https://booth.pm/en/items/4827706"
+    }
+  },
+  {
+    "name": "Geisha",
+    "fileName": "geisha.png",
+    "description": "It takes her hours do get her hair done up for this outfit.",
+    "alt": "Naomi wearing a pink kimono with a sakura pattern.",
+    "credits": {
+      "hair": "https://booth.pm/en/items/4858159",
+      "outfit": "https://booth.pm/en/items/5038890"
+    }
+  },
+  {
+    "name": "Blue Butterfly",
+    "fileName": "blue-butterfly.png",
+    "description": "Summery and fun, and she loves the butterfly motif.",
+    "alt": "Naomi wearing a blue strapless dress with butterflies on it.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4997121"
+    }
   }
 ]
