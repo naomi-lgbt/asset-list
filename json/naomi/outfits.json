@@ -4471,5 +4471,78 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/4997121"
     }
+  },
+  {
+    "name": "Caped Dress",
+    "fileName": "caped.png",
+    "description": "The tag said it was a Christmas dress, but she doesn't see it.",
+    "alt": "Naomi wearing a white dress with a hoop skirt and a grey shoulder cape.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5350875"
+    }
+  },
+  {
+    "name": "Swashbuckler Dress",
+    "fileName": "swashbuckler.png",
+    "description": "The cool thing about this outfit is it makes for great pirate gear, but seems elegant enough that she can also play it off as a normal dress.",
+    "alt": "Naomi wearing a blue petticoat, brown corset, and white skirt with a sheer white bodysuit.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5348358"
+    }
+  },
+  {
+    "name": "Dancing Gear",
+    "fileName": "dancing.png",
+    "description": "Not really meant for actual performances, she wears this when she's practising a new dance routine. Or martial arts.",
+    "alt": "Naomi wearing a loose black cropped tee and loose black sweatpants.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5345293"
+    }
+  },
+  {
+    "name": "Casual Sweater",
+    "fileName": "sweater-2.png",
+    "description": "Cute and comfy, this makes a nice cosy outfit when she's casually visiting friends.",
+    "alt": "Naomi wearing a red off-shoulder sweater and loose blue denim pants.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5345269"
+    }
+  },
+  {
+    "name": "Anime Shirt",
+    "fileName": "anime-2.png",
+    "description": "It is very true, though. They DON'T exist.",
+    "alt": "Naomi wearing blue jeans and a black shirt that says 'People who don't like anime are not real and should not be trusted'.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5346469",
+      "pants": "https://booth.pm/en/items/5345409"
+    }
+  },
+  {
+    "name": "Office Wear",
+    "fileName": "office.png",
+    "description": "It's rare that she actually has to go in, but when she does this makes a good outfit for it.",
+    "alt": "Naomi wearing a black tight turtle-neck sweater with a blue denim vest and a plaid blue skirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5332206"
+    }
+  },
+  {
+    "name": "Festival Yukata",
+    "fileName": "festival.png",
+    "description": "Light enough for the spring and summer festivals, but still elegant.",
+    "alt": "Naomi wearing a pink floral yukata with a purple overcoat.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5342396"
+    }
+  },
+  {
+    "name": "CiaCia Dress",
+    "fileName": "ciacia.png",
+    "description": "What's it mean? Is it a cosplay? A style of dress? She has no idea, but it's cute!",
+    "alt": "Naomi wearing a black dress with a white apron and black detached sleeves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5346746"
+    }
   }
 ]
