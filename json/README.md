@@ -28,10 +28,6 @@ Here is a list of the available assets:
 - [Art](https://asset-list.naomi.lgbt/json/beccalia/portraits.json)
 - [Koikatsu](https://asset-list.naomi.lgbt/json/beccalia/poses.json)
 
-### Erin
-
-- [Koikatsu](https://asset-list.naomi.lgbt/json/erin/poses.json)
-
 ### Melody
 
 - [Koikatsu](https://asset-list.naomi.lgbt/json/melody/poses.json)
