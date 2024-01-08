@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@google-cloud/local-auth':
-    specifier: 3.0.0
-    version: 3.0.0
+    specifier: 3.0.1
+    version: 3.0.1
   googleapis:
     specifier: 128.0.0
     version: 128.0.0
@@ -464,8 +464,8 @@ packages:
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     dev: true
 
-  /@google-cloud/local-auth@3.0.0:
-    resolution: {integrity: sha512-PfRv6WkjqgqRLGPzhqzjZO+gogNPRDPDWiwq4+1+qn2oIiG0xLEeHfIf0230QzzJmY7yuAbojms/luHczDCVag==}
+  /@google-cloud/local-auth@3.0.1:
+    resolution: {integrity: sha512-YJ3GFbksfHyEarbVHPSCzhKpjbnlAhdzg2SEf79l6ODukrSM1qUOqfopY232Xkw26huKSndyzmJz+A6b2WYn7Q==}
     engines: {node: '>=14.0.0'}
     dependencies:
       arrify: 2.0.1
