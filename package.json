@@ -46,7 +46,7 @@
     "xml2js": "0.6.2"
   },
   "dependencies": {
-    "@google-cloud/local-auth": "3.0.0",
+    "@google-cloud/local-auth": "3.0.1",
     "googleapis": "128.0.0",
     "string-similarity": "4.0.4",
     "winston": "3.11.0"
