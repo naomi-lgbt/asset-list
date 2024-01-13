@@ -4544,5 +4544,99 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5346746"
     }
+  },
+  {
+    "name": "Winter Dress",
+    "fileName": "winter-2.png",
+    "description": "Good for the cold weather, and still classy.",
+    "alt": "Naomi wearing a blue hooded dress with gold filigree, black leggings, and a brown sweater.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5230034"
+    }
+  },
+  {
+    "name": "Pastel Goth",
+    "fileName": "pastel-2.png",
+    "description": "Not quite what the actual fashion trend looks like, but she liked the vibes.",
+    "alt": "Naomi wearing a black tube top and mini skirt, and a pink loose sweater with a bow pattern.",
+    "credits": {
+      "sweater": "https://booth.pm/en/items/5403386",
+      "outfit": "https://booth.pm/en/items/5402364"
+    }
+  },
+  {
+    "name": "Yosakoi Garb",
+    "fileName": "yosakoi.png",
+    "description": "Intended for a specific style of Japanese dance, but Naomi really loved the outfit.",
+    "alt": "Naomi wearing black gi with a pink half-kimono and mesh sleeves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5368090"
+    }
+  },
+  {
+    "name": "Plaid Sundress",
+    "fileName": "plaid-3.png",
+    "description": "Lack of colours and a simpler pattern means she can pair this with many accessories.",
+    "alt": "Naomi wearing a black and grey plaid sundress.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5411334"
+    }
+  },
+  {
+    "name": "Gilded Rose",
+    "fileName": "gilded.png",
+    "description": "Like a rose coated in gold, Naomi's love lasts forever.",
+    "alt": "Naomi wearing a red dress with gold filigree, a red choker with a rose, and a gold laurel with a rose.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5420064"
+    }
+  },
+  {
+    "name": "Denim School Girl",
+    "fileName": "denim.png",
+    "description": "A throwback to her earlier days.",
+    "alt": "Naomi wearing a denim school girl jacket, grey patterned skirt, and her hair in pigtails.",
+    "credits": {
+      "hair": "https://booth.pm/en/items/5383067",
+      "outfit": "https://booth.pm/en/items/5410631"
+    }
+  },
+  {
+    "name": "Dragon Queen",
+    "fileName": "dragon.png",
+    "description": "Her powers actually come from a pact with an eldritch being, but drawing on a draconic bloodline is still well within her domain.",
+    "alt": "Naomi wearing an orange dress with a red scaled skirt, winged ankle cuffs, and horns.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5391517"
+    }
+  },
+  {
+    "name": "Snowy Sweater",
+    "fileName": "snowy.png",
+    "description": "The pattern is cute, but the outfit isn't actually that warm.",
+    "alt": "Naomi wearing a blue sweater with a white snowflake pattern, a blue plaid miniskirt, and blue tights with a snowflake design.",
+    "credits": {
+      "top": "https://booth.pm/en/items/5401790",
+      "leggings": "https://booth.pm/en/items/5401811",
+      "skirt": "https://store.steampowered.com/app/1486350/VRoid_Studio_v1220/"
+    }
+  },
+  {
+    "name": "Company Jumpsuit",
+    "fileName": "lethal.png",
+    "description": "The most paranoid employee.",
+    "alt": "Naomi wearing the jumpsuit from Lethal Company.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5408086"
+    }
+  },
+  {
+    "name": "Wafuku",
+    "fileName": "wafuku.png",
+    "description": "She reserves this kimono for more formal events.",
+    "alt": "Naomi wearing a rainbow gradient kimono with a white wisp design.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5389303"
+    }
   }
 ]

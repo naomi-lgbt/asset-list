@@ -109,4 +109,6 @@ module.exports = [
   "nanchatte",
   "anri",
   "dango",
+  "yosakoi",
+  "wafuku",
 ];
