@@ -4638,5 +4638,72 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5389303"
     }
+  },
+  {
+    "name": "Street Punk",
+    "fileName": "street-2.png",
+    "description": "There are times where she really wants to appear intimidating. This outfit works well for that.",
+    "alt": "Naomi wearing a black loose shirt, black jeans with exposed knees, and black fingerless gloves, all with various silver accessories. Her hair is out of the ponytail.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5442410",
+      "hair": "https://booth.pm/en/items/5441858"
+    }
+  },
+  {
+    "name": "Monk Robe",
+    "fileName": "monk.png",
+    "description": "Even when she's meditating and finding her inner peace, she's still ready for a fight if needed.",
+    "alt": "Naomi wearing a black sleeveless top and shorts, with a purple sleeveless robe and purple wrist and ankle wraps.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5447446"
+    }
+  },
+  {
+    "name": "Robin Cosplay",
+    "fileName": "robin.png",
+    "description": "'I studied up on some practical combat strategies. No one will die on my watch!'",
+    "alt": "Naomi wearing Robin's coat from Fire Emblem Awakenings.",
+    "credits": {
+      "coat": "https://booth.pm/en/items/5450050",
+      "pants": "https://store.steampowered.com/app/1486350/VRoid_Studio_v1190/"
+    }
+  },
+  {
+    "name": "Megumin Cosplay",
+    "fileName": "megumin.png",
+    "description": "'Oh, blackness shrouded in light Frenzied blaze clad in night In the name of the crimson demons, let the collapse of thine origin manifest.'",
+    "alt": "Naomi wearing Megumin's dress from Konosuba.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5450036"
+    }
+  },
+  {
+    "name": "Goromi Dress",
+    "fileName": "goromi.png",
+    "description": "'I know just the thing. Since you're so lonely right now, I'm gonna give ya a hand!'",
+    "alt": "Naomi wearing a short dress made of pink snake-skin, her hair hair up in four ponytails.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5437052",
+      "hair": "https://booth.pm/en/items/5441878"
+    }
+  },
+  {
+    "name": "Ice Cream Kimono",
+    "fileName": "icecream.png",
+    "description": "Doesn't she just look yummy enough to eat?",
+    "alt": "Naomi wearing a pink kimono with an aura of ribbons and hearts and an ice cream motif.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5447598",
+      "hair": "https://booth.pm/en/items/5452012"
+    }
+  },
+  {
+    "name": "Impish Vest",
+    "fileName": "imp.png",
+    "description": "This vest makes her feel just a wee bit impish.",
+    "alt": "Naomi wearing a grey vest, a sleeveless grey tailcoat, and grey bloomer shorts.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5443058"
+    }
   }
 ]
