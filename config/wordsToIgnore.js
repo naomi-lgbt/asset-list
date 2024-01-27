@@ -111,4 +111,7 @@ module.exports = [
   "dango",
   "yosakoi",
   "wafuku",
+  "megumin",
+  "konosuba",
+  "goromi",
 ];
