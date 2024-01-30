@@ -4705,5 +4705,35 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5443058"
     }
+  },
+  {
+    "name": "Nausicaa Cosplay",
+    "fileName": "nausicaa.png",
+    "description": "To Nausicaä, nothing is expendable. Every life is sacred, from the people that killed her friends to the ohmu and insects that live in the toxic.",
+    "alt": "Naomi wearing the dress from Nausicaa: Valley of the Wind.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3373650",
+      "hair": "https://store.steampowered.com/app/1486350/VRoid_Studio_v1220/"
+    }
+  },
+  {
+    "name": "Peach Dress",
+    "fileName": "peach.png",
+    "description": "It had such cute vibes that she needed to get it.",
+    "alt": "Naomi wearing a punk dress with a sakura and honeycomb pattern, white ruffled hems, a pink hair bow, and a pink head band.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/4733418",
+      "hair": "https://booth.pm/en/items/5245658"
+    }
+  },
+  {
+    "name": "Librarian Dress",
+    "fileName": "librarian.png",
+    "description": "Fitting when she needs to be the record-keeper.",
+    "alt": "Naomi wearing a blue dress with a black petticoat, her hair up in a bun.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5243107",
+      "hair": "https://booth.pm/en/items/5329602"
+    }
   }
 ]

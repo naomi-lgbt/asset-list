@@ -114,4 +114,7 @@ module.exports = [
   "megumin",
   "konosuba",
   "goromi",
+  "Nausicaa",
+  "Nausicaä",
+  "ohmu",
 ];
