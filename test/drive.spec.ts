@@ -17,6 +17,12 @@ suite("google drive validation", () => {
     // @ts-expect-error can't figure out the typedef here
     const drive = google.drive({ version: "v3", auth: client });
 
+    const raw = await readFile(
+      join(process.cwd(), "json", "naomi", "outfits.json"),
+      "utf-8"
+    );
+    const fileList = JSON.parse(raw) as { name: string; fileName: string }[];
+
     const vroidFileList = await drive.files.list({
       pageSize: 1000,
       q: "'1bfNwGBsaUiwppbygC_KK7IcKiF6zBb4_' in parents and trashed = false and mimeType != 'application/vnd.google-apps.folder'",
@@ -106,6 +112,18 @@ suite("google drive validation", () => {
       missingDriveFilesFromVroid,
       0,
       `Following outfits in CDN are not on drive: ${missingDriveFilesFromVroid.join(
+        "\n"
+      )}`
+    );
+
+    const missingFromDriveEntirely = fileList.filter(
+      (f) => !outfitFileNames.includes(f.fileName)
+    );
+
+    assert.lengthOf(
+      missingFromDriveEntirely,
+      0,
+      `Following outfits are not found in Drive at all...\n ${missingFromDriveEntirely.join(
         "\n"
       )}`
     );
