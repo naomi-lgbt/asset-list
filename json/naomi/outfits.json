@@ -4735,5 +4735,77 @@
       "outfit": "https://booth.pm/en/items/5243107",
       "hair": "https://booth.pm/en/items/5329602"
     }
+  },
+  {
+    "name": "Purple Pearl Dress",
+    "fileName": "purple-pearl.png",
+    "description": "It's a bit revealing, but she loved the style and had to run with it!",
+    "alt": "Naomi wearing a purple halter top, a purple double-slit skirt, a lavender cape, and black detached sleeves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5546663"
+    }
+  },
+  {
+    "name": "Embroidered Rose",
+    "fileName": "embroidered.png",
+    "description": "Something one might expect a young princess to wear, but Naomi thinks she pulls it off well.",
+    "alt": "Naomi wearing a blue crop top and ruffled hoop skirt, with white frills and a frilled underskirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5534487"
+    }
+  },
+  {
+    "name": "Nightsnow",
+    "fileName": "nightsnow.png",
+    "description": "It's soothing and comfortable, and makes for a great dress for a date night.",
+    "alt": "Naomi wearing a blue dress with white lace and a snowfall pattern.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5533035"
+    }
+  },
+  {
+    "name": "Pearl Princess",
+    "fileName": "pearl-princess.png",
+    "description": "The golden body accents are what really drew her to this dress.",
+    "alt": "Naomi wearing a cream dress with gold leaf across the dress and her arms and legs.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5533575"
+    }
+  },
+  {
+    "name": "Courtroom Attire",
+    "fileName": "courtroom.png",
+    "description": "Naomi has been court martialled only once. Never again.",
+    "alt": "Naomi wearing a black military suit jacket with gold cuffs and black pants with red stripes.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5532975"
+    }
+  },
+  {
+    "name": "Star Mesh Outfit",
+    "fileName": "star-mesh.png",
+    "description": "She cannot wait to take this one to an all-night rave.",
+    "alt": "Naomi wearing a pink polka-dot blouse, a white mesh shawl, and white high-waisted pants with mesh at the knees.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5512343"
+    }
+  },
+  {
+    "name": "Windwaker Cosplay",
+    "fileName": "wind-waker.png",
+    "description": "I coveted that wind, I suppose.",
+    "alt": "Naomi wearing a cosplay of island Link from Legend of Zelda: Windwaker",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5507531"
+    }
+  },
+  {
+    "name": "Frieren Cosplay",
+    "fileName": "frieren.png",
+    "description": "You can just give this kind of thing to men and they will be thrilled.",
+    "alt": "Naomi wearing a cosplay of Frieren.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5495574"
+    }
   }
 ]
