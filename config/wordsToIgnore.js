@@ -117,4 +117,7 @@ module.exports = [
   "Nausicaa",
   "Nausicaä",
   "ohmu",
+  "nightsnow",
+  "windwaker",
+  "frieren",
 ];
