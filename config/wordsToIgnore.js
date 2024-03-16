@@ -120,4 +120,6 @@ module.exports = [
   "nightsnow",
   "windwaker",
   "frieren",
+  "Nier",
+  "Cyberpink",
 ];
