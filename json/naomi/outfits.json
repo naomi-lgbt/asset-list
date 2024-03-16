@@ -4807,5 +4807,113 @@
     "credits": {
       "outfit": "https://booth.pm/en/items/5495574"
     }
+  },
+  {
+    "name": "2B Cosplay",
+    "fileName": "2b.png",
+    "description": "Everything that lives is designed to end. We are perpetually trapped in a never-ending spiral of life and death.",
+    "alt": "Naomi wearing a cosplay of 2B from Nier.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/3680357"
+    }
+  },
+  {
+    "name": "Sylvan Fairy",
+    "fileName": "sylvan-fairy.png",
+    "description": "This was part of a Fairy outfit collection that she really liked.",
+    "alt": "Naomi wearing a white blouse with a lace chest, and a blue skirt with a flower on it.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5514711"
+    }
+  },
+  {
+    "name": "Mist Fairy",
+    "fileName": "mist-fairy.png",
+    "description": "This is the second outfit Naomi grabbed from the Fairy collection.",
+    "alt": "Naomi wearing a white sleeveless blouse and white shorts with tights.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5514714"
+    }
+  },
+  {
+    "name": "Veiled Dancer",
+    "fileName": "veiled-dancer.png",
+    "description": "She truly is an entertainer at heart.",
+    "alt": "Naomi wearing a purple and maroon dancer outfit, with a maroon lace veil.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5554254"
+    }
+  },
+  {
+    "name": "Catherine Cosplay",
+    "fileName": "catherine.png",
+    "description": "Marriage is just a tradition, right? Seriously, who wants to be tied down?",
+    "alt": "Naomi wearing a cosplay of Catherine, from the game Catherine.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5555449"
+    }
+  },
+  {
+    "name": "Yellow Kimono",
+    "fileName": "yellow-kimono.png",
+    "description": "Colours were unique, so she had to have it.",
+    "alt": "Naomi wearing a yellow shrine maiden kimono with a red sash.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5557525"
+    }
+  },
+  {
+    "name": "Sakura School Uniform",
+    "fileName": "sakura-school.png",
+    "description": "It fits the requirements while allowing her to express herself more.",
+    "alt": "Naomi wearing a pink floral kimono top and a blue floral mini skirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5543401"
+    }
+  },
+  {
+    "name": "Green Cape",
+    "fileName": "green-cape.png",
+    "description": "The dress is cute, but the cape makes her feel especially badass.",
+    "alt": "Naomi wearing a black sleeveless dress with a green waistcoat cape and green detached sleeves.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5538467"
+    }
+  },
+  {
+    "name": "Gothic Elegance",
+    "fileName": "gothic-elegance.png",
+    "description": "It's a nice dress, and still elegant enough to wear to work!",
+    "alt": "Naomi wearing a black dress with puffed lace sleeves and gold filigree on the shirt.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5575072"
+    }
+  },
+  {
+    "name": "Rainbow Elegance",
+    "fileName": "rainbow-elegance.png",
+    "description": "It's a little short in the back, but she can still make it work.",
+    "alt": "Naomi wearing a green floral blouse with a long black apron skirt that has a rainbow pattern.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5571147"
+    }
+  },
+  {
+    "name": "Spring Bud",
+    "fileName": "spring-bud.png",
+    "description": "The perfect outfit to usher in a new, warmer season.",
+    "alt": "Naomi wearing a green dress with a pink floral underskirt, leaf accessories, and red floral tights.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5572186"
+    }
+  },
+  {
+    "name": "Cyberpink",
+    "fileName": "cyberpink.png",
+    "description": "Once can never have enough party outfits.",
+    "alt": "Naomi wearing a pink strapped body suit, black crop top exposing most of her torso, and black pants with pink dragons and glow effects.",
+    "credits": {
+      "outfit": "https://booth.pm/en/items/5553552"
+    }
   }
 ]
