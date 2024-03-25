@@ -51,6 +51,6 @@
     "@google-cloud/local-auth": "3.0.1",
     "googleapis": "128.0.0",
     "string-similarity": "4.0.4",
-    "winston": "3.12.0"
+    "winston": "3.13.0"
   }
 }
